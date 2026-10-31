@@ -1,52 +1,60 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-31 22:34 UTC*
+*Last updated: 2026-10-31 23:37 UTC*
 
-**12 new role(s)** since last run · 30 total in last 2h
+**14 new role(s)** since last run · 35 total in last 2h
 
-### [Senior/Lead Software Engineer, Medical Instrumentation](https://www.linkedin.com/jobs/view/4485152663/) — Applikate Technologies Inc
-- 📍 **Location:** New Haven, CT
+### [AI Engineer, AI.x](https://www.linkedin.com/jobs/view/4483965078/) — Charles Schwab
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-31
 
-### [Software Engineer - Oracle Retail Xstore POS](https://www.linkedin.com/jobs/view/4485167732/) — Belk
-- 📍 **Location:** Charlotte, NC
-- 🕒 **Posted:** 2026-10-31
-
-### [Linux Systems Engineer](https://www.linkedin.com/jobs/view/4485156802/) — Belk
-- 📍 **Location:** Charlotte Metro
-- 🕒 **Posted:** 2026-10-31
-
-### [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4485926087/) — AgileGrid Solutions
+### [Python Developer](https://www.linkedin.com/jobs/view/4485925132/) — AgileGrid Solutions
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-31
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4485924271/) — AgileGrid Solutions
-- 📍 **Location:** United States
+### [Software Engineer](https://www.linkedin.com/jobs/view/4485699027/) — Optum
+- 📍 **Location:** Eden Prairie, MN
 - 🕒 **Posted:** 2026-10-31
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4485911809/) — AgileGrid Solutions
-- 📍 **Location:** United States
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4485930115/) — Optum
+- 📍 **Location:** Eden Prairie, MN
 - 🕒 **Posted:** 2026-10-31
 
-### [Software Engineer- Full Stack AI Applications](https://www.linkedin.com/jobs/view/4448467026/) — MPR Associates, Inc.
-- 📍 **Location:** Alexandria, VA
+### [AI Engineer](https://www.linkedin.com/jobs/view/4483952624/) — scalr
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-31
 
-### [Lead AI Software Engineer](https://www.linkedin.com/jobs/view/4448908785/) — Commerce
-- 📍 **Location:** Texas, United States
+### [Data Engineer - Intermediate](https://www.linkedin.com/jobs/view/4483962242/) — USAA
+- 📍 **Location:** Plano, TX
 - 🕒 **Posted:** 2026-10-31
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4485912869/) — AgileGrid Solutions
-- 📍 **Location:** United States
+### [Data Engineer - Intermediate](https://www.linkedin.com/jobs/view/4483956560/) — USAA
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-10-31
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4485906923/) — Thahlan Consulting
-- 📍 **Location:** United States
+### [Manager - Data Engineering](https://www.linkedin.com/jobs/view/4449762196/) — American Eagle Outfitters Inc.
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-10-31
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4483951581/) — Ayeni Solutions
-- 📍 **Location:** Johannesburg Metropolitan Area
+### [AI Software Engineer](https://www.linkedin.com/jobs/view/4485389936/) — Credence
+- 📍 **Location:** Warner Robins, GA
 - 🕒 **Posted:** 2026-10-31
 
-### [ML Engineer](https://www.linkedin.com/jobs/view/4485902759/) — v00w
-- 📍 **Location:** Almaty, Kazakhstan
+### [AI Engineer (Forward Deployed)](https://www.linkedin.com/jobs/view/4483952626/) — scalr
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-31
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4485926219/) — Optum
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-10-31
+
+### [Senior Software Engineer, Android](https://www.linkedin.com/jobs/view/4485915821/) — Knowtex
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Senior Manager, Software Engineering - Remote](https://www.linkedin.com/jobs/view/4485690581/) — Optum
+- 📍 **Location:** Fort Worth, TX
+- 🕒 **Posted:** 2026-10-31
+
+### [Data Engineer - Intermediate](https://www.linkedin.com/jobs/view/4483959323/) — USAA
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-10-31
