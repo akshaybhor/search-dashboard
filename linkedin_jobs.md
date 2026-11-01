@@ -1,60 +1,48 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-31 23:37 UTC*
+*Last updated: 2026-11-01 02:19 UTC*
 
-**14 new role(s)** since last run · 35 total in last 2h
+**11 new role(s)** since last run · 13 total in last 2h
 
-### [AI Engineer, AI.x](https://www.linkedin.com/jobs/view/4483965078/) — Charles Schwab
+### [Software Engineer- Operations and Infrastructure](https://www.linkedin.com/jobs/view/4475163686/) — Visa
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4485925493/) — Nord Resume
+- 📍 **Location:** Huntsville, AL
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer, Multimodal Backend Systems](https://www.linkedin.com/jobs/view/4485924590/) — Nord Resume
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-31
 
-### [Python Developer](https://www.linkedin.com/jobs/view/4485925132/) — AgileGrid Solutions
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4485939003/) — myLaurel®
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-31
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4485699027/) — Optum
-- 📍 **Location:** Eden Prairie, MN
+### [GTM Systems Engineer](https://www.linkedin.com/jobs/view/4485923620/) — Roboflow
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-31
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4485930115/) — Optum
-- 📍 **Location:** Eden Prairie, MN
+### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4483969118/) — Domino's
+- 📍 **Location:** Ann Arbor, MI
 - 🕒 **Posted:** 2026-10-31
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4483952624/) — scalr
-- 📍 **Location:** San Francisco Bay Area
+### [Associate, Software Engineer](https://www.linkedin.com/jobs/view/4473092024/) — Morgan Stanley
+- 📍 **Location:** Alpharetta, GA
 - 🕒 **Posted:** 2026-10-31
 
-### [Data Engineer - Intermediate](https://www.linkedin.com/jobs/view/4483962242/) — USAA
-- 📍 **Location:** Plano, TX
+### [Software Engineer Intern - Arango Cookbooks](https://www.linkedin.com/jobs/view/4485934151/) — Arango
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-31
 
-### [Data Engineer - Intermediate](https://www.linkedin.com/jobs/view/4483956560/) — USAA
-- 📍 **Location:** San Antonio, TX
+### [Senior Manager, Software Engineering](https://www.linkedin.com/jobs/view/4485166888/) — RevolutionParts
+- 📍 **Location:** Tempe, AZ
 - 🕒 **Posted:** 2026-10-31
 
-### [Manager - Data Engineering](https://www.linkedin.com/jobs/view/4449762196/) — American Eagle Outfitters Inc.
-- 📍 **Location:** Pittsburgh, PA
+### [AI First iOS Software Engineer (Remote)](https://www.linkedin.com/jobs/view/4485169930/) — OPENLANE
+- 📍 **Location:** Carmel, IN
 - 🕒 **Posted:** 2026-10-31
 
-### [AI Software Engineer](https://www.linkedin.com/jobs/view/4485389936/) — Credence
-- 📍 **Location:** Warner Robins, GA
-- 🕒 **Posted:** 2026-10-31
-
-### [AI Engineer (Forward Deployed)](https://www.linkedin.com/jobs/view/4483952626/) — scalr
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-31
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4485926219/) — Optum
-- 📍 **Location:** Minneapolis, MN
-- 🕒 **Posted:** 2026-10-31
-
-### [Senior Software Engineer, Android](https://www.linkedin.com/jobs/view/4485915821/) — Knowtex
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-31
-
-### [Senior Manager, Software Engineering - Remote](https://www.linkedin.com/jobs/view/4485690581/) — Optum
-- 📍 **Location:** Fort Worth, TX
-- 🕒 **Posted:** 2026-10-31
-
-### [Data Engineer - Intermediate](https://www.linkedin.com/jobs/view/4483959323/) — USAA
-- 📍 **Location:** Phoenix, AZ
+### [Data Engineering Manager](https://www.linkedin.com/jobs/view/4485916908/) — Keylent Inc
+- 📍 **Location:** Greater Philadelphia
 - 🕒 **Posted:** 2026-10-31
