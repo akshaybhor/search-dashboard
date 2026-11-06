@@ -475,6 +475,9 @@ EXCLUDED_COMPANIES = [
     "voto consulting llc",
     "wall street consulting services llc",
     "xpertis talent",
+    "Accenture Federal Services",
+    "Archer",
+    "Trinzic",
     "zenotis infotech",
     "tsr consulting"
 ]
