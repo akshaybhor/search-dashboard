@@ -98,7 +98,14 @@ def extract_career_root_url(url: str, fallback_ats: str = None) -> tuple[str, st
         root = f"https://jobs.jobvite.com/{slug}" if slug else f"https://{netloc}"
         return root, "Jobvite"
 
-    # 8. Generic / Custom Career Portals (e.g., careers.bloomberg.com, join.jfrog.com)
+    # 8. Rippling (e.g., https://ats.rippling.com/aerospike-inc/jobs/123)
+    if "ats.rippling.com" in netloc:
+        m = re.match(r"^/([^/]+)", path)
+        slug = m.group(1) if m else ""
+        root = f"https://ats.rippling.com/{slug}/jobs" if slug else f"https://{netloc}"
+        return root, "Rippling"
+
+    # 9. Generic / Custom Career Portals (e.g., careers.bloomberg.com, join.jfrog.com)
     ats_detected = fallback_ats or "Direct"
     if "careers." in netloc or "jobs." in netloc or "join." in netloc:
         # Return base scheme + netloc (e.g. https://careers.bloomberg.com)

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06 10:58 UTC",
-  "total_companies": 605,
+  "updated_at": "2026-11-06 15:15 UTC",
+  "total_companies": 617,
   "companies": {
     "15five": {
       "name": "15Five Inc",
@@ -3594,8 +3594,8 @@
       "last_seen": "2026-10-31",
       "total_jobs_seen": 1
     },
-    "schr\u00f6dinger": {
-      "name": "Schr\u00f6dinger",
+    "schrödinger": {
+      "name": "Schrödinger",
       "career_url": "https://job-boards.greenhouse.io/schrdinger",
       "ats": "Greenhouse",
       "first_seen": "2026-09-30",
@@ -4840,6 +4840,102 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
+      "total_jobs_seen": 1
+    },
+    "scale": {
+      "name": "Scale",
+      "career_url": "https://job-boards.greenhouse.io/scaleai",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 1
+    },
+    "aerospike": {
+      "name": "Aerospike",
+      "career_url": "https://ats.rippling.com/aerospike-inc/jobs",
+      "ats": "Rippling",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 1
+    },
+    "liftoff-mobile": {
+      "name": "Liftoff Mobile",
+      "career_url": "https://job-boards.greenhouse.io/liftoff",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 1
+    },
+    "blackline": {
+      "name": "BlackLine",
+      "career_url": "https://blackline.wd108.myworkdayjobs.com/BlackLineCareers",
+      "ats": "Workday",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 2
+    },
+    "saic": {
+      "name": "SAIC",
+      "career_url": "https://saic.wd5.myworkdayjobs.com/saic_careers",
+      "ats": "Workday",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 1
+    },
+    "arm": {
+      "name": "Arm",
+      "career_url": "https://arm.wd3.myworkdayjobs.com/Arm_Careers",
+      "ats": "Workday",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 1
+    },
+    "cerebras": {
+      "name": "Cerebras",
+      "career_url": "https://jobs.ashbyhq.com/cerebras",
+      "ats": "Ashby",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 1
+    },
+    "qualia": {
+      "name": "Qualia",
+      "career_url": "https://job-boards.greenhouse.io/qualia",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 1
+    },
+    "courier-health": {
+      "name": "Courier Health",
+      "career_url": "https://job-boards.greenhouse.io/courierhealth",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 1
+    },
+    "metlife": {
+      "name": "MetLife",
+      "career_url": "https://jobs.lever.co/metlife",
+      "ats": "Lever",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 1
+    },
+    "oscar-health": {
+      "name": "Oscar Health",
+      "career_url": "https://job-boards.greenhouse.io/oscar",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "total_jobs_seen": 1
+    },
+    "system-one": {
+      "name": "System One",
+      "career_url": "https://job-boards.greenhouse.io/system",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
       "total_jobs_seen": 1
     }
   }
