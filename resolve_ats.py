@@ -60,6 +60,10 @@ def slugify_company(company_name: str) -> list[str]:
     s3 = re.sub(r"\s+", "_", clean)
     if s3 and s3 not in slugs:
         slugs.append(s3)
+    # 4. primary brand token (e.g. 'Oscar Health' -> 'oscar', 'Liftoff Mobile' -> 'liftoff')
+    parts = clean.split()
+    if len(parts) > 1 and len(parts[0]) >= 3 and parts[0] not in slugs:
+        slugs.append(parts[0])
     return slugs
 
 
