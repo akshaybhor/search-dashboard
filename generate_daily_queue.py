@@ -58,6 +58,8 @@ def get_effective_direct_url(job: dict) -> tuple[str, str]:
             return candidate, "Lever"
         if "smartrecruiters.com" in c_low:
             return candidate, "SmartRecruiters"
+        if "rippling.com" in c_low:
+            return candidate, "Rippling"
 
     if "greenhouse" in ats_field and ("boards.greenhouse.io" in u or "job-boards.greenhouse.io" in u):
         return u, "Greenhouse"
@@ -69,6 +71,8 @@ def get_effective_direct_url(job: dict) -> tuple[str, str]:
         return u, "Lever"
     if "smartrecruiters" in ats_field and "smartrecruiters.com" in u.lower():
         return u, "SmartRecruiters"
+    if "rippling" in ats_field and "rippling.com" in u.lower():
+        return u, "Rippling"
 
     # Direct company career site or generic ATS (Universal form engine)
     for candidate in [d_url, u]:
@@ -77,7 +81,7 @@ def get_effective_direct_url(job: dict) -> tuple[str, str]:
         c_low = candidate.lower()
         if any(agg in c_low for agg in ["linkedin.com", "indeed.com", "ziprecruiter.com", "glassdoor.com", "dice.com", "monster.com", "simplyhired.com"]):
             continue
-        if any(k in c_low for k in ["/job", "/career", "/apply", "bamboohr.com", "breezy.hr", "applytojob.com", "workable.com", "rippling.com"]):
+        if any(k in c_low for k in ["/job", "/career", "/apply", "bamboohr.com", "breezy.hr", "applytojob.com", "workable.com"]):
             return candidate, "Universal"
 
     return "", ""
@@ -147,6 +151,7 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
     workday_jobs = []
     lever_jobs = []
     smartrecruiters_jobs = []
+    rippling_jobs = []
     universal_jobs = []
     seen_urls = set()
 
@@ -202,6 +207,8 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
             lever_jobs.append(item)
         elif ats == "SmartRecruiters":
             smartrecruiters_jobs.append(item)
+        elif ats == "Rippling":
+            rippling_jobs.append(item)
         elif ats == "Universal":
             universal_jobs.append(item)
 
@@ -210,9 +217,10 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
     workday_jobs.sort(key=lambda x: x["score"], reverse=True)
     lever_jobs.sort(key=lambda x: x["score"], reverse=True)
     smartrecruiters_jobs.sort(key=lambda x: x["score"], reverse=True)
+    rippling_jobs.sort(key=lambda x: x["score"], reverse=True)
     universal_jobs.sort(key=lambda x: x["score"], reverse=True)
     all_eligible = sorted(
-        greenhouse_jobs + ashby_jobs + workday_jobs + lever_jobs + smartrecruiters_jobs + universal_jobs,
+        greenhouse_jobs + ashby_jobs + workday_jobs + lever_jobs + smartrecruiters_jobs + rippling_jobs + universal_jobs,
         key=lambda x: x["score"],
         reverse=True,
     )
@@ -233,6 +241,7 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
             "workday_count": len(workday_jobs),
             "lever_count": len(lever_jobs),
             "smartrecruiters_count": len(smartrecruiters_jobs),
+            "rippling_count": len(rippling_jobs),
             "universal_count": len(universal_jobs),
         },
         "greenhouse": greenhouse_jobs,
@@ -240,6 +249,7 @@ def build_daily_queue(min_score: int = 50, max_hours: int = 48) -> dict:
         "workday": workday_jobs,
         "lever": lever_jobs,
         "smartrecruiters": smartrecruiters_jobs,
+        "rippling": rippling_jobs,
         "universal": universal_jobs,
         "all": all_eligible,
     }
@@ -292,6 +302,7 @@ def main():
     print(f"     - Workday:         {queue['summary']['workday_count']}")
     print(f"     - Lever:           {queue['summary']['lever_count']}")
     print(f"     - SmartRecruiters: {queue['summary']['smartrecruiters_count']}")
+    print(f"     - Rippling:        {queue['summary']['rippling_count']}")
     print(f"     - Universal:       {queue['summary']['universal_count']}")
     print(f"   • Files created: {QUEUE_JSON_PATH}, {QUEUE_TXT_PATH}, {WORKDAY_QUEUE_JSON_PATH}, {WORKDAY_QUEUE_TXT_PATH}")
 
