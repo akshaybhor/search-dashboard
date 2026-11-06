@@ -380,9 +380,9 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
     return "", "", ""
 
 
-def enrich_jobs(all_jobs_path: str = None, max_known: int = 150, max_unknown: int = 5) -> int:
+def enrich_jobs(all_jobs_path: str = None, max_known: int = 150, max_unknown: int = 25) -> int:
     """
-    Enriches all_jobs.json with direct ATS application URLs (Workday, Greenhouse, Ashby, Lever).
+    Enriches all_jobs.json with direct ATS application URLs (Workday, Greenhouse, Ashby, Lever, Rippling).
     Prioritizes recent jobs from known ATS employers (NVIDIA, Salesforce, Adobe, Capital One, etc.)
     for instant linking, and remembers probed portals so old unmatched jobs never block new scrapes.
     """
