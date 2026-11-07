@@ -220,12 +220,21 @@ def merge_companies(theirs: str, ours: str) -> str:
     }, indent=2)
 
 
+def merge_dict(theirs: str, ours: str) -> str:
+    """Additive dictionary union for caches like probed_companies_cache.json."""
+    theirs_data = _load(theirs, {})
+    ours_data = _load(ours, {})
+    merged = {**theirs_data, **ours_data}
+    return json.dumps(merged, indent=2, sort_keys=True)
+
+
 MERGERS = {
     "all_jobs.json": merge_all_jobs,
     "notified.json": merge_notified,
     "workflow_runs.jsonl": merge_jsonl,
     "scores.json": merge_scores,
     "companies.json": merge_companies,
+    "probed_companies_cache.json": merge_dict,
 }
 
 

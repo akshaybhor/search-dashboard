@@ -81,8 +81,14 @@ def slugify_company(company_name: str) -> list[str]:
     if s3 and s3 not in slugs:
         slugs.append(s3)
     # 4. primary brand token (e.g. 'Oscar Health' -> 'oscar', 'Liftoff Mobile' -> 'liftoff')
+    GENERIC_PREFIXES = {
+        "general", "first", "american", "national", "united", "digital",
+        "global", "western", "central", "pacific", "international",
+        "standard", "total", "prime", "apex", "summit", "strategic",
+        "advanced", "applied", "next", "new", "top", "pro",
+    }
     parts = clean.split()
-    if len(parts) > 1 and len(parts[0]) >= 3 and parts[0] not in slugs:
+    if len(parts) > 1 and len(parts[0]) >= 3 and parts[0] not in GENERIC_PREFIXES and parts[0] not in slugs:
         slugs.append(parts[0])
     # 5. AI suffix (e.g. 'Scale' -> 'scaleai')
     if s1 and not s1.endswith("ai") and f"{s1}ai" not in slugs:

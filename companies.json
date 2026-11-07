@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07 14:08 UTC",
-  "total_companies": 670,
+  "updated_at": "2026-11-07 14:33 UTC",
+  "total_companies": 672,
   "companies": {
     "15five": {
       "name": "15Five Inc",
@@ -1377,6 +1377,14 @@
       "first_seen": "2026-10-31",
       "last_seen": "2026-10-31",
       "total_jobs_seen": 1
+    },
+    "doordash": {
+      "name": "DoorDash",
+      "career_url": "https://job-boards.greenhouse.io/doordashusa",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 2
     },
     "drata": {
       "name": "Drata",
@@ -4002,8 +4010,8 @@
       "last_seen": "2026-10-31",
       "total_jobs_seen": 1
     },
-    "schr\u00f6dinger": {
-      "name": "Schr\u00f6dinger",
+    "schrödinger": {
+      "name": "Schrödinger",
       "career_url": "https://job-boards.greenhouse.io/schrdinger",
       "ats": "Greenhouse",
       "first_seen": "2026-09-30",
@@ -4193,6 +4201,14 @@
       "first_seen": "2026-10-31",
       "last_seen": "2026-10-31",
       "total_jobs_seen": 1
+    },
+    "snap": {
+      "name": "Snap Inc.",
+      "career_url": "https://snapchat.wd1.myworkdayjobs.com/snap",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 2
     },
     "snorkel-ai": {
       "name": "Snorkel AI",

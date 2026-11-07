@@ -39,6 +39,9 @@ jobs:
       - name: Auto-resolve direct ATS company portals
         run: python resolve_ats.py --enrich
 
+      - name: Discover and register new ATS portals from candidate employers
+        run: python discover_candidate_portals.py --limit 30
+
       - name: Scrape direct ATS career portals (Greenhouse, Ashby, Lever, Workday)
         run: python scrape_direct_ats.py --lookback 48 --limit 0
 
@@ -74,4 +77,4 @@ jobs:
           python ci_commit_push.py \
             --message "chore: update nightly tech listings [$(date -u '+%Y-%m-%d')]" \
             jobs.json jobs.md jobs.html \
-            workflow_runs.jsonl all_jobs.json notified.json companies.json
+            workflow_runs.jsonl all_jobs.json notified.json companies.json probed_companies_cache.json
