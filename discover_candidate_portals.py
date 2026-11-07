@@ -8,8 +8,8 @@ and Workday clusters), and automatically registers genuine career portals into
 companies.json.
 
 Includes a negative cache (probed_companies_cache.json) to ensure uncataloged
-or non-standard companies are only tested once every 30 days, avoiding redundant
-requests or workflow slowdowns.
+or non-standard companies are only tested once every 2 years (730 days), avoiding
+redundant requests or workflow slowdowns.
 """
 
 import argparse
@@ -65,7 +65,7 @@ HEADERS = {
     "Accept": "application/json",
 }
 
-NEGATIVE_CACHE_DAYS = 30
+NEGATIVE_CACHE_DAYS = 730  # 2 years
 
 
 def load_probe_cache() -> dict:
@@ -300,7 +300,7 @@ def run_discovery(limit: int = 30, max_workers: int = 8) -> dict:
                     "probed_at": today,
                     "jobs_seen": cnt,
                 }
-                print(f"  ❌ [NOT FOUND]     {c_name:<30} ({cnt} jobs in queue - cached for 30d)", flush=True)
+                print(f"  ❌ [NOT FOUND]     {c_name:<30} ({cnt} jobs in queue - cached for 2yr)", flush=True)
 
     # Save updates
     if discovered > 0:
