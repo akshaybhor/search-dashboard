@@ -40,7 +40,7 @@ jobs:
         run: python resolve_ats.py --enrich
 
       - name: Discover and register new ATS portals from candidate employers
-        run: python discover_candidate_portals.py --limit 30
+        run: python discover_candidate_portals.py --limit 100
 
       - name: Scrape direct ATS career portals (Greenhouse, Ashby, Lever, Workday)
         run: python scrape_direct_ats.py --lookback 48 --limit 0
