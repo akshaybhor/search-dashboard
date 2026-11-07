@@ -38,7 +38,13 @@ from company_directory import (
     save_company_directory,
     record_company,
     normalize_company_key,
+    prune_excluded_companies,
 )
+try:
+    from scrape_jobs import is_excluded_company
+except ImportError:
+    def is_excluded_company(company: str) -> bool:
+        return False
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
@@ -243,12 +249,24 @@ def run_audit(dry_run: bool = False, max_workers: int = 12) -> dict:
     """Audits the candidate Workday catalog in parallel and records approved portals."""
     print("======================================================================")
     print("🔍 WORKDAY PORTAL AUDITOR & DIRECTORY BUILDER")
-    print(f"   Target Candidates : {len(CANDIDATE_WORKDAY_COMPANIES)} companies")
+    # Filter out any candidate explicitly present in scrape_jobs.EXCLUDED_COMPANIES
+    filtered_candidates = []
+    skipped_excluded = 0
+    for name, netloc, site in CANDIDATE_WORKDAY_COMPANIES:
+        tenant = netloc.split(".")[0]
+        if is_excluded_company(name) or is_excluded_company(tenant) or is_excluded_company(tenant.replace("-", " ")):
+            skipped_excluded += 1
+            continue
+        filtered_candidates.append((name, netloc, site))
+
+    print(f"   Target Candidates : {len(filtered_candidates)} companies (Skipped {skipped_excluded} on exclusion blacklist)")
     print(f"   Parallel Workers  : {max_workers}")
     print(f"   Mode              : {'DRY RUN (Audit only)' if dry_run else 'ACTIVE (Save to companies.json)'}")
     print("======================================================================")
 
     comp_dir = load_company_directory()
+    # Always ensure existing directory is pruned of any excluded companies first
+    prune_excluded_companies(comp_dir)
     existing_companies = comp_dir.get("companies", {})
     existing_keys = set(existing_companies.keys())
 
@@ -258,7 +276,7 @@ def run_audit(dry_run: bool = False, max_workers: int = 12) -> dict:
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {
             executor.submit(audit_single_company, name, netloc, site): name
-            for name, netloc, site in CANDIDATE_WORKDAY_COMPANIES
+            for name, netloc, site in filtered_candidates
         }
         for future in as_completed(futures):
             res = future.result()

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07 13:42 UTC",
-  "total_companies": 665,
+  "updated_at": "2026-11-07 13:52 UTC",
+  "total_companies": 662,
   "companies": {
     "15five": {
       "name": "15Five Inc",
@@ -49,14 +49,6 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
       "total_jobs_seen": 1
-    },
-    "accenture-federal-services": {
-      "name": "Accenture Federal Services",
-      "career_url": "https://job-boards.greenhouse.io/accenturefederalservices",
-      "ats": "Greenhouse",
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-11-06",
-      "total_jobs_seen": 87
     },
     "activecampaign": {
       "name": "ActiveCampaign",
@@ -354,14 +346,6 @@
       "last_seen": "2026-10-12",
       "total_jobs_seen": 8
     },
-    "archer": {
-      "name": "Archer",
-      "career_url": "https://job-boards.greenhouse.io/archer",
-      "ats": "Greenhouse",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "total_jobs_seen": 1
-    },
     "arista-networks": {
       "name": "Arista Networks",
       "career_url": "https://jobs.smartrecruiters.com/aristanetworks",
@@ -488,7 +472,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 4
     },
     "avathon": {
       "name": "Avathon",
@@ -753,14 +737,6 @@
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
       "total_jobs_seen": 1
-    },
-    "caci": {
-      "name": "CACI",
-      "career_url": "https://caci.wd1.myworkdayjobs.com/External",
-      "ats": "Workday",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-11-07",
-      "total_jobs_seen": 1793
     },
     "cadence": {
       "name": "Cadence Design Systems",
@@ -1272,7 +1248,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 18955
+      "total_jobs_seen": 18958
     },
     "databricks": {
       "name": "Databricks",
@@ -2264,7 +2240,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 347
+      "total_jobs_seen": 297
     },
     "hypebeast": {
       "name": "Hypebeast",
@@ -2984,7 +2960,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 13
+      "total_jobs_seen": 4
     },
     "nash": {
       "name": "Nash",
@@ -3978,8 +3954,8 @@
       "last_seen": "2026-10-31",
       "total_jobs_seen": 1
     },
-    "schr\u00f6dinger": {
-      "name": "Schr\u00f6dinger",
+    "schrödinger": {
+      "name": "Schrödinger",
       "career_url": "https://job-boards.greenhouse.io/schrdinger",
       "ats": "Greenhouse",
       "first_seen": "2026-09-30",
@@ -5184,7 +5160,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 417
+      "total_jobs_seen": 369
     },
     "worldquant": {
       "name": "WorldQuant",

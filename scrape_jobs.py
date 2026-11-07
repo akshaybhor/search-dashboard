@@ -312,6 +312,7 @@ EXCLUDED_COMPANIES = [
     "xforia global talent & technology solutions",
     "advanced tech placement",
     "Northrop Grumman",
+    "CACI",
     "CACI International Inc",
     "Travelers",
     "consultnet technology services and solutions",
