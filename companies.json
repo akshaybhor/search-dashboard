@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07 10:43 UTC",
-  "total_companies": 652,
+  "updated_at": "2026-11-07 13:42 UTC",
+  "total_companies": 665,
   "companies": {
     "15five": {
       "name": "15Five Inc",
@@ -25,6 +25,14 @@
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
       "total_jobs_seen": 1
+    },
+    "abbott": {
+      "name": "Abbott",
+      "career_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 2000
     },
     "abbvie": {
       "name": "AbbVie",
@@ -71,8 +79,8 @@
       "career_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
       "ats": "Workday",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "total_jobs_seen": 4
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 278
     },
     "advanced-space": {
       "name": "Advanced Space",
@@ -218,6 +226,14 @@
       "last_seen": "2026-11-07",
       "total_jobs_seen": 1
     },
+    "ally-financial": {
+      "name": "Ally Financial",
+      "career_url": "https://ally.wd1.myworkdayjobs.com/ally",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 73
+    },
     "alpaca": {
       "name": "Alpaca",
       "career_url": "https://job-boards.greenhouse.io/alpaca",
@@ -263,8 +279,8 @@
       "career_url": "https://analogdevices.wd1.myworkdayjobs.com/External",
       "ats": "Workday",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "total_jobs_seen": 1
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 822
     },
     "angi": {
       "name": "Angi Inc",
@@ -471,7 +487,7 @@
       "career_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
       "ats": "Workday",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-07",
       "total_jobs_seen": 11
     },
     "avathon": {
@@ -562,6 +578,14 @@
       "last_seen": "2026-10-30",
       "total_jobs_seen": 1
     },
+    "baxter": {
+      "name": "Baxter",
+      "career_url": "https://baxter.wd1.myworkdayjobs.com/baxter",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 531
+    },
     "bellota-labs": {
       "name": "Bellota Labs",
       "career_url": "https://jobs.lever.co/bellotalabs",
@@ -623,8 +647,8 @@
       "career_url": "https://blackline.wd108.myworkdayjobs.com/BlackLineCareers",
       "ats": "Workday",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "total_jobs_seen": 2
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 106
     },
     "block": {
       "name": "Block",
@@ -680,7 +704,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-14",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 70
+      "total_jobs_seen": 629
     },
     "broadcom": {
       "name": "Broadcom",
@@ -688,7 +712,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 98
+      "total_jobs_seen": 392
     },
     "brown-&-brown": {
       "name": "Brown & Brown",
@@ -732,11 +756,11 @@
     },
     "caci": {
       "name": "CACI",
-      "career_url": "https://jobs.smartrecruiters.com/caci",
-      "ats": "SmartRecruiters",
+      "career_url": "https://caci.wd1.myworkdayjobs.com/External",
+      "ats": "Workday",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "total_jobs_seen": 1
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 1793
     },
     "cadence": {
       "name": "Cadence Design Systems",
@@ -745,6 +769,14 @@
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-22",
       "total_jobs_seen": 1
+    },
+    "cadence-design-systems": {
+      "name": "Cadence Design Systems",
+      "career_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 699
     },
     "calm": {
       "name": "Calm",
@@ -824,7 +856,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 651
+      "total_jobs_seen": 2055
     },
     "captiveaire---region-114-western-pa": {
       "name": "Captiveaire - Region 114 Western PA",
@@ -841,6 +873,14 @@
       "first_seen": "2026-10-16",
       "last_seen": "2026-10-16",
       "total_jobs_seen": 1
+    },
+    "cardinal-health": {
+      "name": "Cardinal Health",
+      "career_url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 860
     },
     "career-team": {
       "name": "Career Team",
@@ -968,7 +1008,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 309
+      "total_jobs_seen": 1473
     },
     "citian": {
       "name": "Citian",
@@ -1143,8 +1183,8 @@
       "career_url": "https://job-boards.greenhouse.io/costar",
       "ats": "Greenhouse",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-06",
-      "total_jobs_seen": 73
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 359
     },
     "costar-group": {
       "name": "CoStar Group",
@@ -1192,7 +1232,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 383
+      "total_jobs_seen": 385
     },
     "crusoe": {
       "name": "Crusoe",
@@ -1232,7 +1272,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 554
+      "total_jobs_seen": 18955
     },
     "databricks": {
       "name": "Databricks",
@@ -1407,8 +1447,8 @@
       "career_url": "https://ebay.wd5.myworkdayjobs.com/apply",
       "ats": "Workday",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "total_jobs_seen": 1
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 276
     },
     "ecp": {
       "name": "ECP",
@@ -1554,6 +1594,14 @@
       "last_seen": "2026-11-04",
       "total_jobs_seen": 58
     },
+    "fannie-mae": {
+      "name": "Fannie Mae",
+      "career_url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 67
+    },
     "faraday-future": {
       "name": "Faraday Future",
       "career_url": "https://job-boards.greenhouse.io/faradayfuture",
@@ -1608,7 +1656,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 154
+      "total_jobs_seen": 980
     },
     "figma": {
       "name": "Figma",
@@ -1633,6 +1681,14 @@
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
       "total_jobs_seen": 1
+    },
+    "fiserv": {
+      "name": "Fiserv",
+      "career_url": "https://fiserv.wd5.myworkdayjobs.com/EXT",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 401
     },
     "five9": {
       "name": "Five9",
@@ -1729,6 +1785,14 @@
       "first_seen": "2026-10-31",
       "last_seen": "2026-10-31",
       "total_jobs_seen": 1
+    },
+    "freddie-mac": {
+      "name": "Freddie Mac",
+      "career_url": "https://freddiemac.wd5.myworkdayjobs.com/External",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 74
     },
     "freenome": {
       "name": "Freenome",
@@ -1856,7 +1920,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 220
+      "total_jobs_seen": 724
     },
     "genius-sports": {
       "name": "Genius Sports",
@@ -2184,7 +2248,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-15",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 371
+      "total_jobs_seen": 919
     },
     "hp-inc": {
       "name": "HP Inc.",
@@ -2247,8 +2311,8 @@
       "career_url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers",
       "ats": "Workday",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "total_jobs_seen": 1
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 172
     },
     "illumio": {
       "name": "Illumio",
@@ -2464,7 +2528,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 234
+      "total_jobs_seen": 1154
     },
     "klaviyo": {
       "name": "Klaviyo",
@@ -2544,7 +2608,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 219
+      "total_jobs_seen": 2000
     },
     "liftoff-mobile": {
       "name": "Liftoff Mobile",
@@ -2663,8 +2727,8 @@
       "career_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
       "ats": "Workday",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-22",
-      "total_jobs_seen": 1
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 947
     },
     "masterclass": {
       "name": "MasterClass",
@@ -2705,6 +2769,14 @@
       "first_seen": "2026-10-31",
       "last_seen": "2026-10-31",
       "total_jobs_seen": 1
+    },
+    "medtronic": {
+      "name": "Medtronic",
+      "career_url": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 1014
     },
     "melotech": {
       "name": "Melotech",
@@ -2769,6 +2841,14 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
       "total_jobs_seen": 1
+    },
+    "micron-technology": {
+      "name": "Micron Technology",
+      "career_url": "https://micron.wd1.myworkdayjobs.com/External",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 2889
     },
     "midjourney": {
       "name": "Midjourney",
@@ -2842,6 +2922,14 @@
       "last_seen": "2026-10-30",
       "total_jobs_seen": 7
     },
+    "morningstar": {
+      "name": "Morningstar",
+      "career_url": "https://morningstar.wd5.myworkdayjobs.com/Morningstar",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 178
+    },
     "motional": {
       "name": "Motional",
       "career_url": "https://job-boards.greenhouse.io/motional",
@@ -2864,7 +2952,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 85
+      "total_jobs_seen": 863
     },
     "mozilla": {
       "name": "Mozilla",
@@ -2895,7 +2983,7 @@
       "career_url": "https://job-boards.greenhouse.io/nasdaq",
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-07",
       "total_jobs_seen": 13
     },
     "nash": {
@@ -3296,7 +3384,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-31",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 127
+      "total_jobs_seen": 314
     },
     "pdi": {
       "name": "PDI Technologies",
@@ -3343,8 +3431,8 @@
       "career_url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
       "ats": "Workday",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
-      "total_jobs_seen": 8
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 630
     },
     "phantom": {
       "name": "Phantom",
@@ -3815,8 +3903,8 @@
       "career_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
       "ats": "Workday",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-23",
-      "total_jobs_seen": 3
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 1550
     },
     "samsara": {
       "name": "Samsara",
@@ -3849,6 +3937,14 @@
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-22",
       "total_jobs_seen": 1
+    },
+    "santander": {
+      "name": "Santander",
+      "career_url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 1025
     },
     "sas": {
       "name": "SAS",
@@ -4384,7 +4480,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 52
+      "total_jobs_seen": 2000
     },
     "tarro": {
       "name": "Tarro",
@@ -4489,6 +4585,14 @@
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
       "total_jobs_seen": 1
+    },
+    "thermo-fisher-scientific": {
+      "name": "Thermo Fisher Scientific",
+      "career_url": "https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers",
+      "ats": "Workday",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 3219
     },
     "thomson-reuters": {
       "name": "Thomson Reuters",
@@ -4600,7 +4704,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 403
+      "total_jobs_seen": 1423
     },
     "trustly": {
       "name": "Trustly",
@@ -4768,7 +4872,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-07",
-      "total_jobs_seen": 408
+      "total_jobs_seen": 1260
     },
     "vanta": {
       "name": "Vanta",
