@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-11-07 17:09 UTC",
-  "total_companies": 673,
+  "total_companies": 675,
   "companies": {
     "15five": {
       "name": "15Five Inc",
@@ -5384,6 +5384,22 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
+      "total_jobs_seen": 1
+    },
+    "sentilink": {
+      "name": "SentiLink",
+      "career_url": "https://jobs.ashbyhq.com/sentilink",
+      "ats": "Ashby",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "total_jobs_seen": 1
+    },
+    "fluidstack": {
+      "name": "Fluidstack",
+      "career_url": "https://jobs.ashbyhq.com/fluidstack",
+      "ats": "Ashby",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
       "total_jobs_seen": 1
     }
   }
