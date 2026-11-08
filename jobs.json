@@ -1,31 +1,319 @@
 {
-  "scraped_at": "2026-11-07 14:04 UTC",
-  "total": 304,
-  "new_count": 97,
+  "scraped_at": "2026-11-08 10:27 UTC",
+  "total": 220,
+  "new_count": 148,
   "jobs": [
     {
-      "company": "GE Aerospace",
-      "title": "Sr Enterprise Application Engineer - PLM",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4480530805/",
-      "date_posted": "2026-11-07",
+      "company": "Dell Technologies",
+      "title": "Software Engineer 2",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4487629710/",
+      "date_posted": "2026-11-08",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Belcan",
-      "title": "Controls Software Engineer",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4466335382/",
-      "date_posted": "2026-11-07",
+      "company": "Crowe",
+      "title": "Machine Learning Engineer",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4454821312/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FDE Times",
+      "title": "Senior Software Engineer - ML Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486689453/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Dex",
+      "title": "Senior MLOps Engineer - Artificial Intelligence (up to $290k)",
+      "location": "New York, United States",
+      "url": "https://www.linkedin.com/jobs/view/4488767649/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Boulder Connect",
+      "title": "Senior MLOps Machine Learning Engineer",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4487635118/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Applied Materials",
+      "title": "C, C++ Software Engineer II",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486668354/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486658755/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Vorticity Inc.",
+      "title": "Software Engineer, Parallel Scientific Computing",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487639143/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Lam Research",
+      "title": "Senior Cloud Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463641845/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FDE Times",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486687460/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FDE Times",
+      "title": "Machine Learning Engineer, Search Quality",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486694214/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FDE Times",
+      "title": "Senior ML Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486695116/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FDE Times",
+      "title": "Sensor Sim - ML Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486690440/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Lead Software Engineer - Backend Engineering - Java/Kotlin",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4303072764/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, HW/SW Co-Design",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486666936/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Flywheel",
+      "title": "Senior Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4405277658/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer Associate III - Databricks",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472274185/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Nominal",
+      "title": "Software Engineer - Backend",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4486677419/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Senior Lead Software Engineer- AI/ML Training Infrastructure",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4479805320/",
+      "date_posted": "2026-11-08",
       "ats": "LinkedIn",
       "remote": false
     },
     {
       "company": "Deloitte",
+      "title": "Agentic AI Engineer \u2014 Healthcare AI",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4426724828/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Cirrus Logic",
+      "title": "Sr. Systems Engineer \u2013 Audio Amplifiers, PC (JM-64000667)",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4321980368/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Crowe",
+      "title": "Machine Learning Software Engineer 1",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4454807477/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Software Engineer, Ad Serving",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4463112362/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "CapTech",
+      "title": "Senior Data Engineer (AWS, Azure, GCP)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4454579244/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Rivian",
+      "title": "Sr. AI Engineer, Enterprise Applied AI",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4325574361/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Cyber Full-Stack Technical Software Engineer",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4435105558/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "CapTech",
+      "title": "Data Engineer (AWS, Azure, GCP)",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4454572269/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AmTrust Financial Services, Inc.",
       "title": "Cloud Data Engineer",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4453260185/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Video SWE",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486685061/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "AI Engineer, Manager - Tax Transformation",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427117671/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Scientific Research Corporation",
+      "title": "CANES Platform Engineer",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452775862/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Smarsh",
+      "title": "Software Engineer - Professional Archive Search",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4432373208/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Pearson",
+      "title": "Senior Cloud Engineer",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4461956099/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "TSMC",
+      "title": "TSMC Arizona \u2014 AI Engineering Manager",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4487634538/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "EY",
+      "title": "AI & Distributed Systems Fullstack Engineer - Senior - Consulting - Location OPEN",
       "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4488491835/",
+      "url": "https://www.linkedin.com/jobs/view/4449880373/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -40,10 +328,46 @@
       "remote": false
     },
     {
+      "company": "GE Aerospace",
+      "title": "Sr Enterprise Application Engineer - PLM",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4480530805/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "CTIO AI Engineering Manager",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4453643954/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "NGA AI Engineer Manager",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4453648703/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "General Motors",
       "title": "Senior Backend Software Engineer - GM Energy",
       "location": "Sunnyvale, CA",
       "url": "https://www.linkedin.com/jobs/view/4443945149/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Honeywell Technologies",
+      "title": "Advanced Software Engineer \u2013 Forge AI & Platform",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4480517930/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -58,10 +382,37 @@
       "remote": false
     },
     {
-      "company": "Meta",
-      "title": "Software Engineer - Backend, Standalone Apps Team",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486616490/",
+      "company": "Honeywell Technologies",
+      "title": "Advanced Software Engineer - Forge AI & Platform",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4480521835/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "General Motors",
+      "title": "Senior Backend Software Engineer - Commercial Software",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4471622230/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Rippling",
+      "title": "Senior Software Engineer, Backend - Financial Product",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4463328937/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Lively, Inc.",
+      "title": "Sr. Software Engineer - Backend (PST / MST ONLY)",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4479376936/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -94,10 +445,10 @@
       "remote": false
     },
     {
-      "company": "Honeywell Aerospace",
-      "title": "Advanced Systems Engineer",
-      "location": "Phoenix, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4488476445/",
+      "company": "Crypto.com",
+      "title": "Senior Backend Engineer (Sports & Prediction Markets) \u2013 Golang",
+      "location": "New York, United States",
+      "url": "https://www.linkedin.com/jobs/view/4450448197/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -112,15 +463,6 @@
       "remote": false
     },
     {
-      "company": "JPMorganChase",
-      "title": "Senior Lead Software Engineering - C++ low latency",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4443781179/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
       "company": "Schr\u00f6dinger",
       "title": "Senior Cloud Engineer",
       "location": "New York City Metropolitan Area",
@@ -130,10 +472,10 @@
       "remote": false
     },
     {
-      "company": "Texas Mutual Insurance Company",
+      "company": "Cboe Global Markets",
       "title": "Senior Cloud Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4480532210/",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4472227950/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -157,6 +499,24 @@
       "remote": false
     },
     {
+      "company": "Jeppesen ForeFlight",
+      "title": "Sr Software Engineer I, Cloud Services & Backend Modernization",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4470758730/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Replit",
+      "title": "Senior Software Engineer, Compute Platform",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470755433/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "Klaviyo",
       "title": "Senior Software Engineer, Platform Engineering",
       "location": "Boston, MA",
@@ -166,19 +526,28 @@
       "remote": false
     },
     {
-      "company": "CVS Health",
-      "title": "Senior Data Engineer",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4488461839/",
+      "company": "Atlas Air",
+      "title": "Data Engineer",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4480372721/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Deloitte",
-      "title": "Agentic AI Engineer \u2014 Healthcare AI",
-      "location": "Minneapolis, MN",
-      "url": "https://www.linkedin.com/jobs/view/4426743454/",
+      "company": "Whatnot",
+      "title": "Data Engineer, Payments",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4443421993/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Safelite",
+      "title": "Senior Data Engineer",
+      "location": "Columbus, OH",
+      "url": "https://www.linkedin.com/jobs/view/4480540326/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -193,10 +562,46 @@
       "remote": false
     },
     {
-      "company": "Iterable",
-      "title": "Senior Machine Learning Engineer, Nova Intelligence",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4488457539/",
+      "company": "FullStack",
+      "title": "Senior Machine Learning Engineer (Traditional ML & Financial Data) - Remote - USA",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4480571374/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Reddit, Inc.",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442731755/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Glean",
+      "title": "Machine Learning Engineer, Enterprise Brain",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479633876/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Taboola",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480541662/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "RoShay Services",
+      "title": "Senior MLOps Machine Learning Engineer",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4488729419/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -220,10 +625,10 @@
       "remote": false
     },
     {
-      "company": "HP",
-      "title": "Software Engineer, Cloud Services",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488486882/",
+      "company": "Rivian and Volkswagen Group Technologies",
+      "title": "Sr. Software Engineer - Computer Vision",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470035654/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -247,6 +652,15 @@
       "remote": false
     },
     {
+      "company": "Weights & Biases",
+      "title": "Senior Software Engineer, W&B Agent - W&B",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461437948/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "Cisco",
       "title": "Senior Software Engineer, Cisco Intersight",
       "location": "Milpitas, CA",
@@ -256,37 +670,10 @@
       "remote": false
     },
     {
-      "company": "Rippling",
-      "title": "Senior Software Engineer, Backend - Financial Product",
+      "company": "Pantheon",
+      "title": "Software Engineer II - Collaborative Web Platform",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463338514/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Moody's Corporation",
-      "title": "Backend - Senior Software Engineer",
-      "location": "Newark, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459600433/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "OKX",
-      "title": "Senior Software Engineer, Payment",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470799635/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Mind Robotics",
-      "title": "Systems Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487396246/",
+      "url": "https://www.linkedin.com/jobs/view/4461435991/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -301,28 +688,46 @@
       "remote": false
     },
     {
-      "company": "Waymo",
-      "title": "Senior Systems Engineer, Vehicle Security",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487399289/",
+      "company": "Meta",
+      "title": "CV/ML Systems Engineer, Hardware Architecture",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470160913/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Applied Materials",
-      "title": "C, C++ Software Engineer II",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486626119/",
+      "company": "Siemens Healthineers",
+      "title": "Systems Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449821877/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Applied Materials",
-      "title": "Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486615587/",
+      "company": "Cisco",
+      "title": "Senior Software Engineer (Remote)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471833844/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Low Latency Computing (Starlink)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426702162/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, High Performance Computing (Starlink)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426702164/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -346,6 +751,15 @@
       "remote": false
     },
     {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Compute Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480560485/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "Lambda",
       "title": "Senior Software Engineer - Managed Kubernetes",
       "location": "San Jose, CA",
@@ -355,10 +769,37 @@
       "remote": false
     },
     {
-      "company": "Docusign",
-      "title": "Lead Data Engineer",
+      "company": "Coframe",
+      "title": "Agent Platform Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4440168798/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Superhuman",
+      "title": "Data Engineer, Finance",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487363755/",
+      "url": "https://www.linkedin.com/jobs/view/4469788854/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Cisco",
+      "title": "Senior Data Engineer, Network Platform",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488742838/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "American Express",
+      "title": "Sr Data Engineer II",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469062994/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -373,19 +814,55 @@
       "remote": false
     },
     {
-      "company": "Reddit, Inc.",
-      "title": "Senior Machine Learning Engineer",
+      "company": "Generate",
+      "title": "Software Engineer, Data",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4442731755/",
+      "url": "https://www.linkedin.com/jobs/view/4484219434/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "FDE Times",
-      "title": "Machine Learning Engineer, Radar",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486634501/",
+      "company": "Workday",
+      "title": "Senior Software Engineer (Data Engineering)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486659546/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Bayworks (YC F26)",
+      "title": "Data Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487609791/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Capital One",
+      "title": "AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480842505/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Plaud",
+      "title": "Machine Learning Engineer, Inference & Serving (Speech LLM) - San Francisco",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452716569/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Capital One",
+      "title": "AI Engineer 5 (AI Foundations: Evaluations and Agentic Workflows)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488734142/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -400,28 +877,28 @@
       "remote": false
     },
     {
-      "company": "FDE Times",
-      "title": "Senior Applied ML Engineer - ML4Sys",
+      "company": "Ambience Healthcare",
+      "title": "Senior Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486641179/",
+      "url": "https://www.linkedin.com/jobs/view/4452621894/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "AppLovin",
-      "title": "ML Data Infrastructure Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469789830/",
+      "company": "Uber",
+      "title": "Senior Software Engineer - ML Infra",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454341726/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Rivian and Volkswagen Group Technologies",
-      "title": "Sr. Software Engineer - Computer Vision",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470035654/",
+      "company": "Thomas To",
+      "title": "Senior System Software Engineer, DGX Cloud AI Infrastructure",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488702879/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -436,28 +913,10 @@
       "remote": false
     },
     {
-      "company": "CLEAR",
-      "title": "Senior Fullstack Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453194394/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Superhuman",
-      "title": "Software Engineer, Back-End - Go (NY)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4486601950/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Bayview Asset Management, LLC",
-      "title": "Backend Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4477720280/",
+      "company": "Carta",
+      "title": "Senior Software Engineer II, Investors",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4477732882/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -472,19 +931,28 @@
       "remote": false
     },
     {
-      "company": "NBCUniversal",
-      "title": "Sr. Data Engineer",
+      "company": "Mercury",
+      "title": "Senior Backend Engineer - Product",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480550654/",
+      "url": "https://www.linkedin.com/jobs/view/4432324746/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "CLEAR",
-      "title": "Software Engineer, Data (Platform)",
+      "company": "Bayview Asset Management, LLC",
+      "title": "Backend Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453132736/",
+      "url": "https://www.linkedin.com/jobs/view/4477720280/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Scale",
+      "title": "Senior Software Engineer, Platform",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4463140723/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -499,10 +967,46 @@
       "remote": false
     },
     {
-      "company": "Blossom",
-      "title": "Applied AI Engineer",
+      "company": "Solomon Page",
+      "title": "Data Engineer",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488464158/",
+      "url": "https://www.linkedin.com/jobs/view/4449201504/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Tax Innovation - Data Engineer - Senior Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4453679105/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Garner Health",
+      "title": "Data Engineer III",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461996796/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Whatnot",
+      "title": "Software Engineer, Data Developer Platform",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4324829210/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Thomson Reuters",
+      "title": "Senior Data Platform Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4470706322/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -517,19 +1021,55 @@
       "remote": false
     },
     {
-      "company": "Iterable",
-      "title": "Senior Machine Learning Engineer, Agentic Context Retrieval and Search (Nova)",
+      "company": "Capital One",
+      "title": "AI Engineer 4 (Vision model (VLM) customization experience)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488451773/",
+      "url": "https://www.linkedin.com/jobs/view/4472007826/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "MeeBoss",
-      "title": "Software Engineer at TestSprite",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4488473606/",
+      "company": "Capital One",
+      "title": "AI Engineer 4 (Gen AI Platform Services)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488722746/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Ande",
+      "title": "Software Engineer, AI (Early Career)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488750135/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Amalgamated Bank",
+      "title": "AI Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4480541846/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Capital One",
+      "title": "AI Engineer 4 (AI Foundations: World Model, RL, Causal Inference, Sequential Data)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488729274/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Amalgamated Bank",
+      "title": "Senior AI Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4480538952/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -544,15 +1084,6 @@
       "remote": false
     },
     {
-      "company": "Slalom",
-      "title": "Senior Cloud Engineer",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4464132272/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
       "company": "Overland AI",
       "title": "Senior Infrastructure Software Engineer",
       "location": "Seattle, WA",
@@ -562,19 +1093,28 @@
       "remote": false
     },
     {
-      "company": "General Motors",
-      "title": "Senior Backend Software Engineer - Commercial Software",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4471622230/",
+      "company": "Brighton Jones",
+      "title": "Senior Software Engineer",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4418075637/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "CVS Health",
-      "title": "Senior Software Development Engineer (.NET, React, Azure)",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4488417384/",
+      "company": "MaintainX",
+      "title": "Applied AI Engineer",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4462333187/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Overland AI",
+      "title": "Software Engineer - Behaviors & Planning",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4488706487/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -589,24 +1129,6 @@
       "remote": false
     },
     {
-      "company": "eBay",
-      "title": "Software Engineer 3, Search Backend",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4470501391/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Deloitte",
-      "title": ".NET Software Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4480587549/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
       "company": "Braze",
       "title": "Software Engineer II, User Targeting",
       "location": "Austin, TX",
@@ -616,10 +1138,19 @@
       "remote": false
     },
     {
-      "company": "HP",
-      "title": "C++ Engineer (Computer Vision/Embedded Systems)",
+      "company": "Cloudflare",
+      "title": "Senior Software Engineer - Egress (Go/Rust)",
       "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4488493635/",
+      "url": "https://www.linkedin.com/jobs/view/4477388801/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Kapsch Group",
+      "title": "Lead Systems Engineer - Tolling Delivery",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4486660100/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -634,37 +1165,82 @@
       "remote": false
     },
     {
-      "company": "PayPal",
-      "title": "Sr Software Engineer - Cloud Infrastructure and Devops",
+      "company": "Cadence",
+      "title": "Lead Software Engineer",
       "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4463125650/",
+      "url": "https://www.linkedin.com/jobs/view/4479647025/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Expedia Group",
-      "title": "Data Engineer III - Click Stream Data Products",
+      "company": "Annapurna Labs",
+      "title": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
       "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4469383837/",
+      "url": "https://www.linkedin.com/jobs/view/4471638429/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "FullStack",
-      "title": "Senior Machine Learning Engineer (Traditional ML & Financial Data) - Remote - USA",
+      "company": "Austin Sensing Company",
+      "title": "Embedded Systems Engineer",
       "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4480579153/",
+      "url": "https://www.linkedin.com/jobs/view/4488720964/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
-      "remote": true
+      "remote": false
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Core Reliability",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4480564191/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Avride",
+      "title": "Software Engineer \u2013 ML Platform",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4439829764/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "IBM",
+      "title": "Data Engineer",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4450455775/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "CesiumAstro",
+      "title": "Senior Machine Learning Engineer II",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4368395372/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
     },
     {
       "company": "KAYAK",
       "title": "Software Engineer, Ads (Backend)",
       "location": "Cambridge, MA",
       "url": "https://www.linkedin.com/jobs/view/4434079004/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Senior Software Engineer - Identity and Access Management",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4467774537/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -679,10 +1255,19 @@
       "remote": false
     },
     {
-      "company": "Dassault Syst\u00e8mes",
-      "title": "PowerFLOW Discretizer Software Engineer",
-      "location": "Waltham, MA",
-      "url": "https://www.linkedin.com/jobs/view/4488475099/",
+      "company": "Klaviyo",
+      "title": "Sr. Lead Software Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4479621776/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Alegeus",
+      "title": "Software Engineer II",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4480514735/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -697,19 +1282,46 @@
       "remote": false
     },
     {
-      "company": "MongoDB",
-      "title": "Senior Software Engineer (SRE), Infrastructure Security",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4488470484/",
+      "company": "Capital One",
+      "title": "Data Engineer 4 (Manager, IC)",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4472000917/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Capital One",
+      "title": "Manager, Data Engineering - Modeling and Architecture",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4472292121/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
       "company": "Klaviyo",
-      "title": "Senior Machine Learning Platform Engineer",
+      "title": "Senior Lead Software Engineer - Data Platform",
       "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4481609280/",
+      "url": "https://www.linkedin.com/jobs/view/4443156269/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Forward Deployed Data Engineering - Senior Associate",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4453650831/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Senior Software Engineer - Data Automation",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4480276372/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -724,19 +1336,55 @@
       "remote": false
     },
     {
-      "company": "JPMorganChase",
-      "title": "Software Engineer III .Net",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462839787/",
+      "company": "Klaviyo",
+      "title": "Senior Machine Learning Platform Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4481609280/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "DoorDash",
-      "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+      "company": "Raft",
+      "title": "Lead AI/ML Software Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4427003757/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Thrive Market",
+      "title": "Senior Software Engineer, iOS",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461182099/",
+      "url": "https://www.linkedin.com/jobs/view/4435897172/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FastTek Global",
+      "title": "MTS Software Engineer",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487622369/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Gardens Interactive",
+      "title": "Lead Backend Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488705599/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Heaviside Industries",
+      "title": "Senior Robotics Software Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468290400/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -751,10 +1399,37 @@
       "remote": false
     },
     {
+      "company": "FieldAI",
+      "title": "Software Engineer, Product Infrastructure",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462892070/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "K2 Space Corporation",
       "title": "Senior Application Data Engineer",
       "location": "Los Angeles, CA",
       "url": "https://www.linkedin.com/jobs/view/4435694979/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Crexi",
+      "title": "Senior AI Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450172858/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Ensense AI",
+      "title": "Machine Learning Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487619620/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -769,6 +1444,33 @@
       "remote": false
     },
     {
+      "company": "Emergence AI",
+      "title": "AI Engineer - Prototyping",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487621329/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior Software Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4480840312/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AutoStore\u2122",
+      "title": "Senior Software Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4479620906/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "Intuit",
       "title": "Software Engineer 1",
       "location": "Atlanta, GA",
@@ -778,13 +1480,13 @@
       "remote": false
     },
     {
-      "company": "The Home Depot",
-      "title": "Senior Software Engineer - AI Engineering (Remote)",
+      "company": "Capgemini",
+      "title": "Lead Software Engineer - Senior GECX AI Engineer-",
       "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486785547/",
+      "url": "https://www.linkedin.com/jobs/view/4470252733/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
-      "remote": true
+      "remote": false
     },
     {
       "company": "Workday",
@@ -796,37 +1498,28 @@
       "remote": false
     },
     {
-      "company": "Smarsh",
-      "title": "Software Engineer - Professional Archive Search",
+      "company": "Nasdaq",
+      "title": "Lead Engineer, Platform Engineering & Reliability",
       "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4432367510/",
+      "url": "https://www.linkedin.com/jobs/view/4462865098/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "NCR Voyix",
-      "title": "AI Engineer",
+      "company": "Coinbase",
+      "title": "Senior Market Data Engineer",
       "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4450450224/",
+      "url": "https://www.linkedin.com/jobs/view/4461401670/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Cox Automotive Inc.",
-      "title": "Data Engineer II",
+      "company": "JFrog",
+      "title": "Cloud & Platform Engineering Manager",
       "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4488494898/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "FIS",
-      "title": "Data Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4488449939/",
+      "url": "https://www.linkedin.com/jobs/view/4479362872/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -841,46 +1534,19 @@
       "remote": false
     },
     {
-      "company": "MiniMed",
-      "title": "Senior AI Engineer",
+      "company": "The Coca-Cola Company",
+      "title": "Senior Manager, Application & Machine Learning Engineer",
       "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4488463285/",
+      "url": "https://www.linkedin.com/jobs/view/4479625549/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Humana",
-      "title": "Lead Software Engineer - AI",
+      "company": "JPMorganChase",
+      "title": "Senior Lead Software Engineer - AI/ML/Databricks/Python",
       "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486617579/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capgemini",
-      "title": "Lead Software Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486627980/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "CloudBees",
-      "title": "Senior Software Engineer",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4454330455/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineer, Payments Infrastructure, Vendor Gateway Platform Outbound Flows",
-      "location": "Boulder, CO",
-      "url": "https://www.linkedin.com/jobs/view/4469673389/",
+      "url": "https://www.linkedin.com/jobs/view/4488703805/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -895,10 +1561,82 @@
       "remote": false
     },
     {
+      "company": "Pax8",
+      "title": "Software Engineer, Labs",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4435187939/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer, Payments Infrastructure, Vendor Gateway Platform Outbound Flows",
+      "location": "Boulder, CO",
+      "url": "https://www.linkedin.com/jobs/view/4469673389/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "Checkr, Inc.",
       "title": "Senior Software Engineer, Data",
       "location": "Denver, CO",
       "url": "https://www.linkedin.com/jobs/view/4444710955/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Janus Henderson Investors",
+      "title": "Senior AI Engineer",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4469736574/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "CesiumAstro",
+      "title": "Systems Engineer II",
+      "location": "Denver Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4471643397/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "SciTec",
+      "title": "Senior Aerospace Systems Engineer",
+      "location": "Boulder, CO",
+      "url": "https://www.linkedin.com/jobs/view/4472050090/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Qualcomm",
+      "title": "RF & Channel Emulation Systems Engineer",
+      "location": "Boulder, CO",
+      "url": "https://www.linkedin.com/jobs/view/4479371773/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "CesiumAstro",
+      "title": "Embedded Software Engineer II",
+      "location": "Denver Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4471809743/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Xcel Energy",
+      "title": "Senior Platform Engineer",
+      "location": "Denver Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4477108308/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -913,10 +1651,10 @@
       "remote": false
     },
     {
-      "company": "Janus Henderson Investors",
-      "title": "Senior AI Engineer",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4469736574/",
+      "company": "Wingstop Restaurants Inc.",
+      "title": "Senior Software Engineer \u2013 Restaurant Tech POS & Intelligent Systems",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4412833013/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -931,1397 +1669,11 @@
       "remote": false
     },
     {
-      "company": "Berkshire Hathaway GUARD Insurance Companies",
-      "title": "Data Engineer",
-      "location": "Dallas-Fort Worth Metroplex",
-      "url": "https://www.linkedin.com/jobs/view/4480555297/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Kobie",
-      "title": "AI Engineer",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4470320225/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capgemini",
-      "title": "MLOps Engineer",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4486647113/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Intuit",
-      "title": "Senior software engineer - Data Platform",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488716432/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Innovative Defense Technologies (IDT)",
-      "title": "Systems Engineer - JobID-0036",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412824496/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Qualcomm",
-      "title": "Sr. System Software Engineer - Power",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469690165/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Lyntris",
-      "title": "Senior DevOps / Platform Engineer (Level III)",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4436853039/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Mercury",
-      "title": "Senior Software Engineer - Design Systems",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4486613401/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "OnPoint Community Credit Union",
-      "title": "Platform Engineer, Cloud AI Infrastructure, Sr",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4488495620/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Captiveaire - Region 114 Western PA",
-      "title": "Full Stack. NET Sr. Software Engineer",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4488714052/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "CVS Health",
-      "title": "Senior Software Development Engineer",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4488419184/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Principal Financial Group",
-      "title": "Sr Software Engineer I (AWS - Hybrid Role)",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4480595205/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cisco",
-      "title": "Software Engineering Technical Leader",
-      "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4463177936/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Baxter International Inc.",
-      "title": "Sr. Software Systems Engineer,",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4488701649/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Eaton",
-      "title": "Software Engineer",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4475630052/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Shiro Technologies LLC",
-      "title": "Senior Cloud Application Developer / Cloud Engineer",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4486633776/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cisco",
-      "title": "Senior Software Engineer, DNS",
-      "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4463377772/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Western Governors University",
-      "title": "Software Engineer II",
-      "location": "Salt Lake City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4488423233/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Western Governors University",
-      "title": "Senior Software Engineer",
-      "location": "Salt Lake City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4488458768/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Anrok",
-      "title": "Software Engineer, Agentic AI Infrastructure",
-      "location": "Salt Lake City, UT",
-      "url": "https://www.linkedin.com/jobs/view/4422231775/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "E-Logic, Inc.",
-      "title": "Senior Software Developer",
-      "location": "Salt Lake City, UT",
-      "url": "https://www.linkedin.com/jobs/view/4486616522/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Pearson",
-      "title": "Senior Cloud Engineer",
-      "location": "Salt Lake City, UT",
-      "url": "https://www.linkedin.com/jobs/view/4461947240/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Honeywell Aerospace",
-      "title": "Advanced Systems Engineer - Aircraft Data Networks",
-      "location": "Phoenix, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4488469831/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "ASM",
-      "title": "Snr Engineer, Systems Engineering",
-      "location": "Greater Phoenix Area",
-      "url": "https://www.linkedin.com/jobs/view/4359678406/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "ASM",
-      "title": "Systems Engineer I - Software, Robotics & Semiconductor Automation",
-      "location": "Greater Phoenix Area",
-      "url": "https://www.linkedin.com/jobs/view/4453355606/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Opendoor",
-      "title": "Software Engineer",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4453333806/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "MANTECH",
-      "title": "Lead VDI Systems Engineer",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4477729838/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Strive Solutions",
-      "title": "Controls Systems Engineer",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4486619101/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Atlas Air",
-      "title": "Data Engineer",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4480372721/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Det-Tronics (Detector Electronics, LLC)",
-      "title": "Sr. Systems Engineer (R&D Design Engineering)",
-      "location": "Minneapolis, MN",
-      "url": "https://www.linkedin.com/jobs/view/4471871069/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Det-Tronics (Detector Electronics, LLC)",
-      "title": "Senior Embedded Software Engineer",
-      "location": "Minneapolis, MN",
-      "url": "https://www.linkedin.com/jobs/view/4471858598/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Paychex",
-      "title": "Software Engineer II  (.Net Developer)",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4486285734/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Fifth Third Bank",
-      "title": "Senior Software Engineer - IOS Developer",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4469490654/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "EY",
-      "title": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4477316721/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Paychex",
-      "title": "Systems Engineer I",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4486281891/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "ACL Digital",
-      "title": "Senior Embedded Systems Engineer",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4487341563/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Zachary Piper Solutions",
-      "title": "Kubernetes Platform Engineer",
-      "location": "Dayton, OH",
-      "url": "https://www.linkedin.com/jobs/view/4486999714/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Aether Aerospace",
-      "title": "Software Systems Engineer",
-      "location": "Dayton, OH",
-      "url": "https://www.linkedin.com/jobs/view/4488416066/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Procter & Gamble",
-      "title": "Senior AI Engineer",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4486250630/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Audible",
-      "title": "Software Development Engineer, Early Career",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4471122640/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Audible",
-      "title": "Software Development Engineer, Audible AI Voice Production",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4480192259/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "iManage",
-      "title": "Senior Software Engineer",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4487315647/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Otter",
-      "title": "Senior Backend Software Engineer",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4442679824/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "SAIC",
-      "title": "Cloud Engineer Mid-level",
-      "location": "Washington, DC",
-      "url": "https://www.linkedin.com/jobs/view/4480342499/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "IBM",
-      "title": "Confluent - Senior Software Engineer II - Fleet Management Unified Deployment",
-      "location": "Boston, KY",
-      "url": "https://www.linkedin.com/jobs/view/4460744463/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Watershed",
-      "title": "Software engineer, cloud infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479306723/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Whatnot",
-      "title": "Data Engineer, Payments",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4443438933/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Atlassian",
-      "title": "Machine Learning Engineer",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4488458159/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Stripe",
-      "title": "Machine Learning Engineer, Radar",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4476984167/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Tanium",
-      "title": "Applied AI Engineer II",
-      "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4487345900/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Atlassian",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488458020/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital One",
-      "title": "Machine Learning Engineer 4 - Intelligent Foundations and Experiences (IFX)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4471487318/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Novia Infotech",
-      "title": "MLOps Engineer",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4486276110/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Pivotal",
-      "title": "Computer Vision Engineer \u2013 Autonomy & Perception",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441703816/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AEye, Inc.",
-      "title": "Senior Systems Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488191389/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Redwood Materials",
-      "title": "Senior Battery Systems Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488416797/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "E Service Point",
-      "title": "Senior Systems Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488422517/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Teli Labs",
-      "title": "Robotics Systems Engineer",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487327991/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Software Engineer, Ads Experience (C++)",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4379471207/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AMD",
-      "title": "MTS Software Development Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486265018/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Foresight",
-      "title": "Senior Platform Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488199446/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Oscar Health",
-      "title": "Senior Software Engineer, Cloud Infrastructure / SRE",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486285569/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Docusign",
-      "title": "Senior Software Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469479646/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Vercel",
-      "title": "Software Engineer, Agentic Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469105025/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cohere",
-      "title": "Software Engineer, ML Workload Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487317740/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Zipline",
-      "title": "Senior Data Engineer - Data Platform",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4443509927/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Foresight",
-      "title": "Senior Data Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488407179/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Versa Networks",
-      "title": "Sr. Data Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453697654/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capgemini",
-      "title": "Senior Data Engineer - Azure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488432924/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "TikTok",
-      "title": "Machine Learning Engineer, AI Agent",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487344458/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital One",
-      "title": "AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471111421/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Typeface",
-      "title": "Senior ML Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469699468/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital One",
-      "title": "AI Engineer 5",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480379994/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital One",
-      "title": "Machine Learning Engineer 4 - Manager IC",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488184404/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Snap Inc.",
-      "title": "Software Engineer, ML Infrastructure, ML Platform Level 5",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480102845/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Kodiak Sciences",
-      "title": "Senior Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487340547/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Machine Learning Engineer, Applied Science",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425921776/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "General Motors",
-      "title": "Senior Robotics Software Engineer \u2013 AI-Enabled Manipulation & Industrial Automation",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488191572/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Oscar Health",
-      "title": "Senior Software Engineer, Fullstack",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4486293292/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Oscar Health",
-      "title": "Senior Software Engineer, Backend",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4486278823/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Sunstone Credit",
-      "title": "Senior Software Engineer",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4486273364/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Coinbase",
-      "title": "Senior Software Engineer (Institutional, USDC)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488168995/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Lead",
-      "title": "Software Engineer III",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4471629847/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cohere",
-      "title": "Software Engineer, GPU Infrastructure",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4487326340/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "BIP",
-      "title": "Senior Platform Engineer, Generative AI Infrastructure",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4486289518/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Wise Skulls",
-      "title": "Senior Data Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4486253507/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Gotham Technology Group",
-      "title": "Data Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488421486/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital One",
-      "title": "Data Engineer 5",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488184406/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AARATECH",
-      "title": "Data Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4487303814/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Planned Parenthood Federation of America",
-      "title": "Senior Specialist, Data Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488400322/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Tenth Revolution Group",
-      "title": "Senior Data Engineer",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4486240616/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Blossom",
-      "title": "Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488441962/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Foresight",
-      "title": "Applied AI Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488401471/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital One",
-      "title": "Machine Learning Engineer 4 (Manager, IC)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4471495128/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Plaid",
-      "title": "Software Engineer, Full Stack",
-      "location": "Greater Seattle Area",
-      "url": "https://www.linkedin.com/jobs/view/4461788735/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "NexHealth",
-      "title": "Senior Software Engineer, Platform",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4234425677/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Atlassian",
-      "title": "Software Engineer",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4488459025/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Digital Realty",
-      "title": "Systems Engineer",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4487304861/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Superhuman",
-      "title": "Data Engineer, Finance",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4470100497/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "OpenAI",
-      "title": "Machine Learning Engineer, Core Experimentation",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4470047249/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "TogetherWork",
-      "title": "Full Stack Software Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4488431570/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AMD",
-      "title": "Software Development Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4486247887/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Optimize Search Group",
-      "title": "Java Software Engineer",
-      "location": "Austin, Texas Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4487306518/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "IC Resources",
-      "title": "Senior Solutions Software Engineer: Python/API (Client-Facing):  $150-190K",
-      "location": "Austin, Texas Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4481259651/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "MongoDB",
-      "title": "Senior Software Engineer, Query Optimization",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4471165159/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AMD",
-      "title": "MTS Systems Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4486251575/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AMD",
-      "title": "SMTS Software Development Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4486247868/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Panic Button",
-      "title": "Senior Software Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/3714333613/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "HCLTech",
-      "title": "Cloud & GenAI Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4486277069/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "General Motors",
-      "title": "Senior Data Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4488438925/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Samsung Semiconductor",
-      "title": "Senior Data Engineer, Defect Quality & Systems",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4471801494/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "RSM US LLP",
-      "title": "Senior Data Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4487359090/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "General Motors",
-      "title": "Senior AI Data Engineer - GPSC Insights Engineering",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4488451488/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Apex Fintech Solutions",
-      "title": "Software Engineer I (IMPACT)",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4488175504/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "TalenTech Digital",
-      "title": "Artificial Intelligence/Machine Learning Engineer 2 - Intern",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4488194682/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Starburst",
-      "title": "Senior Software Engineer, Context Layer",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4470036816/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Chewy",
-      "title": "Software Engineer I, Full Stack, Promotions",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4488430886/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Kensho Technologies",
-      "title": "Senior Backend Software Engineer",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4397341016/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "ZoomInfo",
-      "title": "Software Engineer III",
-      "location": "Waltham, MA",
-      "url": "https://www.linkedin.com/jobs/view/4462482620/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Akamai Technologies",
-      "title": "Senior Software Engineer",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4488426771/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Imprivata",
-      "title": "Software Engineer II, EAM Appliance",
-      "location": "Waltham, MA",
-      "url": "https://www.linkedin.com/jobs/view/4470100033/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Draper",
-      "title": "Senior Systems Engineer",
-      "location": "Greater Boston",
-      "url": "https://www.linkedin.com/jobs/view/4461337013/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Arm",
-      "title": "Senior Software Engineer",
-      "location": "Waltham, MA",
-      "url": "https://www.linkedin.com/jobs/view/4487320929/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Meta",
-      "title": "Software Engineer, Embedded Systems",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4486263180/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "VIA",
-      "title": "Senior Data Platform Engineer",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4480991544/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Motional",
-      "title": "Senior Software Engineer, Data Platform",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4469777117/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Tempus AI",
-      "title": "Senior Data Engineer",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4479193363/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Analog Devices",
-      "title": "Associate Machine Learning Engineer",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4469361629/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital One",
-      "title": "AI Engineer 5 (FM Hosting, LLM Inference)",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4472003912/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Akamai Technologies",
-      "title": "Machine Learning Senior Software Engineer",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4488445083/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Pendar Technologies",
-      "title": "Scientific Software Engineer \u2013 Algorithms",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4488431298/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Abbott",
-      "title": "Senior Software & AI Engineer",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488448729/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "West Monroe",
-      "title": "Senior Applied AI Engineer/Architect",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4435347284/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Samson Rose",
-      "title": "Robotics Software Engineer \u2013 Lunar Rover Localization",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487335017/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "The Home Depot",
-      "title": "Software Engineer 2 (Remote)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487319860/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "The Coca-Cola Company",
-      "title": "Senior Software Engineer, Customer Financial Execution",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487363203/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "HexArmor",
-      "title": "Software Engineer II",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4486999589/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "The Home Depot",
-      "title": "Software Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487324666/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Honeywell Technologies",
-      "title": "Advanced Software Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4480176625/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "NCR Atleos",
-      "title": "PS Software Engineer IV",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4479381106/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Incident IQ",
-      "title": "Senior Data Engineer",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4459561629/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cox Automotive Inc.",
-      "title": "Sr Data Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4488403852/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Safe-Guard Products International",
-      "title": "Data Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487320270/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Grid Dynamics",
-      "title": "Senior Data Engineer",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4486287427/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Quantiphi",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486290160/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "EY",
-      "title": "Client Technology - Senior Software Engineering with AI Capabilities",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4477707442/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Worldwide Wholesale Solution's, LLC",
-      "title": "Software Engineer / Full-Stack Developer / Data Engineer \u2014 Contract Network",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4483184667/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AppFolio",
-      "title": "Sr. Software Engineer - Leasing",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4480186016/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AppFolio",
-      "title": "Sr. Software Engineer - Affordable Housing",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4480180184/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "CesiumAstro",
-      "title": "Embedded Software Engineer II",
-      "location": "Denver Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4471816589/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Rowan Digital Infrastructure",
-      "title": "Data Engineer, Operations Analytics",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4488413730/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Hilton",
-      "title": "AI Software Engineer",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4488193650/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Leidos",
-      "title": "Systems Engineer",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4462452415/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "United Software Group Inc",
-      "title": "Systems Engineering Specialist Advisor Architect\u2013 Active Directory/Entra ID/Manage Engine",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4486231993/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
       "company": "InfoVision Inc.",
       "title": "C++ Developer( with Media Domain)",
       "location": "Dallas, TX",
       "url": "https://www.linkedin.com/jobs/view/4483894095/",
-      "date_posted": "2026-11-06",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
@@ -2330,1016 +1682,24 @@
       "title": "Embedded Systems Engineer-Media/Video Streaming",
       "location": "Dallas, TX",
       "url": "https://www.linkedin.com/jobs/view/4483889559/",
-      "date_posted": "2026-11-06",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "EY",
-      "title": "Service Delivery Center, Senior Data Engineer",
+      "company": "Milliman",
+      "title": "Senior Software Engineer-Cloud",
       "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4486291351/",
-      "date_posted": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/4414050168/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "PwC",
-      "title": "Tax Innovation - Data Engineer - Senior Associate",
+      "company": "Humana",
+      "title": "Lead Software Engineer \u2013 Enterprise Observability",
       "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4453651958/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Expo Experts",
-      "title": "Data Engineer",
-      "location": "Dallas-Fort Worth Metroplex",
-      "url": "https://www.linkedin.com/jobs/view/4488423208/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Scotiabank",
-      "title": "AI Engineer",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4487351786/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "RIVO Holdings, LLC",
-      "title": "Senior Software Engineer",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488449400/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Leidos",
-      "title": "Senior Systems Engineer \u2013 Technical Program Lead",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486284867/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Leidos",
-      "title": "Senior Systems Engineer - Deputy Project Manager",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486294458/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Zachary Piper Solutions",
-      "title": "Systems Engineer \u2013 Level II",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487357119/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Leidos",
-      "title": "Algorithm Software Engineer",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462037010/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "PMAT, Inc.",
-      "title": "Cloud Engineer III",
-      "location": "San Diego Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4478574313/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "PMAT, Inc.",
-      "title": "Cloud Engineer II",
-      "location": "San Diego Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4478560804/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "SAIC",
-      "title": "Senior Software Engineer Expeditionary Systems (OpAI)",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454060072/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "XPO",
-      "title": "Lead Engineer, Software Engineering (Mobile Development)",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4444153134/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "EY",
-      "title": "AI & Distributed Systems Fullstack Engineer - Senior - Consulting - Location OPEN",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4449887349/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cambia Health Solutions",
-      "title": "Data Platform Engineer III (HEDIS Support)",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4484540521/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "DZYNE Technologies",
-      "title": "Systems Engineer",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4487352498/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "District Systems Engineer",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4459565611/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cisco",
-      "title": "Software Engineer, Collaboration Devices",
-      "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4480163697/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Tanium",
-      "title": "Software Engineer II, AI Security",
-      "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4487348784/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Tanium",
-      "title": "Senior Software Engineer, AI Security",
-      "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4487351681/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "TARGAN Inc.",
-      "title": "Commercial Data Software Engineer II/III",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4486280709/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Grantek",
-      "title": "Systems Engineer",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4486245953/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cisco",
-      "title": "Senior Cloud Engineer, Hybrid in RTP, North Carolina",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4487330969/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Biogensys",
-      "title": "Cloud Engineer- Mid Level (Hybrid)",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4488424333/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "InfoStride",
-      "title": "Cloud Engineer",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4488425375/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Highbrow Technology Inc",
-      "title": "Data Engineer - Pyspark",
-      "location": "Raleigh-Durham-Chapel Hill Area",
-      "url": "https://www.linkedin.com/jobs/view/4486987782/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Rose International",
-      "title": "Senior Azure Data Engineer / Analytics Specialist",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4486278698/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Kastech Software Solutions Group",
-      "title": "Senior Azure Data Engineer / Analytics Specialist",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4487335586/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "TechInsights",
-      "title": "Tableau Data Engineer & Modeler",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4488448093/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Convergent Research",
-      "title": "Research Software Engineer",
-      "location": "Boulder, CO",
-      "url": "https://www.linkedin.com/jobs/view/4488451219/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "PrincePerelson and Associates",
-      "title": "Embedded Systems Engineer",
-      "location": "Salt Lake City, UT",
-      "url": "https://www.linkedin.com/jobs/view/4487349323/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "PwC",
-      "title": "NGA AI Engineer Manager",
-      "location": "Salt Lake City, UT",
-      "url": "https://www.linkedin.com/jobs/view/4453645754/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "U-Haul",
-      "title": "Software Developer",
-      "location": "Phoenix, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4488177717/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Honeywell Aerospace",
-      "title": "Design Systems Engineer - Turbomachinery",
-      "location": "Phoenix, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4488419916/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cognizant",
-      "title": "GCP data Engineer",
-      "location": "Phoenix, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4487350876/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cognizant",
-      "title": "Sr. GCP Data Engineer (Remote)",
-      "location": "Phoenix, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4487350878/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "TriWest Healthcare Alliance",
-      "title": "Manager, Data Engineering (Master Data Management) MDM",
-      "location": "Phoenix, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4435386343/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Lennar",
-      "title": "Sr Software Engineer",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4453636403/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Augmented",
-      "title": "Senior Backend Engineer (Go / Blockchain) \u2013 Fintech",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4487301444/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Lennar",
-      "title": "Lead Data Engineer",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4471878259/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "TherapyNotes, LLC",
-      "title": "Cloud Systems Engineer - Site Reliability",
-      "location": "Philadelphia, PA",
-      "url": "https://www.linkedin.com/jobs/view/4487344590/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "T-Mobile",
-      "title": "Senior Data Engineer, AdTech",
-      "location": "Philadelphia, PA",
-      "url": "https://www.linkedin.com/jobs/view/4487712286/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Keylent Inc",
-      "title": "Data Engineering Manager",
-      "location": "Greater Philadelphia",
-      "url": "https://www.linkedin.com/jobs/view/4488438354/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Ovative Group",
-      "title": "Analyst, Data & Software Engineer",
-      "location": "Minneapolis, MN",
-      "url": "https://www.linkedin.com/jobs/view/4486282673/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Calfus Inc.",
-      "title": "Lead Data Engineer",
-      "location": "Greater Minneapolis-St. Paul Area",
-      "url": "https://www.linkedin.com/jobs/view/4488424348/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "GE Aerospace",
-      "title": "Sr Enterprise Application Engineer - PLM",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4480530805/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Medpace",
-      "title": "AI Engineer",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4453273198/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "General Motors",
-      "title": "Senior Backend Software Engineer - GM Energy",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4443945149/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Google",
-      "title": "Senior Software Engineer, Cloud Spanner Platform",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479394463/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Prove",
-      "title": "Senior Software Engineer - Knowledge Graph",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479615987/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Compass",
-      "title": "Senior Software Engineer II",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4480503070/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Plaud",
-      "title": "Backend Engineer - Palo Alto",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452727505/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capgemini",
-      "title": "GPU Software Engineer (C++)",
-      "location": "Greater Minneapolis-St. Paul Area",
-      "url": "https://www.linkedin.com/jobs/view/4486649058/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "JPMorganChase",
-      "title": "Senior Lead Software Engineering - C++ low latency",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4443781179/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Schr\u00f6dinger",
-      "title": "Senior Cloud Engineer",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4454847700/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "LVT (LiveView Technologies)",
-      "title": "Senior Cloud Engineer",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4480566432/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Workday",
-      "title": "Software Development Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470199267/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Senior Software Engineer, Platform Engineering",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4432688461/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Deloitte",
-      "title": "Agentic AI Engineer \u2014 Healthcare AI",
-      "location": "Minneapolis, MN",
-      "url": "https://www.linkedin.com/jobs/view/4426743454/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460640544/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Niantic Spatial, Inc.",
-      "title": "Senior Computer Vision Engineer, Embodied AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471176025/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Duranta",
-      "title": "Computer Vision Engineer",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4459846876/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Hinge Health",
-      "title": "Senior Software Engineer, Fullstack, Rewards & Incentives",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470515373/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Google",
-      "title": "Senior Software Engineer, Infrastructure, Google Cloud Platforms",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4442043244/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cisco",
-      "title": "Senior Software Engineer, Cisco Intersight",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480571276/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Rippling",
-      "title": "Senior Software Engineer, Backend - Financial Product",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463338514/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Moody's Corporation",
-      "title": "Backend - Senior Software Engineer",
-      "location": "Newark, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459600433/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "OKX",
-      "title": "Senior Software Engineer, Payment",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470799635/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "General Motors",
-      "title": "Senior Systems Engineer - Autonomy Behavior",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463125682/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Fandom",
-      "title": "Senior Cloud Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480390802/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "OpenAI",
-      "title": "Software Engineer, API Multicloud",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4426170568/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Lambda",
-      "title": "Senior Software Engineer - Managed Kubernetes",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470127272/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Higgsfield AI",
-      "title": "Data Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488706749/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Reddit, Inc.",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4442731755/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Chime",
-      "title": "AI/ML Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422202258/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Rivian and Volkswagen Group Technologies",
-      "title": "Sr. Software Engineer - Computer Vision",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470035654/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Thomas To",
-      "title": "Machine Learning Engineer, Data Curation - Autonomous Vehicles",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488715412/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "CLEAR",
-      "title": "Senior Fullstack Software Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453194394/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Bayview Asset Management, LLC",
-      "title": "Backend Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4477720280/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Uber",
-      "title": "Sr Software Engineer - Developer Platform",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480555295/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "CLEAR",
-      "title": "Software Engineer, Data (Platform)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4453132736/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "EliseAI",
-      "title": "Senior Data Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4369923737/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Rillet",
-      "title": "Applied AI Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4407175659/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Rippling",
-      "title": "Senior Software Engineer, RQL",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4472267698/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Overland AI",
-      "title": "Senior Infrastructure Software Engineer",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4488701661/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "General Motors",
-      "title": "Senior Backend Software Engineer - Commercial Software",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4471622230/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "webAI",
-      "title": "CRDT Software Engineer - Product",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4469761654/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Deloitte",
-      "title": ".NET Software Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4480587549/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Braze",
-      "title": "Software Engineer II, User Targeting",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4480536364/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Meta",
-      "title": "Software Engineer, Systems ML - Compilers",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4470550535/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "PayPal",
-      "title": "Sr Software Engineer - Cloud Infrastructure and Devops",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4463125650/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "FullStack",
-      "title": "Senior Machine Learning Engineer (Traditional ML & Financial Data) - Remote - USA",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4480579153/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "KAYAK",
-      "title": "Software Engineer, Ads (Backend)",
-      "location": "Cambridge, MA",
-      "url": "https://www.linkedin.com/jobs/view/4434079004/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Software Engineer, Conversational Products & Agent Workflows",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4481199914/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Dassault Syst\u00e8mes",
-      "title": "PowerFLOW Discretizer Software Engineer",
-      "location": "Waltham, MA",
-      "url": "https://www.linkedin.com/jobs/view/4488475099/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "WHOOP",
-      "title": "Senior Platform Engineer (Kubernetes, Application Infrastructure)",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4444947790/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Senior Machine Learning Platform Engineer",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4481609280/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Klaviyo",
-      "title": "Software Engineer II - Recommendations",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4453731566/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "NASA Jet Propulsion Laboratory",
-      "title": "Engineering Applications Software Engineer l",
-      "location": "Pasadena, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486461062/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "K2 Space Corporation",
-      "title": "Senior Application Data Engineer",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4435694979/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Tata Consultancy Services",
-      "title": "AI/ML Engineer",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453270200/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Intuit",
-      "title": "Software Engineer 1",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4480521360/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "The Home Depot",
-      "title": "Senior Software Engineer - AI Engineering (Remote)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486785547/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Workday",
-      "title": "Sr Associate Software Development Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4432340310/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "NCR Voyix",
-      "title": "AI Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4450450224/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Delta Air Lines",
-      "title": "Senior Data Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4479614644/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capgemini",
-      "title": "Lead Software Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486627980/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Google",
-      "title": "Software Engineer, Payments Infrastructure, Vendor Gateway Platform Outbound Flows",
-      "location": "Boulder, CO",
-      "url": "https://www.linkedin.com/jobs/view/4469673389/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Fivetran",
-      "title": "Senior Software Engineer, Metadata",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4454312148/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Checkr, Inc.",
-      "title": "Senior Software Engineer, Data",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4444710955/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Vantage",
-      "title": "Data Infrastructure and Systems Specialist, NA",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4480550539/",
-      "date_posted": "2026-11-07",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Janus Henderson Investors",
-      "title": "Senior AI Engineer",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4469736574/",
+      "url": "https://www.linkedin.com/jobs/view/4477774872/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -3363,10 +1723,10 @@
       "remote": false
     },
     {
-      "company": "Capgemini",
-      "title": "MLOps Engineer",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4486647113/",
+      "company": "Qualcomm",
+      "title": "Senior Software Engineer",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487623359/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -3376,6 +1736,24 @@
       "title": "Senior software engineer - Data Platform",
       "location": "San Diego, CA",
       "url": "https://www.linkedin.com/jobs/view/4488716432/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Salk Institute for Biological Studies",
+      "title": "Research Software Engineer I - Laboratory of Dr. Talmo Pereira",
+      "location": "San Diego Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4470514412/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "SAIC",
+      "title": "Senior Systems Engineer MBSE",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480831807/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -3417,10 +1795,19 @@
       "remote": false
     },
     {
-      "company": "Baxter International Inc.",
-      "title": "Sr. Software Systems Engineer,",
-      "location": "Raleigh, NC",
-      "url": "https://www.linkedin.com/jobs/view/4488701649/",
+      "company": "Cisco",
+      "title": "Senior Software Engineer, DNS",
+      "location": "Durham, NC",
+      "url": "https://www.linkedin.com/jobs/view/4463377772/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "ACA Group",
+      "title": "Full Stack / Platform Engineer (Python, React, AWS)",
+      "location": "Durham, NC",
+      "url": "https://www.linkedin.com/jobs/view/4470195258/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -3435,10 +1822,46 @@
       "remote": false
     },
     {
-      "company": "Cisco",
-      "title": "Senior Software Engineer, DNS",
+      "company": "Baxter International Inc.",
+      "title": "Sr. Software Systems Engineer,",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4488732196/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Skanska",
+      "title": "Data Engineer",
       "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4463377772/",
+      "url": "https://www.linkedin.com/jobs/view/4469774776/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "IBM",
+      "title": "AI Software Engineer Spring Co-op 2027",
+      "location": "Durham, NC",
+      "url": "https://www.linkedin.com/jobs/view/4477395855/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Lively, Inc.",
+      "title": "Sr. Software Engineer - Front-End (PST/MST ONLY)",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4479392409/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Medallion Bank",
+      "title": "Senior Software Engineer",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4392945767/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -3453,19 +1876,19 @@
       "remote": false
     },
     {
-      "company": "ASM",
-      "title": "Snr Engineer, Systems Engineering",
-      "location": "Greater Phoenix Area",
-      "url": "https://www.linkedin.com/jobs/view/4359678406/",
+      "company": "Intel",
+      "title": "System Software Development Engineer",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4479611965/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
       "company": "ASM",
-      "title": "Systems Engineer I - Software, Robotics & Semiconductor Automation",
+      "title": "Snr Engineer, Systems Engineering",
       "location": "Greater Phoenix Area",
-      "url": "https://www.linkedin.com/jobs/view/4453355606/",
+      "url": "https://www.linkedin.com/jobs/view/4359678406/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -3480,6 +1903,15 @@
       "remote": false
     },
     {
+      "company": "Millennium",
+      "title": "Software Engineer - Digital Assets Trading",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470331624/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "MANTECH",
       "title": "Lead VDI Systems Engineer",
       "location": "Miami, FL",
@@ -3489,19 +1921,28 @@
       "remote": false
     },
     {
-      "company": "Atlas Air",
-      "title": "Data Engineer",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4480372721/",
+      "company": "Nasdaq",
+      "title": "Data Software Engineer",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4463394372/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Det-Tronics (Detector Electronics, LLC)",
-      "title": "Sr. Systems Engineer (R&D Design Engineering)",
-      "location": "Minneapolis, MN",
-      "url": "https://www.linkedin.com/jobs/view/4471871069/",
+      "company": "Keylent Inc",
+      "title": "Lead Data Engineer with ML",
+      "location": "Greater Philadelphia",
+      "url": "https://www.linkedin.com/jobs/view/4488726979/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Janney Montgomery Scott LLC",
+      "title": "Data Engineering and Operations Leader",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4450839235/",
       "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
@@ -3516,101 +1957,1363 @@
       "remote": false
     },
     {
-      "company": "iManage",
-      "title": "Senior Software Engineer",
+      "company": "Det-Tronics (Detector Electronics, LLC)",
+      "title": "Sr. Systems Engineer (R&D Design Engineering)",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4471871069/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Graco",
+      "title": "Senior Endpoint Platform Engineer",
+      "location": "Dayton, MN",
+      "url": "https://www.linkedin.com/jobs/view/4421968581/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Optum",
+      "title": "Associate Software Engineer",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4488743838/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Dell Technologies",
+      "title": "Software Engineer 2",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4487629710/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Crowe",
+      "title": "Machine Learning Engineer",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4454821312/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FDE Times",
+      "title": "Senior Software Engineer - ML Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486689453/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Dex",
+      "title": "Senior MLOps Engineer - Artificial Intelligence (up to $290k)",
+      "location": "New York, United States",
+      "url": "https://www.linkedin.com/jobs/view/4488767649/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Boulder Connect",
+      "title": "Senior MLOps Machine Learning Engineer",
       "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4487315647/",
-      "date_posted": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/4487635118/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Applied Materials",
+      "title": "C, C++ Software Engineer II",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486668354/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486658755/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Vorticity Inc.",
+      "title": "Software Engineer, Parallel Scientific Computing",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487639143/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Lam Research",
+      "title": "Senior Cloud Engineer",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463641845/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FDE Times",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486687460/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FDE Times",
+      "title": "Machine Learning Engineer, Search Quality",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486694214/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FDE Times",
+      "title": "Senior ML Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486695116/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FDE Times",
+      "title": "Sensor Sim - ML Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486690440/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Lead Software Engineer - Backend Engineering - Java/Kotlin",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4303072764/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, HW/SW Co-Design",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4486666936/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Flywheel",
+      "title": "Senior Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4405277658/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Software Engineer Associate III - Databricks",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472274185/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Nominal",
+      "title": "Software Engineer - Backend",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4486677419/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Senior Lead Software Engineer- AI/ML Training Infrastructure",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4479805320/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Agentic AI Engineer \u2014 Healthcare AI",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4426724828/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Cirrus Logic",
+      "title": "Sr. Systems Engineer \u2013 Audio Amplifiers, PC (JM-64000667)",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4321980368/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Crowe",
+      "title": "Machine Learning Software Engineer 1",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4454807477/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Software Engineer, Ad Serving",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4463112362/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "CapTech",
+      "title": "Senior Data Engineer (AWS, Azure, GCP)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4454579244/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Rivian",
+      "title": "Sr. AI Engineer, Enterprise Applied AI",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4325574361/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Cyber Full-Stack Technical Software Engineer",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4435105558/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "CapTech",
+      "title": "Data Engineer (AWS, Azure, GCP)",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4454572269/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AmTrust Financial Services, Inc.",
+      "title": "Cloud Data Engineer",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4453260185/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer, Video SWE",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486685061/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "AI Engineer, Manager - Tax Transformation",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427117671/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Scientific Research Corporation",
+      "title": "CANES Platform Engineer",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452775862/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Smarsh",
+      "title": "Software Engineer - Professional Archive Search",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4432373208/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Pearson",
+      "title": "Senior Cloud Engineer",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4461956099/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "TSMC",
+      "title": "TSMC Arizona \u2014 AI Engineering Manager",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4487634538/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "EY",
+      "title": "AI & Distributed Systems Fullstack Engineer - Senior - Consulting - Location OPEN",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4449880373/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "CTIO AI Engineering Manager",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4453643954/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "NGA AI Engineer Manager",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4453648703/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Honeywell Technologies",
+      "title": "Advanced Software Engineer \u2013 Forge AI & Platform",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4480517930/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Honeywell Technologies",
+      "title": "Advanced Software Engineer - Forge AI & Platform",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4480521835/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Rippling",
+      "title": "Senior Software Engineer, Backend - Financial Product",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4463328937/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Lively, Inc.",
+      "title": "Sr. Software Engineer - Backend (PST / MST ONLY)",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4479376936/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Crypto.com",
+      "title": "Senior Backend Engineer (Sports & Prediction Markets) \u2013 Golang",
+      "location": "New York, United States",
+      "url": "https://www.linkedin.com/jobs/view/4450448197/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Cboe Global Markets",
+      "title": "Senior Cloud Engineer",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4472227950/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Jeppesen ForeFlight",
+      "title": "Sr Software Engineer I, Cloud Services & Backend Modernization",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4470758730/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Replit",
+      "title": "Senior Software Engineer, Compute Platform",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470755433/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Whatnot",
+      "title": "Data Engineer, Payments",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4443421993/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Safelite",
+      "title": "Senior Data Engineer",
+      "location": "Columbus, OH",
+      "url": "https://www.linkedin.com/jobs/view/4480540326/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FullStack",
+      "title": "Senior Machine Learning Engineer (Traditional ML & Financial Data) - Remote - USA",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4480571374/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Glean",
+      "title": "Machine Learning Engineer, Enterprise Brain",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479633876/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Taboola",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480541662/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "RoShay Services",
+      "title": "Senior MLOps Machine Learning Engineer",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4488729419/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Weights & Biases",
+      "title": "Senior Software Engineer, W&B Agent - W&B",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461437948/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Pantheon",
+      "title": "Software Engineer II - Collaborative Web Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461435991/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Meta",
+      "title": "CV/ML Systems Engineer, Hardware Architecture",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470160913/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Siemens Healthineers",
+      "title": "Systems Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449821877/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Cisco",
+      "title": "Senior Software Engineer (Remote)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471833844/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Low Latency Computing (Starlink)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426702162/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, High Performance Computing (Starlink)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426702164/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Compute Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480560485/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Coframe",
+      "title": "Agent Platform Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4440168798/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Superhuman",
+      "title": "Data Engineer, Finance",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469788854/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Cisco",
+      "title": "Senior Data Engineer, Network Platform",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488742838/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "American Express",
+      "title": "Sr Data Engineer II",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469062994/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Generate",
+      "title": "Software Engineer, Data",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484219434/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Workday",
+      "title": "Senior Software Engineer (Data Engineering)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486659546/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Bayworks (YC F26)",
+      "title": "Data Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487609791/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
       "company": "Capital One",
-      "title": "AI Engineer 5",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480379994/",
-      "date_posted": "2026-11-06",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Machine Learning Engineer, Applied Science",
+      "title": "AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425921776/",
-      "date_posted": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/4480842505/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "General Motors",
-      "title": "Senior Robotics Software Engineer \u2013 AI-Enabled Manipulation & Industrial Automation",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488191572/",
-      "date_posted": "2026-11-06",
+      "company": "Plaud",
+      "title": "Machine Learning Engineer, Inference & Serving (Speech LLM) - San Francisco",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452716569/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "NexHealth",
+      "company": "Capital One",
+      "title": "AI Engineer 5 (AI Foundations: Evaluations and Agentic Workflows)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488734142/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Ambience Healthcare",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452621894/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Uber",
+      "title": "Senior Software Engineer - ML Infra",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454341726/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Thomas To",
+      "title": "Senior System Software Engineer, DGX Cloud AI Infrastructure",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488702879/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Carta",
+      "title": "Senior Software Engineer II, Investors",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4477732882/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Mercury",
+      "title": "Senior Backend Engineer - Product",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4432324746/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Scale",
       "title": "Senior Software Engineer, Platform",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4463140723/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Solomon Page",
+      "title": "Data Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449201504/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Tax Innovation - Data Engineer - Senior Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4453679105/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Garner Health",
+      "title": "Data Engineer III",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461996796/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Whatnot",
+      "title": "Software Engineer, Data Developer Platform",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4324829210/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Thomson Reuters",
+      "title": "Senior Data Platform Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4470706322/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Capital One",
+      "title": "AI Engineer 4 (Vision model (VLM) customization experience)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472007826/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Capital One",
+      "title": "AI Engineer 4 (Gen AI Platform Services)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488722746/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Ande",
+      "title": "Software Engineer, AI (Early Career)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488750135/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Amalgamated Bank",
+      "title": "AI Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4480541846/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Capital One",
+      "title": "AI Engineer 4 (AI Foundations: World Model, RL, Causal Inference, Sequential Data)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488729274/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Amalgamated Bank",
+      "title": "Senior AI Engineer",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4480538952/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Brighton Jones",
+      "title": "Senior Software Engineer",
       "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4234425677/",
-      "date_posted": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/4418075637/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Tempus AI",
-      "title": "Senior Data Engineer",
+      "company": "MaintainX",
+      "title": "Applied AI Engineer",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4462333187/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Overland AI",
+      "title": "Software Engineer - Behaviors & Planning",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4488706487/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Software Engineer - Egress (Go/Rust)",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4477388801/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Kapsch Group",
+      "title": "Lead Systems Engineer - Tolling Delivery",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4486660100/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Cadence",
+      "title": "Lead Software Engineer",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4479647025/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Annapurna Labs",
+      "title": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4471638429/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Austin Sensing Company",
+      "title": "Embedded Systems Engineer",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4488720964/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Core Reliability",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4480564191/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Avride",
+      "title": "Software Engineer \u2013 ML Platform",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4439829764/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "IBM",
+      "title": "Data Engineer",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4450455775/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "CesiumAstro",
+      "title": "Senior Machine Learning Engineer II",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4368395372/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Senior Software Engineer - Identity and Access Management",
       "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4479193363/",
-      "date_posted": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/4467774537/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "HexArmor",
+      "company": "Klaviyo",
+      "title": "Sr. Lead Software Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4479621776/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Alegeus",
       "title": "Software Engineer II",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4486999589/",
-      "date_posted": "2026-11-06",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4480514735/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "The Home Depot",
-      "title": "Software Engineer",
+      "company": "Capital One",
+      "title": "Data Engineer 4 (Manager, IC)",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4472000917/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Capital One",
+      "title": "Manager, Data Engineering - Modeling and Architecture",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4472292121/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Senior Lead Software Engineer - Data Platform",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4443156269/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Forward Deployed Data Engineering - Senior Associate",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4453650831/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Senior Software Engineer - Data Automation",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4480276372/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Raft",
+      "title": "Lead AI/ML Software Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4427003757/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Thrive Market",
+      "title": "Senior Software Engineer, iOS",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4435897172/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FastTek Global",
+      "title": "MTS Software Engineer",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487622369/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Gardens Interactive",
+      "title": "Lead Backend Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488705599/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Heaviside Industries",
+      "title": "Senior Robotics Software Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468290400/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "FieldAI",
+      "title": "Software Engineer, Product Infrastructure",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462892070/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Crexi",
+      "title": "Senior AI Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450172858/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Ensense AI",
+      "title": "Machine Learning Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487619620/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Emergence AI",
+      "title": "AI Engineer - Prototyping",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487621329/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Microsoft",
+      "title": "Senior Software Engineer",
       "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487324666/",
-      "date_posted": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/4480840312/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "AppFolio",
-      "title": "Sr. Software Engineer - Leasing",
+      "company": "AutoStore\u2122",
+      "title": "Senior Software Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4479620906/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Capgemini",
+      "title": "Lead Software Engineer - Senior GECX AI Engineer-",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4470252733/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Nasdaq",
+      "title": "Lead Engineer, Platform Engineering & Reliability",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4462865098/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Market Data Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4461401670/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "JFrog",
+      "title": "Cloud & Platform Engineering Manager",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4479362872/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "The Coca-Cola Company",
+      "title": "Senior Manager, Application & Machine Learning Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4479625549/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Senior Lead Software Engineer - AI/ML/Databricks/Python",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4488703805/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Pax8",
+      "title": "Software Engineer, Labs",
       "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4480186016/",
-      "date_posted": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/4435187939/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "AppFolio",
-      "title": "Sr. Software Engineer - Affordable Housing",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4480180184/",
-      "date_posted": "2026-11-06",
+      "company": "CesiumAstro",
+      "title": "Systems Engineer II",
+      "location": "Denver Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4471643397/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "United Software Group Inc",
-      "title": "Systems Engineering Specialist Advisor Architect\u2013 Active Directory/Entra ID/Manage Engine",
+      "company": "SciTec",
+      "title": "Senior Aerospace Systems Engineer",
+      "location": "Boulder, CO",
+      "url": "https://www.linkedin.com/jobs/view/4472050090/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Qualcomm",
+      "title": "RF & Channel Emulation Systems Engineer",
+      "location": "Boulder, CO",
+      "url": "https://www.linkedin.com/jobs/view/4479371773/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "CesiumAstro",
+      "title": "Embedded Software Engineer II",
+      "location": "Denver Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4471809743/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Xcel Energy",
+      "title": "Senior Platform Engineer",
+      "location": "Denver Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4477108308/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Wingstop Restaurants Inc.",
+      "title": "Senior Software Engineer \u2013 Restaurant Tech POS & Intelligent Systems",
       "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4486231993/",
-      "date_posted": "2026-11-06",
+      "url": "https://www.linkedin.com/jobs/view/4412833013/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Milliman",
+      "title": "Senior Software Engineer-Cloud",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4414050168/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Humana",
+      "title": "Lead Software Engineer \u2013 Enterprise Observability",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4477774872/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Qualcomm",
+      "title": "Senior Software Engineer",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487623359/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Salk Institute for Biological Studies",
+      "title": "Research Software Engineer I - Laboratory of Dr. Talmo Pereira",
+      "location": "San Diego Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4470514412/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "SAIC",
+      "title": "Senior Systems Engineer MBSE",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480831807/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "ACA Group",
+      "title": "Full Stack / Platform Engineer (Python, React, AWS)",
+      "location": "Durham, NC",
+      "url": "https://www.linkedin.com/jobs/view/4470195258/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Baxter International Inc.",
+      "title": "Sr. Software Systems Engineer,",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4488732196/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Skanska",
+      "title": "Data Engineer",
+      "location": "Durham, NC",
+      "url": "https://www.linkedin.com/jobs/view/4469774776/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "IBM",
+      "title": "AI Software Engineer Spring Co-op 2027",
+      "location": "Durham, NC",
+      "url": "https://www.linkedin.com/jobs/view/4477395855/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Lively, Inc.",
+      "title": "Sr. Software Engineer - Front-End (PST/MST ONLY)",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4479392409/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Medallion Bank",
+      "title": "Senior Software Engineer",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4392945767/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Intel",
+      "title": "System Software Development Engineer",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4479611965/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Millennium",
+      "title": "Software Engineer - Digital Assets Trading",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470331624/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Nasdaq",
+      "title": "Data Software Engineer",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4463394372/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Keylent Inc",
+      "title": "Lead Data Engineer with ML",
+      "location": "Greater Philadelphia",
+      "url": "https://www.linkedin.com/jobs/view/4488726979/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Janney Montgomery Scott LLC",
+      "title": "Data Engineering and Operations Leader",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4450839235/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Graco",
+      "title": "Senior Endpoint Platform Engineer",
+      "location": "Dayton, MN",
+      "url": "https://www.linkedin.com/jobs/view/4421968581/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Optum",
+      "title": "Associate Software Engineer",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4488743838/",
+      "date_posted": "2026-11-07",
       "ats": "LinkedIn",
       "remote": false
     }
