@@ -1,64 +1,108 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-08 21:25 UTC*
+*Last updated: 2026-11-08 23:00 UTC*
 
-**15 new role(s)** since last run · 26 total in last 2h
+**26 new role(s)** since last run · 34 total in last 2h
 
-### [Software Engineer, Specs C++, Level 5](https://www.linkedin.com/jobs/view/4454335508/) — Snap Inc.
-- 📍 **Location:** Los Angeles, CA
+### [Software Engineer, Backend - Member Software](https://www.linkedin.com/jobs/view/4488813279/) — Base Power Company
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-11-08
 
-### [Backend Software Engineer, Global E-commerce - Seller Business - Global E-Commerce US](https://www.linkedin.com/jobs/view/4487670036/) — TikTok
+### [Software Engineer, Backend - Factory Software](https://www.linkedin.com/jobs/view/4488805428/) — Base Power Company
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-11-08
+
+### [Lead Software Engineer, Backend - Growth & Monetization](https://www.linkedin.com/jobs/view/4487121149/) — Nominal
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-11-08
 
-### [Jr. Systems Engineer - Colorado Springs, CO](https://www.linkedin.com/jobs/view/4488807167/) — Davidson Technologies
-- 📍 **Location:** Colorado Springs, CO
+### [Lead Software Engineer, Backend - Growth & Monetization](https://www.linkedin.com/jobs/view/4487119246/) — Nominal
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-11-08
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4488805240/) — CGS Federal (Contact Government Services)
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4488801506/) — MSI Company
-- 📍 **Location:** Delray Beach, FL
-- 🕒 **Posted:** 2026-11-08
-
-### [Data Engineer- Greater Tampa](https://www.linkedin.com/jobs/view/4488807168/) — MaxHealth
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-11-08
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4486058285/) — Veridic Solutions
-- 📍 **Location:** Jacksonville, FL
-- 🕒 **Posted:** 2026-11-08
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4488799517/) — Node.Digital LLC
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-11-08
-
-### [HBITS-08-15087-Software Developer-Expert](https://www.linkedin.com/jobs/view/4488814000/) — Knowledge Builders Inc
-- 📍 **Location:** Albany, NY
-- 🕒 **Posted:** 2026-11-08
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4480678250/) — USPS HIRING
-- 📍 **Location:** Rancho Cucamonga, CA
-- 🕒 **Posted:** 2026-11-08
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4488810162/) — Metas Solutions
+### [EY-Parthenon - Strategy and Execution - Growth Platforms - Software Engineer - Sr Assoc/Consultant](https://www.linkedin.com/jobs/view/4487113590/) — EY-Parthenon
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-11-08
 
-### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4480845436/) — Capital One
-- 📍 **Location:** Cambridge, MA
+### [Sr. Software Systems Engineer,](https://www.linkedin.com/jobs/view/4488817176/) — Baxter International Inc.
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-11-08
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4488813143/) — KIG Konnice Egypt
-- 📍 **Location:** New York, United States
+### [Software Engineer, Distributed Compute](https://www.linkedin.com/jobs/view/4488814239/) — Base Power Company
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-11-08
 
-### [Senior AI Platform Engineer](https://www.linkedin.com/jobs/view/4472224982/) — Cboe Global Markets
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-08
-
-### [AI/ML Engineering Intern](https://www.linkedin.com/jobs/view/4487660304/) — Daice Labs
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4488810342/) — AgileGrid Solutions
 - 📍 **Location:** United States
+- 🕒 **Posted:** 2026-11-08
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4486383728/) — Granule Labs
+- 📍 **Location:** Greater Seattle Area
+- 🕒 **Posted:** 2026-11-08
+
+### [Python Developer](https://www.linkedin.com/jobs/view/4488806412/) — AgileGrid Solutions
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-11-08
+
+### [Senior Data Engineer — AI-Native Data Platform](https://www.linkedin.com/jobs/view/4488801671/) — Aarden AI
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-11-08
+
+### [Machine Learning Engineer - New Grad](https://www.linkedin.com/jobs/view/4486066764/) — SambaNova
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-08
+
+### [Full Stack Software Engineer, Compute](https://www.linkedin.com/jobs/view/4487115573/) — Nominal
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-08
+
+### [Lead Software Engineer, Backend - Growth & Monetization](https://www.linkedin.com/jobs/view/4487121151/) — Nominal
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-08
+
+### [Lead Software Engineer, Frontend - Growth & Monetization](https://www.linkedin.com/jobs/view/4487122113/) — Nominal
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-08
+
+### [Full Stack Software Engineer, Compute](https://www.linkedin.com/jobs/view/4487117404/) — Nominal
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-11-08
+
+### [Lead Software Engineer, Frontend - Growth & Monetization](https://www.linkedin.com/jobs/view/4487103967/) — Nominal
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-11-08
+
+### [Full Stack Software Engineer, Compute](https://www.linkedin.com/jobs/view/4487126023/) — Nominal
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-11-08
+
+### [Lead Software Engineer, Frontend - Growth & Monetization](https://www.linkedin.com/jobs/view/4487109703/) — Nominal
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-11-08
+
+### [Full Stack Software Engineer, Compute](https://www.linkedin.com/jobs/view/4487111632/) — Nominal
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-08
+
+### [Lead Software Engineer, Backend - Growth & Monetization](https://www.linkedin.com/jobs/view/4487114587/) — Nominal
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-08
+
+### [MTS Software Engineer](https://www.linkedin.com/jobs/view/4487622369/) — FastTek Global
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-11-08
+
+### [Lead Software Engineer, Frontend - Growth & Monetization](https://www.linkedin.com/jobs/view/4487119244/) — Nominal
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-08
+
+### [Data Systems AI / ML Engineer](https://www.linkedin.com/jobs/view/4488804577/) — Oak Ridge National Laboratory
+- 📍 **Location:** Oak Ridge, TN
+- 🕒 **Posted:** 2026-11-08
+
+### [Senior Software Engineer - Alpharetta, GA](https://www.linkedin.com/jobs/view/4449814589/) — Avanos Medical
+- 📍 **Location:** Atlanta Metropolitan Area
+- 🕒 **Posted:** 2026-11-08
+
+### [2027 Buildings and Systems Engineering Summer Intern](https://www.linkedin.com/jobs/view/4461335202/) — UPS
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-11-08
