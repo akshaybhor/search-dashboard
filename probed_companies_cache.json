@@ -1,14 +1,34 @@
 {
+  "42dot": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/42dot",
+    "name": "42dot",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 108
+  },
   "aaratech": {
     "jobs_seen": 18,
     "name": "AARATECH",
     "probed_at": "2026-11-07",
     "status": "not_found"
   },
+  "acceler8-talent": {
+    "jobs_seen": 5,
+    "name": "Acceler8 Talent",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "accenture": {
     "jobs_seen": 24,
     "name": "Accenture",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "addepar": {
+    "jobs_seen": 6,
+    "name": "Addepar",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "agilegrid-solutions": {
@@ -21,6 +41,12 @@
     "jobs_seen": 8,
     "name": "Akamai Technologies",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "alibaba-cloud": {
+    "jobs_seen": 6,
+    "name": "Alibaba Cloud",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "amd": {
@@ -39,6 +65,18 @@
     "jobs_seen": 14,
     "name": "American Express",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "amphenol-communications-solutions": {
+    "jobs_seen": 5,
+    "name": "Amphenol Communications Solutions",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "amtex-systems": {
+    "jobs_seen": 7,
+    "name": "Amtex Systems Inc",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "annapurna-labs": {
@@ -73,6 +111,12 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "ascensus": {
+    "jobs_seen": 7,
+    "name": "Ascensus",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "asm": {
     "ats": "Greenhouse",
     "career_url": "https://job-boards.greenhouse.io/asm",
@@ -85,6 +129,12 @@
     "jobs_seen": 7,
     "name": "ASML",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "asrc-federal": {
+    "jobs_seen": 6,
+    "name": "ASRC Federal",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "atlassian": {
@@ -117,6 +167,12 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "base-power-company": {
+    "jobs_seen": 5,
+    "name": "Base Power Company",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "baxter-international": {
     "jobs_seen": 21,
     "name": "Baxter International Inc.",
@@ -127,6 +183,26 @@
     "jobs_seen": 7,
     "name": "BCforward",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "bcg-x": {
+    "jobs_seen": 6,
+    "name": "BCG X",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "bedrock-robotics": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/bedrock-robotics",
+    "name": "Bedrock Robotics",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 58
+  },
+  "big-wave-digital---usa": {
+    "jobs_seen": 5,
+    "name": "Big Wave Digital - USA",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "biospace": {
@@ -153,6 +229,24 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "boston-university": {
+    "jobs_seen": 6,
+    "name": "Boston University",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "brooks-automation": {
+    "jobs_seen": 6,
+    "name": "Brooks Automation",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "brooksource": {
+    "jobs_seen": 5,
+    "name": "Brooksource",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "cambia-health-solutions": {
     "jobs_seen": 17,
     "name": "Cambia Health Solutions",
@@ -169,6 +263,26 @@
     "jobs_seen": 7,
     "name": "Cargill",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "carrier": {
+    "ats": "Workday",
+    "career_url": "https://carrier.wd5.myworkdayjobs.com/jobs",
+    "name": "Carrier",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 1004
+  },
+  "cash-app": {
+    "jobs_seen": 7,
+    "name": "Cash App",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "cboe-global-markets": {
+    "jobs_seen": 8,
+    "name": "Cboe Global Markets",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "cbts": {
@@ -217,6 +331,26 @@
     "status": "found",
     "total_jobs": 3
   },
+  "chewy": {
+    "ats": "Workday",
+    "career_url": "https://chewy.wd5.myworkdayjobs.com/External",
+    "name": "Chewy",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 226
+  },
+  "choice-hotels-international": {
+    "jobs_seen": 5,
+    "name": "Choice Hotels International",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "chubb": {
+    "jobs_seen": 5,
+    "name": "Chubb",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "citi": {
     "jobs_seen": 10,
     "name": "Citi",
@@ -255,10 +389,42 @@
     "probed_at": "2026-11-07",
     "status": "not_found"
   },
+  "credence": {
+    "jobs_seen": 6,
+    "name": "Credence",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "cryptocom": {
+    "jobs_seen": 6,
+    "name": "Crypto.com",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "cube-hub": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/cube",
+    "name": "Cube Hub Inc.",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 11
+  },
+  "dark-wolf": {
+    "jobs_seen": 5,
+    "name": "Dark Wolf",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "dassault-syst\u00e8mes": {
     "jobs_seen": 8,
     "name": "Dassault Syst\u00e8mes",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "dat-freight-&-analytics": {
+    "jobs_seen": 5,
+    "name": "DAT Freight & Analytics",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "davidson": {
@@ -271,6 +437,30 @@
     "jobs_seen": 205,
     "name": "Deloitte",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "delta-air-lines": {
+    "jobs_seen": 5,
+    "name": "Delta Air Lines",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "delta-dental-ins": {
+    "jobs_seen": 6,
+    "name": "Delta Dental Ins.",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "dexian": {
+    "jobs_seen": 6,
+    "name": "Dexian",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "digital-realty": {
+    "jobs_seen": 5,
+    "name": "Digital Realty",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "digital-waffle": {
@@ -293,11 +483,31 @@
     "status": "found",
     "total_jobs": 439
   },
+  "drw": {
+    "jobs_seen": 6,
+    "name": "DRW",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "e-logic": {
     "jobs_seen": 14,
     "name": "E-Logic, Inc.",
     "probed_at": "2026-11-07",
     "status": "not_found"
+  },
+  "eleven-recruiting": {
+    "jobs_seen": 6,
+    "name": "Eleven Recruiting",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "eli-lilly-and-company": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/eli",
+    "name": "Eli Lilly and Company",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 6
   },
   "emerson": {
     "jobs_seen": 7,
@@ -323,6 +533,24 @@
     "probed_at": "2026-11-07",
     "status": "not_found"
   },
+  "epsilon": {
+    "jobs_seen": 5,
+    "name": "Epsilon",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "etap-software": {
+    "jobs_seen": 6,
+    "name": "ETAP Software",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "everpure": {
+    "jobs_seen": 7,
+    "name": "Everpure",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "expedia": {
     "jobs_seen": 10,
     "name": "Expedia Group",
@@ -336,6 +564,12 @@
     "probed_at": "2026-11-08",
     "status": "found",
     "total_jobs": 14
+  },
+  "extrahop": {
+    "jobs_seen": 6,
+    "name": "ExtraHop",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
   },
   "ey": {
     "jobs_seen": 388,
@@ -361,6 +595,12 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "feditc": {
+    "jobs_seen": 6,
+    "name": "FEDITC",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "fidelity-investments": {
     "jobs_seen": 13,
     "name": "Fidelity Investments",
@@ -377,6 +617,12 @@
     "jobs_seen": 34,
     "name": "First Citizens Bank",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "first-tech-federal-credit-union": {
+    "jobs_seen": 6,
+    "name": "First Tech Federal Credit Union",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "fis": {
@@ -429,6 +675,12 @@
     "status": "found",
     "total_jobs": 132
   },
+  "github": {
+    "jobs_seen": 5,
+    "name": "GitHub",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "global-payments": {
     "jobs_seen": 16,
     "name": "Global Payments Inc.",
@@ -452,6 +704,20 @@
     "name": "Grantek",
     "probed_at": "2026-11-08",
     "status": "not_found"
+  },
+  "gtech": {
+    "jobs_seen": 6,
+    "name": "GTECH LLC",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "harvey-nash": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/harvey",
+    "name": "Harvey Nash",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 373
   },
   "highbrow-technology": {
     "jobs_seen": 11,
@@ -501,10 +767,22 @@
     "probed_at": "2026-11-07",
     "status": "not_found"
   },
+  "inceed": {
+    "jobs_seen": 5,
+    "name": "Inceed",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "infosys": {
     "jobs_seen": 17,
     "name": "Infosys",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "integrated-resources-iri": {
+    "jobs_seen": 6,
+    "name": "Integrated Resources, Inc ( IRI )",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "intel": {
@@ -521,10 +799,36 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "jacobs": {
+    "jobs_seen": 6,
+    "name": "Jacobs",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "johns-hopkins-applied-physics-laboratory": {
+    "jobs_seen": 6,
+    "name": "Johns Hopkins Applied Physics Laboratory",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "jpmorganchase": {
     "jobs_seen": 86,
     "name": "JPMorganChase",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "katalyst-space": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/katalyst",
+    "name": "Katalyst Space",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 30
+  },
+  "keysight": {
+    "jobs_seen": 7,
+    "name": "Keysight Technologies",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "kpmg-us": {
@@ -543,6 +847,24 @@
     "jobs_seen": 12,
     "name": "Lennar",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "lenovo": {
+    "jobs_seen": 6,
+    "name": "Lenovo",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "leonardo-drs": {
+    "jobs_seen": 6,
+    "name": "Leonardo DRS",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "lg-ad-solutions": {
+    "jobs_seen": 6,
+    "name": "LG Ad Solutions",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "lila-sciences": {
@@ -569,10 +891,24 @@
     "status": "found",
     "total_jobs": 309
   },
+  "lseg": {
+    "ats": "Workday",
+    "career_url": "https://lseg.wd3.myworkdayjobs.com/Careers",
+    "name": "LSEG",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 687
+  },
   "mantech": {
     "jobs_seen": 10,
     "name": "MANTECH",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "match-profiler": {
+    "jobs_seen": 6,
+    "name": "Match Profiler",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "mckesson": {
@@ -619,6 +955,12 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "millennium-space-systems": {
+    "jobs_seen": 5,
+    "name": "Millennium Space Systems",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "minimed": {
     "jobs_seen": 7,
     "name": "MiniMed",
@@ -645,10 +987,28 @@
     "probed_at": "2026-11-07",
     "status": "not_found"
   },
+  "mobile-career": {
+    "jobs_seen": 6,
+    "name": "Mobile Career",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "modern-technology-solutions-mtsi": {
     "jobs_seen": 10,
     "name": "Modern Technology Solutions, Inc. (MTSI)",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "moog": {
+    "jobs_seen": 6,
+    "name": "Moog Inc.",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "morgan-stanley": {
+    "jobs_seen": 5,
+    "name": "Morgan Stanley",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "morse": {
@@ -669,6 +1029,12 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "ncr-voyix": {
+    "jobs_seen": 5,
+    "name": "NCR Voyix",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "netapp": {
     "jobs_seen": 12,
     "name": "NetApp",
@@ -687,6 +1053,14 @@
     "probed_at": "2026-11-07",
     "status": "not_found"
   },
+  "neuralink": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/neuralink",
+    "name": "Neuralink",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 80
+  },
   "ninjaone": {
     "ats": "Greenhouse",
     "career_url": "https://job-boards.greenhouse.io/ninjaone",
@@ -695,10 +1069,22 @@
     "status": "found",
     "total_jobs": 111
   },
+  "nominal": {
+    "jobs_seen": 14,
+    "name": "Nominal",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "nord-resume": {
     "jobs_seen": 12,
     "name": "Nord Resume",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "nscale": {
+    "jobs_seen": 6,
+    "name": "Nscale",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "ntt-data-north-america": {
@@ -711,6 +1097,12 @@
     "jobs_seen": 14,
     "name": "Onto Innovation",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "op": {
+    "jobs_seen": 6,
+    "name": "OP",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "openlane": {
@@ -743,6 +1135,12 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "paramount+": {
+    "jobs_seen": 5,
+    "name": "Paramount+",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "paychex": {
     "jobs_seen": 7,
     "name": "Paychex",
@@ -753,6 +1151,40 @@
     "jobs_seen": 42,
     "name": "Pearson",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "peraton": {
+    "jobs_seen": 5,
+    "name": "Peraton",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "pnc": {
+    "ats": "Workday",
+    "career_url": "https://pnc.wd5.myworkdayjobs.com/External",
+    "name": "PNC",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 2000
+  },
+  "postman": {
+    "ats": "Workday",
+    "career_url": "https://postman.wd108.myworkdayjobs.com/Careers",
+    "name": "Postman",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 40
+  },
+  "princeperelson-and-associates": {
+    "jobs_seen": 5,
+    "name": "PrincePerelson and Associates",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "procore": {
+    "jobs_seen": 6,
+    "name": "Procore Technologies",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "prologis": {
@@ -767,10 +1199,42 @@
     "probed_at": "2026-11-07",
     "status": "not_found"
   },
+  "qualcomm-innovation-center": {
+    "jobs_seen": 7,
+    "name": "Qualcomm Innovation Center, Inc.",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "quantiphi": {
+    "jobs_seen": 5,
+    "name": "Quantiphi",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "quera-computing": {
+    "jobs_seen": 5,
+    "name": "QuEra Computing Inc.",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "qumulo": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/qumulo",
+    "name": "Qumulo",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 25
+  },
   "rippling": {
     "jobs_seen": 28,
     "name": "Rippling",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "rivian": {
+    "jobs_seen": 5,
+    "name": "Rivian",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "rivian-and-volkswagen": {
@@ -779,10 +1243,22 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "rose-international": {
+    "jobs_seen": 5,
+    "name": "Rose International",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "rtx": {
     "jobs_seen": 16,
     "name": "RTX",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "sargent-&-lundy": {
+    "jobs_seen": 5,
+    "name": "Sargent & Lundy",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "scalr": {
@@ -807,6 +1283,12 @@
     "status": "found",
     "total_jobs": 1
   },
+  "siemens": {
+    "jobs_seen": 7,
+    "name": "Siemens",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "sierra-nevada": {
     "ats": "Ashby",
     "career_url": "https://jobs.ashbyhq.com/sierra",
@@ -823,10 +1305,30 @@
     "status": "found",
     "total_jobs": 217
   },
+  "sigma": {
+    "jobs_seen": 6,
+    "name": "Sigma",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "silvus": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/silvus",
+    "name": "Silvus Technologies",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 38
+  },
   "siriusxm": {
     "jobs_seen": 16,
     "name": "SiriusXM",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "skanska": {
+    "jobs_seen": 5,
+    "name": "Skanska",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "skyrocket-ventures": {
@@ -851,6 +1353,18 @@
     "jobs_seen": 31,
     "name": "Snap Inc.",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "software-guidance-&-assistance-sga": {
+    "jobs_seen": 5,
+    "name": "Software Guidance & Assistance, Inc. (SGA, Inc.)",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "solomon-page": {
+    "jobs_seen": 5,
+    "name": "Solomon Page",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "sony-interactive-entertainment": {
@@ -923,6 +1437,12 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "systems-planning-&-analysis": {
+    "jobs_seen": 10,
+    "name": "Systems Planning & Analysis",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "t-mobile": {
     "jobs_seen": 28,
     "name": "T-Mobile",
@@ -939,6 +1459,12 @@
     "jobs_seen": 21,
     "name": "Tata Consultancy Services",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "tempus-ai": {
+    "jobs_seen": 5,
+    "name": "Tempus AI",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "teradyne": {
@@ -1009,10 +1535,42 @@
     "status": "found",
     "total_jobs": 18
   },
+  "torch": {
+    "jobs_seen": 6,
+    "name": "Torch Technologies, Inc.",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "toshiba-global-commerce-solutions": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions",
+    "name": "Toshiba Global Commerce Solutions",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 91
+  },
+  "toyota-north-america": {
+    "jobs_seen": 6,
+    "name": "Toyota North America",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "transamerica": {
+    "jobs_seen": 7,
+    "name": "Transamerica",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "trexquant-investment-lp": {
     "jobs_seen": 8,
     "name": "Trexquant Investment LP",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "trilyon": {
+    "jobs_seen": 6,
+    "name": "Trilyon, Inc.",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "true-anomaly": {
@@ -1021,10 +1579,22 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "umatr": {
+    "jobs_seen": 5,
+    "name": "UMATR",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "unity": {
     "jobs_seen": 14,
     "name": "Unity",
     "probed_at": "2026-11-07",
+    "status": "not_found"
+  },
+  "university-of-utah": {
+    "jobs_seen": 5,
+    "name": "University of Utah",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "usaa": {
@@ -1039,6 +1609,12 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "vanguard": {
+    "jobs_seen": 7,
+    "name": "Vanguard",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "vantor": {
     "jobs_seen": 9,
     "name": "Vantor",
@@ -1049,6 +1625,18 @@
     "jobs_seen": 9,
     "name": "Varda Space Industries",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "verizon": {
+    "jobs_seen": 6,
+    "name": "Verizon",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "vertafore": {
+    "jobs_seen": 6,
+    "name": "Vertafore",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "viasat": {
@@ -1077,6 +1665,24 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "vizio": {
+    "jobs_seen": 6,
+    "name": "VIZIO",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "vmc-soft": {
+    "jobs_seen": 6,
+    "name": "VMC Soft Technologies, Inc",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "weights-&-biases": {
+    "jobs_seen": 11,
+    "name": "Weights & Biases",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "wells-fargo": {
     "jobs_seen": 18,
     "name": "Wells Fargo",
@@ -1095,11 +1701,25 @@
     "probed_at": "2026-11-07",
     "status": "not_found"
   },
+  "wolverine-trading": {
+    "jobs_seen": 5,
+    "name": "Wolverine Trading",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
   "ww-talents": {
     "jobs_seen": 18,
     "name": "WW Talents",
     "probed_at": "2026-11-07",
     "status": "not_found"
+  },
+  "xcel-energy": {
+    "ats": "Workday",
+    "career_url": "https://xcelenergy.wd1.myworkdayjobs.com/External",
+    "name": "Xcel Energy",
+    "probed_at": "2026-11-09",
+    "status": "found",
+    "total_jobs": 115
   },
   "yoh-a-day-&-zimmermann-company": {
     "jobs_seen": 10,
@@ -1117,6 +1737,18 @@
     "jobs_seen": 11,
     "name": "Zachary Piper Solutions",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "zebra": {
+    "jobs_seen": 6,
+    "name": "Zebra Technologies",
+    "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "zen-sherpa": {
+    "jobs_seen": 7,
+    "name": "Zen Sherpa LLC",
+    "probed_at": "2026-11-09",
     "status": "not_found"
   },
   "zipline": {
