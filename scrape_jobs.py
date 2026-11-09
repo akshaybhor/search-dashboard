@@ -478,6 +478,7 @@ EXCLUDED_COMPANIES = [
     "xpertis talent",
     "Accenture Federal Services",
     "Archer",
+    "Leidos",
     "Trinzic",
     "zenotis infotech",
     "tsr consulting"
