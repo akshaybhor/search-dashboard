@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10 03:54 UTC",
-  "total_companies": 750,
+  "updated_at": "2026-11-10 07:40 UTC",
+  "total_companies": 751,
   "companies": {
     "15five": {
       "name": "15Five Inc",
@@ -296,7 +296,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 825
+      "total_jobs_seen": 826
     },
     "ande": {
       "name": "Ande",
@@ -472,7 +472,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 8
     },
     "aspire-bakeries": {
       "name": "Aspire Bakeries",
@@ -752,7 +752,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-31",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 47
+      "total_jobs_seen": 48
     },
     "braze": {
       "name": "Braze",
@@ -928,7 +928,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 2152
+      "total_jobs_seen": 2155
     },
     "captiveaire---region-114-western-pa": {
       "name": "Captiveaire - Region 114 Western PA",
@@ -1080,7 +1080,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 93
+      "total_jobs_seen": 95
     },
     "chewy": {
       "name": "Chewy",
@@ -1112,7 +1112,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 1519
+      "total_jobs_seen": 1521
     },
     "citian": {
       "name": "Citian",
@@ -1170,6 +1170,14 @@
       "last_seen": "2026-10-18",
       "total_jobs_seen": 17
     },
+    "clickhouse": {
+      "name": "ClickHouse",
+      "career_url": "https://jobs.ashbyhq.com/clickhouse",
+      "ats": "Ashby",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "total_jobs_seen": 1
+    },
     "clickup": {
       "name": "ClickUp",
       "career_url": "https://jobs.ashbyhq.com/clickup",
@@ -1224,7 +1232,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 96
+      "total_jobs_seen": 97
     },
     "collibra": {
       "name": "Collibra",
@@ -1344,7 +1352,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 412
+      "total_jobs_seen": 416
     },
     "crunchyroll": {
       "name": "Crunchyroll",
@@ -1352,7 +1360,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "crusoe": {
       "name": "Crusoe",
@@ -1360,7 +1368,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-14",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 141
+      "total_jobs_seen": 142
     },
     "cube-hub": {
       "name": "Cube Hub Inc.",
@@ -1384,7 +1392,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 48
+      "total_jobs_seen": 58
     },
     "customerio": {
       "name": "Customer.io",
@@ -1400,7 +1408,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 18998
+      "total_jobs_seen": 19002
     },
     "databricks": {
       "name": "Databricks",
@@ -1648,7 +1656,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "elsevier": {
       "name": "Elsevier",
@@ -1696,7 +1704,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 111
+      "total_jobs_seen": 113
     },
     "eulerity": {
       "name": "Eulerity",
@@ -1720,7 +1728,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-21",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 22
+      "total_jobs_seen": 23
     },
     "expel": {
       "name": "Expel",
@@ -1760,7 +1768,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 67
+      "total_jobs_seen": 70
     },
     "fannie-mae": {
       "name": "Fannie Mae",
@@ -2032,7 +2040,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 15
+      "total_jobs_seen": 17
     },
     "garner-health": {
       "name": "Garner Health",
@@ -2112,7 +2120,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 795
+      "total_jobs_seen": 799
     },
     "genius-sports": {
       "name": "Genius Sports",
@@ -2272,7 +2280,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "gusto-tech": {
       "name": "Gusto Tech",
@@ -2280,7 +2288,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-31",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "gympass": {
       "name": "Gympass",
@@ -2424,7 +2432,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-14",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 135
+      "total_jobs_seen": 136
     },
     "hivewatch": {
       "name": "HiveWatch",
@@ -2464,7 +2472,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-15",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 927
+      "total_jobs_seen": 928
     },
     "hp-inc": {
       "name": "HP Inc.",
@@ -2488,7 +2496,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 339
+      "total_jobs_seen": 341
     },
     "hypebeast": {
       "name": "Hypebeast",
@@ -2544,7 +2552,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 15
+      "total_jobs_seen": 16
     },
     "immunai": {
       "name": "Immunai",
@@ -2640,7 +2648,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 12
     },
     "intelligence-consulting-enterprise-solutions-ices": {
       "name": "Intelligence Consulting Enterprise Solutions, Inc. (ICES)",
@@ -2816,7 +2824,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 1204
+      "total_jobs_seen": 1205
     },
     "klaviyo": {
       "name": "Klaviyo",
@@ -2928,7 +2936,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "lightspeed-pos": {
       "name": "Lightspeed POS",
@@ -2944,7 +2952,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "litera": {
       "name": "Litera",
@@ -3000,7 +3008,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 16
+      "total_jobs_seen": 17
     },
     "lucid-software": {
       "name": "Lucid Software",
@@ -3040,7 +3048,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 46
+      "total_jobs_seen": 47
     },
     "maintainx": {
       "name": "MaintainX",
@@ -3136,7 +3144,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 1040
+      "total_jobs_seen": 1044
     },
     "melotech": {
       "name": "Melotech",
@@ -3240,7 +3248,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "miro": {
       "name": "Miro",
@@ -3272,7 +3280,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "mongodb": {
       "name": "MongoDB",
@@ -3280,7 +3288,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-20",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 201
+      "total_jobs_seen": 203
     },
     "monks": {
       "name": "Monks",
@@ -3328,7 +3336,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 874
+      "total_jobs_seen": 875
     },
     "mozilla": {
       "name": "Mozilla",
@@ -3432,7 +3440,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "nextdoor": {
       "name": "Nextdoor",
@@ -3480,7 +3488,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 8
     },
     "ninjatrader": {
       "name": "NinjaTrader",
@@ -3536,7 +3544,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-20",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 94
+      "total_jobs_seen": 95
     },
     "novig": {
       "name": "Novig",
@@ -3648,7 +3656,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-16",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 251
+      "total_jobs_seen": 253
     },
     "openmind": {
       "name": "OpenMind",
@@ -3824,7 +3832,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-31",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 371
+      "total_jobs_seen": 372
     },
     "pdi": {
       "name": "PDI Technologies",
@@ -3984,7 +3992,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 9
     },
     "point72": {
       "name": "Point72",
@@ -4024,7 +4032,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "profluent": {
       "name": "Profluent",
@@ -4056,7 +4064,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 127
+      "total_jobs_seen": 128
     },
     "purple": {
       "name": "Purple",
@@ -4080,7 +4088,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "qualia": {
       "name": "Qualia",
@@ -4160,7 +4168,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 8
+      "total_jobs_seen": 9
     },
     "rad-ai": {
       "name": "Rad AI",
@@ -4168,7 +4176,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "radar-hr": {
       "name": "Radar HR",
@@ -4200,7 +4208,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-18",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 93
+      "total_jobs_seen": 95
     },
     "red-cell-partners": {
       "name": "Red Cell Partners",
@@ -4224,7 +4232,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 153
+      "total_jobs_seen": 154
     },
     "redis": {
       "name": "Redis",
@@ -4240,7 +4248,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 22
+      "total_jobs_seen": 23
     },
     "relativity": {
       "name": "Relativity",
@@ -4312,7 +4320,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-14",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 70
+      "total_jobs_seen": 71
     },
     "ripple": {
       "name": "Ripple",
@@ -4344,7 +4352,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 341
+      "total_jobs_seen": 343
     },
     "roboflow": {
       "name": "Roboflow",
@@ -4696,7 +4704,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 119
+      "total_jobs_seen": 120
     },
     "sleeper": {
       "name": "Sleeper",
@@ -4792,7 +4800,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 9
     },
     "sonarsource": {
       "name": "Sonarsource",
@@ -4864,7 +4872,7 @@
       "ats": "Lever",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "sprout-social": {
       "name": "Sprout Social",
@@ -5176,7 +5184,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 62
+      "total_jobs_seen": 63
     },
     "the-nuclear-company": {
       "name": "The Nuclear Company",
@@ -5224,7 +5232,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-31",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 4
+      "total_jobs_seen": 5
     },
     "tigergraph": {
       "name": "TigerGraph",
@@ -5328,7 +5336,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 1443
+      "total_jobs_seen": 1445
     },
     "trustly": {
       "name": "Trustly",
@@ -5432,7 +5440,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 10
+      "total_jobs_seen": 12
     },
     "ultima-genomics": {
       "name": "Ultima Genomics",
@@ -5496,7 +5504,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 1316
+      "total_jobs_seen": 1320
     },
     "vanta": {
       "name": "Vanta",
@@ -5520,7 +5528,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 19
+      "total_jobs_seen": 20
     },
     "vaxcyte": {
       "name": "Vaxcyte, Inc.",
@@ -5536,7 +5544,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 17
+      "total_jobs_seen": 18
     },
     "veeva-systems": {
       "name": "Veeva Systems",
@@ -5608,7 +5616,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-21",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 95
+      "total_jobs_seen": 96
     },
     "virta-health": {
       "name": "Virta Health",
@@ -5624,7 +5632,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 28
+      "total_jobs_seen": 30
     },
     "vise": {
       "name": "Vise",
@@ -5800,7 +5808,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-18",
       "last_seen": "2026-11-09",
-      "total_jobs_seen": 54
+      "total_jobs_seen": 55
     },
     "windborne-systems": {
       "name": "WindBorne Systems",
@@ -5840,7 +5848,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-10",
-      "total_jobs_seen": 411
+      "total_jobs_seen": 412
     },
     "worldquant": {
       "name": "WorldQuant",
