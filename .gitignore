@@ -6,6 +6,7 @@ venv/
 # Personal data — NEVER commit (public repo). CI gets these via Actions secrets.
 candidate_profile.md
 candidate_profile.json
+applied_history.json
 run_local_triage.bat
 resume.md
 resume.txt
