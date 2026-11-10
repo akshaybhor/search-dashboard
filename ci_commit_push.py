@@ -49,6 +49,11 @@ import sys
 import time
 from datetime import datetime, timezone
 
+if sys.stdout and hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if sys.stderr and hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REMOTE = "origin"
 BRANCH = "main"
@@ -123,15 +128,22 @@ def merge_all_jobs(theirs: str, ours: str) -> str:
     surface this" stamp the dashboard sorts on, so when both sides carry the
     same url the earlier sighting is the true one.
 
-    No re-prune: both sides were written by scrape_jobs._merge_into_all_jobs,
-    which prunes to ALL_JOBS_PRUNE_DAYS on every write, so their union is
-    already inside the window.
+    Filters out any jobs belonging to EXCLUDED_COMPANIES so pruned companies
+    are not resurrected from remote.
     """
+    try:
+        from scrape_jobs import is_excluded_company
+    except Exception:
+        is_excluded_company = lambda c: False
+
     theirs_data, ours_data = _load(theirs, {}), _load(ours, {})
     by_url = {}
     for job in list(theirs_data.get("jobs", [])) + list(ours_data.get("jobs", [])):
         url = job.get("url")
         if not url:
+            continue
+        comp = job.get("company", "")
+        if is_excluded_company(comp):
             continue
         prev = by_url.get(url)
         if prev is None or _first_seen(job) < _first_seen(prev):
@@ -185,6 +197,11 @@ def merge_scores(theirs: str, ours: str) -> str:
 
 def merge_companies(theirs: str, ours: str) -> str:
     """Union the companies directory by slug/key so concurrent runs don't overwrite additions."""
+    try:
+        from scrape_jobs import is_excluded_company
+    except Exception:
+        is_excluded_company = lambda c: False
+
     theirs_data, ours_data = _load(theirs, {}), _load(ours, {})
     theirs_comps = theirs_data.get("companies", {})
     ours_comps = ours_data.get("companies", {})
@@ -193,6 +210,11 @@ def merge_companies(theirs: str, ours: str) -> str:
     for k in sorted(all_keys):
         t_c = theirs_comps.get(k)
         o_c = ours_comps.get(k)
+        cand = o_c or t_c
+        c_name = (cand.get("name") if isinstance(cand, dict) else "") or k
+        if is_excluded_company(c_name) or is_excluded_company(k) or is_excluded_company(k.replace("-", " ")):
+            continue
+
         if not t_c:
             merged_comps[k] = o_c
         elif not o_c:
