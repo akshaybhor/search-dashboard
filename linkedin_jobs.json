@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-15 02:06 UTC",
-  "total": 30,
-  "new_count": 26,
+  "scraped_at": "2026-11-15 02:45 UTC",
+  "total": 24,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Deloitte",
@@ -103,15 +103,6 @@
       "remote": false
     },
     {
-      "company": "Afe Babalola & Co(EmmanuelChambers)",
-      "title": "Machine Learning Engineer",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4489356430/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
       "company": "Deloitte",
       "title": "Cloud Engineer, Azure",
       "location": "San Antonio, TX",
@@ -130,22 +121,13 @@
       "remote": false
     },
     {
-      "company": "Clera Talent",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491204671/",
+      "company": "Xionex",
+      "title": "Senior Software Engineer",
+      "location": "Greater Kuala Lumpur",
+      "url": "https://www.linkedin.com/jobs/view/4489898987/",
       "date_posted": "2026-11-14",
       "ats": "LinkedIn",
       "remote": false
-    },
-    {
-      "company": "Luxo Group LLC",
-      "title": "Machine Learning Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4489358583/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": true
     },
     {
       "company": "Sprouts Healthy Communities Foundation",
@@ -220,55 +202,19 @@
       "remote": false
     },
     {
-      "company": "Shield",
-      "title": "Data Engineer, Finance (R6329)",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491200615/",
+      "company": "AgileGrid Solutions",
+      "title": "AI Engineer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4491213129/",
       "date_posted": "2026-11-14",
       "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "CDK Global",
-      "title": "Sr Software Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4491215012/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
+      "remote": true
     },
     {
       "company": "AgileGrid Solutions",
       "title": "AI Data Engineer",
       "location": "United States",
       "url": "https://www.linkedin.com/jobs/view/4491208290/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Optum",
-      "title": "Senior AI/ML Engineer",
-      "location": "Eden Prairie, MN",
-      "url": "https://www.linkedin.com/jobs/view/4491208275/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "General Motors",
-      "title": "AI/ML Engineer - Model Inference",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491093939/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AgileGrid Solutions",
-      "title": "AI Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4491213129/",
       "date_posted": "2026-11-14",
       "ats": "LinkedIn",
       "remote": true
@@ -276,238 +222,13 @@
   ],
   "new_jobs": [
     {
-      "company": "Deloitte",
-      "title": "Cloud Engineer, Azure",
-      "location": "Cincinnati, OH",
-      "url": "https://www.linkedin.com/jobs/view/4491213254/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "HuntingCube",
-      "title": "Senior Backend Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4491202640/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Serco",
-      "title": "Junior Software Engineer - Remote",
-      "location": "Virginia, United States",
-      "url": "https://www.linkedin.com/jobs/view/4491200824/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "DBByte",
-      "title": "Senior Software Engineer (TS/JS)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490213198/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Deloitte",
-      "title": "Cloud Engineer, Azure",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4491203652/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Sprouts Healthy Communities Foundation",
-      "title": "Software Engineer III - DevOps SRE Engineering",
-      "location": "Greater Phoenix Area",
-      "url": "https://www.linkedin.com/jobs/view/4491217236/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "City of Indianapolis",
-      "title": "Traffic Systems Engineer - DPW-Design",
-      "location": "Indianapolis, IN",
-      "url": "https://www.linkedin.com/jobs/view/4491203781/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Nord Resume",
+      "company": "Xionex",
       "title": "Senior Software Engineer",
-      "location": "Centreville, VA",
-      "url": "https://www.linkedin.com/jobs/view/4491218183/",
+      "location": "Greater Kuala Lumpur",
+      "url": "https://www.linkedin.com/jobs/view/4489898987/",
       "date_posted": "2026-11-14",
       "ats": "LinkedIn",
       "remote": false
-    },
-    {
-      "company": "Nord Resume",
-      "title": "Augmented Reality Software Engineer",
-      "location": "Lorton, VA",
-      "url": "https://www.linkedin.com/jobs/view/4491097988/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Afe Babalola & Co(EmmanuelChambers)",
-      "title": "Machine Learning Engineer",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4489356430/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Deloitte",
-      "title": "Cloud Engineer, Azure",
-      "location": "San Antonio, TX",
-      "url": "https://www.linkedin.com/jobs/view/4491098896/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Thunderhawk Technology Partners",
-      "title": "Data Engineer",
-      "location": "Charlotte Metro",
-      "url": "https://www.linkedin.com/jobs/view/4491222018/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Clera Talent",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491204671/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Luxo Group LLC",
-      "title": "Machine Learning Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4489358583/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Sprouts Healthy Communities Foundation",
-      "title": "Software Engineer III - Quality Engineering",
-      "location": "Greater Phoenix Area",
-      "url": "https://www.linkedin.com/jobs/view/4491217235/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Deloitte",
-      "title": "Cloud Engineer, Azure",
-      "location": "Greater Indianapolis",
-      "url": "https://www.linkedin.com/jobs/view/4491217141/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "T-Mobile",
-      "title": "Associate Software Engineer- Billing Platform",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4484905398/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "CDK Global",
-      "title": "Sr Software Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4491091989/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AngelList",
-      "title": "Senior Software Engineer, Funds",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4491099722/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Dex",
-      "title": "Software Engineer (up to $250k)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491093972/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cisco",
-      "title": "Software Engineer (Hybrid)",
-      "location": "Durham, NC",
-      "url": "https://www.linkedin.com/jobs/view/4491213108/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "CDK Global",
-      "title": "Sr Software Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4491215012/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AgileGrid Solutions",
-      "title": "AI Data Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4491208290/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Optum",
-      "title": "Senior AI/ML Engineer",
-      "location": "Eden Prairie, MN",
-      "url": "https://www.linkedin.com/jobs/view/4491208275/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "General Motors",
-      "title": "AI/ML Engineer - Model Inference",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491093939/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "AgileGrid Solutions",
-      "title": "AI Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4491213129/",
-      "date_posted": "2026-11-14",
-      "ats": "LinkedIn",
-      "remote": true
     }
   ]
 }
