@@ -50,13 +50,59 @@ def load_company_aliases() -> dict:
     return {}
 
 
+STAFFING_PATTERNS = re.compile(
+    r'\b(staffing|recruiting|recruitment|talent partners|talent solutions|resourcing|'
+    r'placement|headhunters|search group|consulting group|workforce solutions|'
+    r'infotech|consultants|contracting|staffing solutions)\b',
+    re.IGNORECASE
+)
+
+
+def is_staffing_agency(company_name: str, snippet: str = "") -> bool:
+    """Detects whether a company is a staffing agency or third-party recruiter."""
+    if not company_name:
+        return False
+    if is_excluded_company(company_name):
+        return True
+    c_clean = company_name.strip()
+    if STAFFING_PATTERNS.search(c_clean):
+        tech_exceptions = ["capital one", "cloud", "biotech", "palantir", "google", "microsoft", "meta", "apple"]
+        if not any(t in c_clean.lower() for t in tech_exceptions):
+            return True
+    if snippet and any(p in snippet.lower() for p in ["our client is", "on behalf of our client", "c2c or w2", "contract to hire"]):
+        return True
+    return False
+
+
+def record_company_alias(comp_name: str, winning_slug: str):
+    """Automatically persists a newly discovered ATS slug alias to company_aliases.json."""
+    if not comp_name or not winning_slug:
+        return
+    norm_key = normalize_company_key(comp_name)
+    clean_name = comp_name.lower().strip()
+    clean_name = re.sub(r"[\.,'\"\(\)]", "", clean_name)
+    aliases = load_company_aliases()
+    updated = False
+    for k in [norm_key, clean_name]:
+        if k and aliases.get(k) != winning_slug:
+            aliases[k] = winning_slug
+            updated = True
+    if updated:
+        try:
+            with open(ALIASES_FILE, "w", encoding="utf-8") as f:
+                json.dump(aliases, f, indent=2)
+            print(f"  [+] [Learned Alias] Mapped '{comp_name}' -> '{winning_slug}' in company_aliases.json")
+        except Exception:
+            pass
+
+
 def slugify_company(company_name: str) -> list[str]:
     """Generates candidate slugs for a company name."""
     if not company_name:
         return []
-    clean = company_name.lower().strip()
+    clean = re.sub(r"\s*\([^)]*\)", "", company_name).lower().strip()
     clean = re.sub(r"[\.,'\"\(\)]", "", clean)
-    clean = re.sub(r"\b(inc|llc|corp|corporation|ltd|co|technologies|holdings|plc)\b", "", clean).strip()
+    clean = re.sub(r"\b(inc|llc|corp|corporation|ltd|co|technologies|holdings|plc|joint venture|usds|group|company)\b", "", clean).strip()
 
     slugs = []
 
@@ -90,13 +136,20 @@ def slugify_company(company_name: str) -> list[str]:
     parts = clean.split()
     if len(parts) > 1 and len(parts[0]) >= 3 and parts[0] not in GENERIC_PREFIXES and parts[0] not in slugs:
         slugs.append(parts[0])
-    # 5. AI suffix (e.g. 'Scale' -> 'scaleai')
-    if s1 and not s1.endswith("ai") and f"{s1}ai" not in slugs:
-        slugs.append(f"{s1}ai")
-    # 6. Inc suffix (e.g. 'Aerospike' -> 'aerospike-inc')
-    if s1 and f"{s1}-inc" not in slugs:
-        slugs.append(f"{s1}-inc")
+
+    # 5. High-yield business suffixes
+    suffixes = ["solutions", "systems", "tech", "careers", "-inc", "ai"]
+    for suf in suffixes:
+        c1 = f"{s1}{suf}"
+        if c1 not in slugs:
+            slugs.append(c1)
+        if len(parts) > 1 and len(parts[0]) >= 3 and parts[0] not in GENERIC_PREFIXES:
+            cp = f"{parts[0]}{suf}"
+            if cp not in slugs:
+                slugs.append(cp)
+
     return slugs
+
 
 
 def title_similarity(t1: str, t2: str) -> float:
@@ -165,7 +218,7 @@ def check_greenhouse_board(slug: str) -> list[dict]:
     url = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=false"
     req = urllib.request.Request(url, headers=HEADERS)
     try:
-        with urllib.request.urlopen(req, timeout=3) as res:
+        with urllib.request.urlopen(req, timeout=1.5) as res:
             data = json.loads(res.read().decode("utf-8"))
             return data.get("jobs", [])
     except Exception:
@@ -177,7 +230,7 @@ def check_ashby_board(slug: str) -> list[dict]:
     url = f"https://api.ashbyhq.com/posting-api/job-board/{slug}"
     req = urllib.request.Request(url, headers=HEADERS)
     try:
-        with urllib.request.urlopen(req, timeout=3) as res:
+        with urllib.request.urlopen(req, timeout=1.5) as res:
             data = json.loads(res.read().decode("utf-8"))
             return data.get("jobs", [])
     except Exception:
@@ -189,7 +242,7 @@ def check_lever_board(slug: str) -> list[dict]:
     url = f"https://api.lever.co/v0/postings/{slug}?mode=json"
     req = urllib.request.Request(url, headers=HEADERS)
     try:
-        with urllib.request.urlopen(req, timeout=3) as res:
+        with urllib.request.urlopen(req, timeout=1.5) as res:
             data = json.loads(res.read().decode("utf-8"))
             return data if isinstance(data, list) else []
     except Exception:
@@ -201,7 +254,7 @@ def check_rippling_board(slug: str) -> list[dict]:
     url = f"https://ats.rippling.com/{slug}/jobs"
     req = urllib.request.Request(url, headers=HEADERS)
     try:
-        with urllib.request.urlopen(req, timeout=4) as res:
+        with urllib.request.urlopen(req, timeout=2.0) as res:
             text = res.read().decode("utf-8", errors="ignore")
             props = re.findall(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', text)
             if not props:
@@ -230,11 +283,13 @@ def check_rippling_board(slug: str) -> list[dict]:
 def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None) -> tuple[str, str, str]:
     """
     Attempts to discover direct ATS application link for a company and title.
-    Checks Workday, Greenhouse, Ashby, and Lever.
+    Checks Workday, Greenhouse, Ashby, Lever, and Rippling.
     Returns (direct_url, ats_platform, root_career_url).
     """
     if not company_name or is_excluded_company(company_name):
         return "", "", ""
+    if is_staffing_agency(company_name):
+        return "", "Staffing_Agency", ""
 
     if comp_dir is None:
         comp_dir = load_company_directory()
@@ -293,10 +348,12 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
     if not slugs:
         return "", "", ""
 
-    def _maybe_record(root_u: str, ats_name: str):
+    def _maybe_record(root_u: str, ats_name: str, winning_slug: str = ""):
         if root_u and ats_name and comp_key not in existing_companies:
             record_company(company_name, root_u, ats_hint=ats_name, directory_data=comp_dir)
             save_company_directory(comp_dir)
+        if winning_slug:
+            record_company_alias(company_name, winning_slug)
 
     for slug in slugs:
         # Try Greenhouse
@@ -310,7 +367,7 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                     best_score = score
                     best_match = j
             root = f"https://job-boards.greenhouse.io/{slug}"
-            _maybe_record(root, "Greenhouse")
+            _maybe_record(root, "Greenhouse", slug)
             if best_match and best_score >= 0.35:
                 return (
                     best_match.get("absolute_url", ""),
@@ -331,7 +388,7 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                     best_score = score
                     best_match = j
             root = f"https://jobs.ashbyhq.com/{slug}"
-            _maybe_record(root, "Ashby")
+            _maybe_record(root, "Ashby", slug)
             if best_match and best_score >= 0.35:
                 return (
                     best_match.get("jobUrl", ""),
@@ -352,7 +409,7 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                     best_score = score
                     best_match = j
             root = f"https://jobs.lever.co/{slug}"
-            _maybe_record(root, "Lever")
+            _maybe_record(root, "Lever", slug)
             if best_match and best_score >= 0.35:
                 return (
                     best_match.get("hostedUrl", ""),
@@ -373,7 +430,7 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                     best_score = score
                     best_match = j
             root = f"https://ats.rippling.com/{slug}/jobs"
-            _maybe_record(root, "Rippling")
+            _maybe_record(root, "Rippling", slug)
             if best_match and best_score >= 0.35:
                 return (
                     best_match.get("jobUrl", ""),

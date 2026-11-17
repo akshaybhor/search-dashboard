@@ -2107,7 +2107,7 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         "jobs": jobs,
         "new_jobs": new_jobs,
     }
-    with open(json_path, "w") as f:
+    with open(json_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
 
     lines = [
@@ -2126,10 +2126,10 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
             if job.get("date_posted"):
                 lines.append(f"- 🕒 **Posted:** {job['date_posted']}")
             lines.append("")
-    with open(md_path, "w") as f:
+    with open(md_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-    with open(html_path, "w") as f:
+    with open(html_path, "w", encoding="utf-8") as f:
         f.write(_render_jobs_html(
             title=title,
             subtitle=subtitle,

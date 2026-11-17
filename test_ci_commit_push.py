@@ -288,7 +288,7 @@ class WorkflowsUseIt(unittest.TestCase):
     def test_no_workflow_rebases_or_pushes_by_hand(self):
         offenders = []
         for path in self.workflow_files():
-            with open(path) as f:
+            with open(path, encoding="utf-8") as f:
                 body = f.read()
             if "git pull --rebase" in body or "git push" in body:
                 offenders.append(os.path.basename(path))
@@ -296,7 +296,7 @@ class WorkflowsUseIt(unittest.TestCase):
 
     def test_every_committing_workflow_calls_the_script(self):
         for path in self.workflow_files():
-            with open(path) as f:
+            with open(path, encoding="utf-8") as f:
                 body = f.read()
             if "git config user." in body:  # i.e. this workflow makes a commit
                 self.assertIn("ci_commit_push.py", body, os.path.basename(path))

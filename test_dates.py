@@ -140,7 +140,7 @@ class ChokePoint(unittest.TestCase):
             jobs, basename=basename, title="t", subtitle="s",
             accent="#000", empty_message="none", window_label="w",
         )
-        with open(os.path.join(self.tmp, f"{basename}.json")) as f:
+        with open(os.path.join(self.tmp, f"{basename}.json"), encoding="utf-8") as f:
             return json.load(f)["jobs"]
 
     def test_choke_point_clamps_a_future_dated_job(self):
@@ -199,7 +199,7 @@ class RecurrenceGuards(unittest.TestCase):
     ]
 
     def test_scrape_jobs_has_no_utc_day_derivation(self):
-        with open(os.path.join(SCRIPT_DIR, "scrape_jobs.py")) as f:
+        with open(os.path.join(SCRIPT_DIR, "scrape_jobs.py"), encoding="utf-8") as f:
             body = f.read()
         for literal, why in self.FORBIDDEN:
             self.assertNotIn(literal, body, why)
@@ -207,7 +207,7 @@ class RecurrenceGuards(unittest.TestCase):
     def test_utc_labelled_timestamps_are_untouched(self):
         # Guard the guard: these are explicitly labelled UTC and are correct.
         # If a future tightening of FORBIDDEN starts matching them, this fails.
-        with open(os.path.join(SCRIPT_DIR, "scrape_jobs.py")) as f:
+        with open(os.path.join(SCRIPT_DIR, "scrape_jobs.py"), encoding="utf-8") as f:
             body = f.read()
         self.assertIn('strftime("%Y-%m-%d %H:%M UTC")', body)
         for literal, _ in self.FORBIDDEN:
@@ -215,7 +215,7 @@ class RecurrenceGuards(unittest.TestCase):
 
     def test_triage_html_does_not_build_a_day_from_toisostring(self):
         # The same bug in the browser: toISOString() is the UTC day.
-        with open(os.path.join(SCRIPT_DIR, "triage.html")) as f:
+        with open(os.path.join(SCRIPT_DIR, "triage.html"), encoding="utf-8") as f:
             body = f.read()
         self.assertNotIn("toISOString().slice(0, 10)", body)
         self.assertNotIn("toISOString().slice(0,10)", body)

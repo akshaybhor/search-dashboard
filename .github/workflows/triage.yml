@@ -30,10 +30,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Install Anthropic SDK
-        run: pip install anthropic
-
       # Runner 1: Gemini Key 1
       - name: Run triage agent (Gemini Key 1)
         env:

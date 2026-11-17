@@ -92,12 +92,6 @@ def parse_timestamp(ts_str: str) -> datetime | None:
     if not ts_str:
         return None
     s = str(ts_str).strip()
-    m = re.match(r"^(\d{4})-(\d{2})-(\d{2})", s)
-    if m:
-        try:
-            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
-        except Exception:
-            pass
     try:
         s_clean = s.replace("Z", "+00:00")
         if " " in s_clean and "T" not in s_clean:
@@ -108,6 +102,12 @@ def parse_timestamp(ts_str: str) -> datetime | None:
         return dt
     except Exception:
         pass
+    m = re.match(r"^(\d{4})-(\d{2})-(\d{2})", s)
+    if m:
+        try:
+            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
+        except Exception:
+            pass
     return None
 
 
