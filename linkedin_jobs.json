@@ -1,961 +1,2734 @@
 {
-  "scraped_at": "2026-11-17 04:13 UTC",
-  "total": 54,
-  "new_count": 52,
+  "scraped_at": "2026-11-17 08:17 UTC",
+  "total": 152,
+  "new_count": 151,
   "jobs": [
     {
-      "company": "SpaceX Super Intelligence",
-      "title": "Sr. Software Engineer, Ads Serving",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490177506/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "CVS Health",
-      "title": "Senior Software Development Engineer - GenAI",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4490965620/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Elicit",
-      "title": "Senior Software Engineer, Data and Integrations",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479642953/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Fortinet",
-      "title": "Early Careers: Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490968589/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Whova",
-      "title": "Software Engineer (San Diego Only)",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490985180/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "PitchBook",
-      "title": "Sr. Software Development Engineer, Back End",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4490956747/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Imprint",
-      "title": "Software Engineer, Backend",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4490944892/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "OP",
-      "title": "Sr Backend Software Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4481484426/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Knox Systems, Inc.",
-      "title": "Senior Software Engineer",
-      "location": "Arlington, VA",
-      "url": "https://www.linkedin.com/jobs/view/4490171031/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Honeywell Aerospace",
-      "title": "Sr Systems Engineer III/IV \u2013 Gas Turbine Engines & Power Systems",
-      "location": "Phoenix, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4490176595/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Intuitive Research and Technology Corporation",
-      "title": "Senior Systems Engineer",
-      "location": "Huntsville, AL",
-      "url": "https://www.linkedin.com/jobs/view/4490175463/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Aurora Health Care",
-      "title": "Systems Engineer Sr",
-      "location": "Allenton, WI",
-      "url": "https://www.linkedin.com/jobs/view/4490995156/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "title": "Systems Engineer III",
-      "location": "Broomfield, CO",
-      "url": "https://www.linkedin.com/jobs/view/4490190171/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "title": "Systems Engineer III",
-      "location": "Lone Tree, CO",
-      "url": "https://www.linkedin.com/jobs/view/4490191015/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Varda Space Industries",
-      "title": "Senior Spacecraft Systems Engineer, Flight Safety",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490976918/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Varda Space Industries",
-      "title": "Spacecraft Systems Engineer, Flight Safety",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490984537/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Garmin",
-      "title": "Software Engineer 2 (C, C++)",
-      "location": "Tulsa, OK",
-      "url": "https://www.linkedin.com/jobs/view/4490978799/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Phiston Technologies",
-      "title": "Embedded Software Engineer",
-      "location": "Miramar, FL",
-      "url": "https://www.linkedin.com/jobs/view/4490529024/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Mintegral",
-      "title": "Machine Learning Engineer \u2013 Ads Ranking, Recommendation & Optimization (New Grad / PhD Welcome)",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4443819327/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "SpaceX Super Intelligence",
-      "title": "Software Engineer, Ads Serving",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490177557/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Northwest Federal Credit Union",
-      "title": "Cloud Engineer",
-      "location": "Herndon, VA",
-      "url": "https://www.linkedin.com/jobs/view/4490985319/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cube Hub Inc.",
-      "title": "Senior Python Backend Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490976683/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Danone",
-      "title": "Data Engineer, AI (Nutricia + Kate Farms)",
-      "location": "White Plains, NY",
-      "url": "https://www.linkedin.com/jobs/view/4490152985/",
-      "date_posted": "2026-11-16",
+      "company": "Deloitte",
+      "title": "Applied AI Software Engineer III",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4491104831/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
       "company": "PwC",
-      "title": "Data Engineer - Experienced Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4490969606/",
-      "date_posted": "2026-11-16",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4491104945/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4491116480/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4491119460/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4491125208/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491124275/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Hartford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491128081/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491102940/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Hartford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491120290/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Hartford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491102958/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Hartford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491125214/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491120420/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Expedia Group",
+      "title": "Software Development Engineer II - Core AI Experiences",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490407205/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "SonoSim, Inc.",
+      "title": "Full Stack Software Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490415242/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Dassault Syst\u00e8mes",
+      "title": "Software Developer - SPATIAL C++",
+      "location": "Broomfield, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490962853/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "VetsEZ",
+      "title": "Senior API Cloud Platform Engineer (Remote Opportunity)",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4490405827/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Java Backend Software Engineer III",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4490189549/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "EchoStar Corporation",
+      "title": "Senior Software Engineer (Backend- Live Linear Metadata)",
+      "location": "Englewood, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490198108/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PayPal",
+      "title": "Sr Software Engineer, Venmo Platform",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491112179/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PayPal",
+      "title": "Sr Software Engineer, Venmo Platform",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491113135/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Cisco",
+      "title": "Senior Software Engineer | Secure Workload (remote/hybrid)",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491115225/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Cisco",
+      "title": "Senior Software Engineer | Secure Workload (remote/hybrid)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491119049/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "VIZIO",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491104488/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Verkada",
+      "title": "Backend Engineer - Connectivity",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490977196/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Lufco",
+      "title": "Systems Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://www.linkedin.com/jobs/view/4490407614/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "MITRE",
+      "title": "Systems Engineer, Lead",
+      "location": "McLean, VA",
+      "url": "https://www.linkedin.com/jobs/view/4489429260/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Rayvector Technologies",
+      "title": "C/C++ Developer",
+      "location": "Tualatin, OR",
+      "url": "https://www.linkedin.com/jobs/view/4491108894/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Unknown Unknowns",
+      "title": "Embedded Software Engineer",
+      "location": "Broomfield, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490407642/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Stellantis",
+      "title": "Lab Automation Software Engineer",
+      "location": "Auburn Hills, MI",
+      "url": "https://www.linkedin.com/jobs/view/4490197540/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Lufco",
+      "title": "Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://www.linkedin.com/jobs/view/4490197893/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "ARTIDIS",
+      "title": "Field Service Software Engineer",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4490411428/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Indianapolis, IN",
+      "url": "https://www.linkedin.com/jobs/view/4491117432/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "WorkOS",
+      "title": "Software Engineer - Infrastructure Security",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4490404684/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Localize",
+      "title": "Senior Platform Engineer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4490415292/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
     },
     {
       "company": "Visa",
       "title": "Sr. Data Engineer",
       "location": "Foster City, CA",
       "url": "https://www.linkedin.com/jobs/view/4490976132/",
-      "date_posted": "2026-11-16",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Rivian",
-      "title": "Sr. Data Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4490971034/",
-      "date_posted": "2026-11-16",
+      "company": "Brown & Brown",
+      "title": "Data Engineer",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491119394/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Brown & Brown",
+      "title": "Lead Data Engineer",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491108761/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "National Basketball Association (NBA)",
+      "title": "Software Engineer, Enterprise Data Products & Integration",
+      "location": "Secaucus, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4490969691/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
       "company": "PwC",
-      "title": "Data Engineer - Senior Associate",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4490963886/",
-      "date_posted": "2026-11-16",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Louisville, KY",
+      "url": "https://www.linkedin.com/jobs/view/4491118364/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Tesla",
-      "title": "Data Engineer, Field Reliability",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490971355/",
-      "date_posted": "2026-11-16",
+      "company": "Aimpoint Digital",
+      "title": "Senior Data Engineer 2026 - US",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4490405724/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "The Nature Conservancy",
+      "company": "TrustNet Technologies",
       "title": "Senior Data Engineer",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490950275/",
-      "date_posted": "2026-11-16",
+      "url": "https://www.linkedin.com/jobs/view/4491112896/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Circular Action Alliance",
-      "title": "Senior Data Engineer",
+      "company": "Aimpoint Digital",
+      "title": "Lead Data Engineer 2026- US, COL, UK",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4490401888/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "QBE North America",
+      "title": "Lead Machine Learning Engineer",
+      "location": "Madison, WI",
+      "url": "https://www.linkedin.com/jobs/view/4490403433/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "T-Mobile",
+      "title": "AI Engineer",
+      "location": "Bellevue, WA",
+      "url": "https://www.linkedin.com/jobs/view/4491110337/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "ALO",
+      "title": "Senior AI Engineer",
+      "location": "Beverly Hills, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491104387/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "T-Mobile",
+      "title": "AI Engineer",
+      "location": "Frisco, TX",
+      "url": "https://www.linkedin.com/jobs/view/4490995885/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "ALO",
+      "title": "Lead AI Engineer",
+      "location": "Beverly Hills, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491109211/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Ford Motor Company",
+      "title": "Machine Learning Engineer",
+      "location": "Dearborn, MI",
+      "url": "https://www.linkedin.com/jobs/view/4490405134/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Applied AI Software Engineer III",
+      "location": "Greater Indianapolis",
+      "url": "https://www.linkedin.com/jobs/view/4491113619/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Applied AI Software Engineer III",
+      "location": "Louisville, KY",
+      "url": "https://www.linkedin.com/jobs/view/4491122274/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "RecruiterForge",
+      "title": "AI Engineer (Remote)",
       "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490976197/",
-      "date_posted": "2026-11-16",
+      "url": "https://www.linkedin.com/jobs/view/4491119012/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Primary Talent Partners",
-      "title": "Data Engineer - iGrid",
-      "location": "Charlotte, NC",
-      "url": "https://www.linkedin.com/jobs/view/4484488532/",
-      "date_posted": "2026-11-16",
+      "company": "Stellantis",
+      "title": "Senior AI/ML Engineer",
+      "location": "Auburn Hills, MI",
+      "url": "https://www.linkedin.com/jobs/view/4490195580/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Capital Group",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490181570/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491115510/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Capital Group",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490169976/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491118366/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Synechron",
-      "title": "Senior Generative AI Engineer/ Lead",
-      "location": "New York, United States",
-      "url": "https://www.linkedin.com/jobs/view/4478246283/",
-      "date_posted": "2026-11-16",
+      "company": "Aimpoint Digital",
+      "title": "Lead AI Engineer 2026 - US, COL, UK",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4490409491/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Carpe",
-      "title": "Senior Software Engineer, AI-Native",
-      "location": "Santa Barbara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491298957/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "PTC",
-      "title": "Senior AI Software Engineer",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4490994412/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "NCC",
-      "title": "AI Software Engineer II (Credit)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490171674/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NCC",
-      "title": "AI Software Engineer II (Credit)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490178518/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "SpaceX Super Intelligence",
-      "title": "Sr. Software Engineer, Safety",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490186243/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Software Engineer - Conversational AI",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490191045/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Thinking Machines Lab",
-      "title": "Software Engineer, Privacy & Data Governance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484403099/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Southchip Semiconductor Technology",
-      "title": "Field Application Engineer",
+      "company": "Katalyst CRO",
+      "title": "Wireless Software Engineer",
       "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490180369/",
-      "date_posted": "2026-11-16",
+      "url": "https://www.linkedin.com/jobs/view/4490411041/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Axiom Technologies",
-      "title": "Senior Power Platform Engineer",
-      "location": "Warren County, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4490983342/",
-      "date_posted": "2026-11-16",
+      "company": "Google",
+      "title": "Senior Software Engineer, XProf SOC Architect, Performance",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490195804/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Confidential Company",
-      "title": "Senior Software Engineer (Python) \u2013 Investment Mngt (Boston)",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4490974965/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491105893/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Radiant",
-      "title": "Senior Software Engineer, Full Stack",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490976914/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491122204/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Capital Group",
-      "title": "AI Engineer Lead",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490178562/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Tax Innovation - Software Engineering - Senior Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4491123270/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Capital Group",
-      "title": "AI Engineer Lead",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490190202/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Tax Innovation - Software Engineering - Experienced Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4491118362/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Synechron",
-      "title": "SDET AI Engineer with Python Experience",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4490174518/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Melville, NY",
+      "url": "https://www.linkedin.com/jobs/view/4491120310/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Sierra Nevada Corporation",
-      "title": "Systems Engineer III",
-      "location": "Lone Tree, CO",
-      "url": "https://www.linkedin.com/jobs/view/4490181525/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Florham Park, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4491114486/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Sierra Nevada Corporation",
-      "title": "Systems Engineer III",
-      "location": "Plano, TX",
-      "url": "https://www.linkedin.com/jobs/view/4490175631/",
-      "date_posted": "2026-11-16",
+      "company": "AppLab Systems, Inc",
+      "title": "Lead Data Engineer \ufffd Databricks",
+      "location": "Bethlehem, PA",
+      "url": "https://www.linkedin.com/jobs/view/4490199507/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "CrossCountry Consulting",
-      "title": "Jr. Forward Deployed Software Engineer - (PA)",
-      "location": "Philadelphia, PA",
-      "url": "https://www.linkedin.com/jobs/view/4491529617/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Melville, NY",
+      "url": "https://www.linkedin.com/jobs/view/4491118474/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Wise",
-      "title": "Software Engineer",
-      "location": "Austin, Texas Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4490955200/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Florham Park, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4491120397/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "PayPal",
-      "title": "Senior Software Engineer, Database & Caching Infra",
+      "company": "Katalyst CRO",
+      "title": "Wireless Software Engineer",
+      "location": "Redmond, WA",
+      "url": "https://www.linkedin.com/jobs/view/4490405383/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4491103998/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4491121333/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4491107694/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4491128096/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Katalyst CRO",
+      "title": "Wireless Software Engineer",
       "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4491551202/",
-      "date_posted": "2026-11-16",
+      "url": "https://www.linkedin.com/jobs/view/4490194694/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Paradigm",
-      "title": "Senior Software Engineer - Back End",
-      "location": "Irving, TX",
-      "url": "https://www.linkedin.com/jobs/view/4491548296/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491127001/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491119441/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491111766/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491107850/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Kensho Technologies",
+      "title": "Machine Learning Engineer - Summer Intern 2027",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4490954961/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Rolejob",
+      "title": "Software Engineering Manager, Business Systems",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4490406551/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4491125083/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4491111727/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4491114487/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4491118365/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Katalyst CRO",
+      "title": "Wireless Software Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490403437/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491113566/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491121359/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491122339/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491107837/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491119333/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491123142/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Kindgeek",
+      "title": "Python Developer",
+      "location": "Lviv, Lviv, Ukraine",
+      "url": "https://www.linkedin.com/jobs/view/4490407599/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Netrix Global",
+      "title": "Azure Cloud Engineer",
+      "location": "Greater Buenos Aires",
+      "url": "https://www.linkedin.com/jobs/view/4490413425/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Magpie Health Analytics",
+      "title": "Generative AI Engineer",
+      "location": "Baltimore, MD",
+      "url": "https://www.linkedin.com/jobs/view/4490198871/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "OHB SE",
+      "title": "Systems Engineer - Systems Engineer - Embedded Image Processing & Computer Vision (m/f/d)",
+      "location": "Greater Munich Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4490419015/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "VetsEZ",
+      "title": "Senior FHIR Data Platform Engineer (Remote Opportunity)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4490408463/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "VetsEZ",
+      "title": "HealthShare Application Engineer (Remote Opportunity)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4490406705/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4491103997/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4491107813/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Computer Information Concepts, Inc.",
+      "title": "Senior Software Engineer (Modern .NET)",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490402778/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Computer Information Concepts, Inc.",
+      "title": "Software Engineer (Full-Stack Web)",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490402832/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4491119483/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Unknown Unknowns",
+      "title": "Spacecraft Systems Engineer",
+      "location": "Broomfield, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490195999/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4491109643/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4491121368/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4491106900/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "VetsEZ",
+      "title": "Senior AI Application Engineer (Remote Opportunity)",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4490416246/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "PwC",
+      "title": "Tax Innovation - Software Engineering - Experienced Associate",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491119469/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491104796/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491116495/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491118456/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Katalyst CRO",
+      "title": "Wireless Software Engineer",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490402393/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491114626/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491112561/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491121371/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491110764/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4491112579/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4491121334/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4491105895/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4491117564/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "VetsEZ",
+      "title": "HealthShare Application Engineer- Overnight Shift (Remote Opportunity)",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4490406686/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4491117430/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4491101986/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4491104797/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4491106906/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Applied AI Software Engineer III",
+      "location": "Salt Lake City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4491122279/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4491115656/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4491109642/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4491104926/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4491122349/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Applied AI Software Engineer III",
+      "location": "Tempe, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4491127048/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4491105900/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4491115637/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4491126141/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4491122347/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AllCares",
+      "title": "Data Engineering & Analytics Senior Manager",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4490414391/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491120432/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Hazen and Sawyer",
+      "title": "Senior Instrumentation & Control Systems Engineer",
+      "location": "Boca Raton, FL",
+      "url": "https://www.linkedin.com/jobs/view/4480224487/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Boca Raton, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491114620/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491116631/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Boca Raton, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491122337/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491116501/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491111638/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491118490/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491128078/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491111630/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491123289/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Indianapolis, IN",
+      "url": "https://www.linkedin.com/jobs/view/4491124268/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Indianapolis, IN",
+      "url": "https://www.linkedin.com/jobs/view/4491128080/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Indianapolis, IN",
+      "url": "https://www.linkedin.com/jobs/view/4491126005/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4491124298/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4491120399/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4491121364/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4491119463/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     }
   ],
   "new_jobs": [
     {
-      "company": "SpaceX Super Intelligence",
-      "title": "Sr. Software Engineer, Ads Serving",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490177506/",
-      "date_posted": "2026-11-16",
+      "company": "Deloitte",
+      "title": "Applied AI Software Engineer III",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4491104831/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "CVS Health",
-      "title": "Senior Software Development Engineer - GenAI",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4490965620/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4491104945/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Elicit",
-      "title": "Senior Software Engineer, Data and Integrations",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479642953/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4491116480/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Fortinet",
-      "title": "Early Careers: Software Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490968589/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4491119460/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Whova",
-      "title": "Software Engineer (San Diego Only)",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490985180/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4491125208/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "PitchBook",
-      "title": "Sr. Software Development Engineer, Back End",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4490956747/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491124275/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Imprint",
-      "title": "Software Engineer, Backend",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4490944892/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Hartford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491128081/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "OP",
-      "title": "Sr Backend Software Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4481484426/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Knox Systems, Inc.",
-      "title": "Senior Software Engineer",
-      "location": "Arlington, VA",
-      "url": "https://www.linkedin.com/jobs/view/4490171031/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491102940/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Honeywell Aerospace",
-      "title": "Sr Systems Engineer III/IV \u2013 Gas Turbine Engines & Power Systems",
-      "location": "Phoenix, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4490176595/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Hartford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491120290/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Intuitive Research and Technology Corporation",
-      "title": "Senior Systems Engineer",
-      "location": "Huntsville, AL",
-      "url": "https://www.linkedin.com/jobs/view/4490175463/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Hartford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491102958/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Aurora Health Care",
-      "title": "Systems Engineer Sr",
-      "location": "Allenton, WI",
-      "url": "https://www.linkedin.com/jobs/view/4490995156/",
-      "date_posted": "2026-11-16",
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Hartford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491125214/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Sierra Nevada Corporation",
-      "title": "Systems Engineer III",
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Stamford, CT",
+      "url": "https://www.linkedin.com/jobs/view/4491120420/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Expedia Group",
+      "title": "Software Development Engineer II - Core AI Experiences",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490407205/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "SonoSim, Inc.",
+      "title": "Full Stack Software Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490415242/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Dassault Syst\u00e8mes",
+      "title": "Software Developer - SPATIAL C++",
       "location": "Broomfield, CO",
-      "url": "https://www.linkedin.com/jobs/view/4490190171/",
-      "date_posted": "2026-11-16",
+      "url": "https://www.linkedin.com/jobs/view/4490962853/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Sierra Nevada Corporation",
-      "title": "Systems Engineer III",
-      "location": "Lone Tree, CO",
-      "url": "https://www.linkedin.com/jobs/view/4490191015/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Varda Space Industries",
-      "title": "Senior Spacecraft Systems Engineer, Flight Safety",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490976918/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Varda Space Industries",
-      "title": "Spacecraft Systems Engineer, Flight Safety",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490984537/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Garmin",
-      "title": "Software Engineer 2 (C, C++)",
-      "location": "Tulsa, OK",
-      "url": "https://www.linkedin.com/jobs/view/4490978799/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Phiston Technologies",
-      "title": "Embedded Software Engineer",
-      "location": "Miramar, FL",
-      "url": "https://www.linkedin.com/jobs/view/4490529024/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Mintegral",
-      "title": "Machine Learning Engineer \u2013 Ads Ranking, Recommendation & Optimization (New Grad / PhD Welcome)",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4443819327/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "SpaceX Super Intelligence",
-      "title": "Software Engineer, Ads Serving",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490177557/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Northwest Federal Credit Union",
-      "title": "Cloud Engineer",
-      "location": "Herndon, VA",
-      "url": "https://www.linkedin.com/jobs/view/4490985319/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cube Hub Inc.",
-      "title": "Senior Python Backend Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490976683/",
-      "date_posted": "2026-11-16",
+      "company": "VetsEZ",
+      "title": "Senior API Cloud Platform Engineer (Remote Opportunity)",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4490405827/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": true
     },
     {
-      "company": "Danone",
-      "title": "Data Engineer, AI (Nutricia + Kate Farms)",
-      "location": "White Plains, NY",
-      "url": "https://www.linkedin.com/jobs/view/4490152985/",
-      "date_posted": "2026-11-16",
+      "company": "JPMorganChase",
+      "title": "Java Backend Software Engineer III",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4490189549/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "PwC",
-      "title": "Data Engineer - Experienced Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4490969606/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Visa",
-      "title": "Sr. Data Engineer",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490976132/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Rivian",
-      "title": "Sr. Data Engineer",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4490971034/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "PwC",
-      "title": "Data Engineer - Senior Associate",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4490963886/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Tesla",
-      "title": "Data Engineer, Field Reliability",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490971355/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "The Nature Conservancy",
-      "title": "Senior Data Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490950275/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Circular Action Alliance",
-      "title": "Senior Data Engineer",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490976197/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "Primary Talent Partners",
-      "title": "Data Engineer - iGrid",
-      "location": "Charlotte, NC",
-      "url": "https://www.linkedin.com/jobs/view/4484488532/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital Group",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490181570/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital Group",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490169976/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Synechron",
-      "title": "Senior Generative AI Engineer/ Lead",
-      "location": "New York, United States",
-      "url": "https://www.linkedin.com/jobs/view/4478246283/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Carpe",
-      "title": "Senior Software Engineer, AI-Native",
-      "location": "Santa Barbara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4491298957/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "PTC",
-      "title": "Senior AI Software Engineer",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4490994412/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "NCC",
-      "title": "AI Software Engineer II (Credit)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490171674/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "NCC",
-      "title": "AI Software Engineer II (Credit)",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4490178518/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": true
-    },
-    {
-      "company": "SpaceX Super Intelligence",
-      "title": "Sr. Software Engineer, Safety",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490186243/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Software Engineer - Conversational AI",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490191045/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Thinking Machines Lab",
-      "title": "Software Engineer, Privacy & Data Governance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484403099/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Southchip Semiconductor Technology",
-      "title": "Field Application Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490180369/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Axiom Technologies",
-      "title": "Senior Power Platform Engineer",
-      "location": "Warren County, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4490983342/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Confidential Company",
-      "title": "Senior Software Engineer (Python) \u2013 Investment Mngt (Boston)",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4490974965/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Radiant",
-      "title": "Senior Software Engineer, Full Stack",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490976914/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital Group",
-      "title": "AI Engineer Lead",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490178562/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Capital Group",
-      "title": "AI Engineer Lead",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4490190202/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Synechron",
-      "title": "SDET AI Engineer with Python Experience",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4490174518/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "title": "Systems Engineer III",
-      "location": "Lone Tree, CO",
-      "url": "https://www.linkedin.com/jobs/view/4490181525/",
-      "date_posted": "2026-11-16",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "title": "Systems Engineer III",
-      "location": "Plano, TX",
-      "url": "https://www.linkedin.com/jobs/view/4490175631/",
-      "date_posted": "2026-11-16",
+      "company": "EchoStar Corporation",
+      "title": "Senior Software Engineer (Backend- Live Linear Metadata)",
+      "location": "Englewood, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490198108/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
       "company": "PayPal",
-      "title": "Senior Software Engineer, Database & Caching Infra",
+      "title": "Sr Software Engineer, Venmo Platform",
       "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4491551202/",
-      "date_posted": "2026-11-16",
+      "url": "https://www.linkedin.com/jobs/view/4491112179/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Paradigm",
-      "title": "Senior Software Engineer - Back End",
-      "location": "Irving, TX",
-      "url": "https://www.linkedin.com/jobs/view/4491548296/",
-      "date_posted": "2026-11-16",
+      "company": "PayPal",
+      "title": "Sr Software Engineer, Venmo Platform",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491113135/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Cisco",
+      "title": "Senior Software Engineer | Secure Workload (remote/hybrid)",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491115225/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Cisco",
+      "title": "Senior Software Engineer | Secure Workload (remote/hybrid)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491119049/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "VIZIO",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491104488/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Verkada",
+      "title": "Backend Engineer - Connectivity",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490977196/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Lufco",
+      "title": "Systems Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://www.linkedin.com/jobs/view/4490407614/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "MITRE",
+      "title": "Systems Engineer, Lead",
+      "location": "McLean, VA",
+      "url": "https://www.linkedin.com/jobs/view/4489429260/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Rayvector Technologies",
+      "title": "C/C++ Developer",
+      "location": "Tualatin, OR",
+      "url": "https://www.linkedin.com/jobs/view/4491108894/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Unknown Unknowns",
+      "title": "Embedded Software Engineer",
+      "location": "Broomfield, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490407642/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Stellantis",
+      "title": "Lab Automation Software Engineer",
+      "location": "Auburn Hills, MI",
+      "url": "https://www.linkedin.com/jobs/view/4490197540/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Lufco",
+      "title": "Software Engineer",
+      "location": "Annapolis Junction, MD",
+      "url": "https://www.linkedin.com/jobs/view/4490197893/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "ARTIDIS",
+      "title": "Field Service Software Engineer",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4490411428/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Indianapolis, IN",
+      "url": "https://www.linkedin.com/jobs/view/4491117432/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "WorkOS",
+      "title": "Software Engineer - Infrastructure Security",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4490404684/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Localize",
+      "title": "Senior Platform Engineer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4490415292/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Brown & Brown",
+      "title": "Data Engineer",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491119394/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Brown & Brown",
+      "title": "Lead Data Engineer",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491108761/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "National Basketball Association (NBA)",
+      "title": "Software Engineer, Enterprise Data Products & Integration",
+      "location": "Secaucus, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4490969691/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Louisville, KY",
+      "url": "https://www.linkedin.com/jobs/view/4491118364/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Aimpoint Digital",
+      "title": "Senior Data Engineer 2026 - US",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4490405724/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "TrustNet Technologies",
+      "title": "Senior Data Engineer",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4491112896/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Aimpoint Digital",
+      "title": "Lead Data Engineer 2026- US, COL, UK",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4490401888/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "QBE North America",
+      "title": "Lead Machine Learning Engineer",
+      "location": "Madison, WI",
+      "url": "https://www.linkedin.com/jobs/view/4490403433/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "T-Mobile",
+      "title": "AI Engineer",
+      "location": "Bellevue, WA",
+      "url": "https://www.linkedin.com/jobs/view/4491110337/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "ALO",
+      "title": "Senior AI Engineer",
+      "location": "Beverly Hills, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491104387/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "T-Mobile",
+      "title": "AI Engineer",
+      "location": "Frisco, TX",
+      "url": "https://www.linkedin.com/jobs/view/4490995885/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "ALO",
+      "title": "Lead AI Engineer",
+      "location": "Beverly Hills, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491109211/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Ford Motor Company",
+      "title": "Machine Learning Engineer",
+      "location": "Dearborn, MI",
+      "url": "https://www.linkedin.com/jobs/view/4490405134/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Applied AI Software Engineer III",
+      "location": "Greater Indianapolis",
+      "url": "https://www.linkedin.com/jobs/view/4491113619/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Applied AI Software Engineer III",
+      "location": "Louisville, KY",
+      "url": "https://www.linkedin.com/jobs/view/4491122274/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "RecruiterForge",
+      "title": "AI Engineer (Remote)",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4491119012/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "Stellantis",
+      "title": "Senior AI/ML Engineer",
+      "location": "Auburn Hills, MI",
+      "url": "https://www.linkedin.com/jobs/view/4490195580/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491115510/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491118366/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Aimpoint Digital",
+      "title": "Lead AI Engineer 2026 - US, COL, UK",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4490409491/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Katalyst CRO",
+      "title": "Wireless Software Engineer",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490411041/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Google",
+      "title": "Senior Software Engineer, XProf SOC Architect, Performance",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490195804/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491105893/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491122204/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Tax Innovation - Software Engineering - Senior Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4491123270/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Tax Innovation - Software Engineering - Experienced Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4491118362/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Melville, NY",
+      "url": "https://www.linkedin.com/jobs/view/4491120310/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Florham Park, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4491114486/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AppLab Systems, Inc",
+      "title": "Lead Data Engineer \ufffd Databricks",
+      "location": "Bethlehem, PA",
+      "url": "https://www.linkedin.com/jobs/view/4490199507/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Melville, NY",
+      "url": "https://www.linkedin.com/jobs/view/4491118474/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Florham Park, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4491120397/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Katalyst CRO",
+      "title": "Wireless Software Engineer",
+      "location": "Redmond, WA",
+      "url": "https://www.linkedin.com/jobs/view/4490405383/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4491103998/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4491121333/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4491107694/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4491128096/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Katalyst CRO",
+      "title": "Wireless Software Engineer",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4490194694/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491127001/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491119441/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491111766/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491107850/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Kensho Technologies",
+      "title": "Machine Learning Engineer - Summer Intern 2027",
+      "location": "Cambridge, MA",
+      "url": "https://www.linkedin.com/jobs/view/4490954961/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Rolejob",
+      "title": "Software Engineering Manager, Business Systems",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4490406551/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4491125083/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4491111727/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4491114487/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4491118365/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Katalyst CRO",
+      "title": "Wireless Software Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490403437/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491113566/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491121359/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491122339/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491107837/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491119333/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491123142/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Kindgeek",
+      "title": "Python Developer",
+      "location": "Lviv, Lviv, Ukraine",
+      "url": "https://www.linkedin.com/jobs/view/4490407599/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Netrix Global",
+      "title": "Azure Cloud Engineer",
+      "location": "Greater Buenos Aires",
+      "url": "https://www.linkedin.com/jobs/view/4490413425/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Magpie Health Analytics",
+      "title": "Generative AI Engineer",
+      "location": "Baltimore, MD",
+      "url": "https://www.linkedin.com/jobs/view/4490198871/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "OHB SE",
+      "title": "Systems Engineer - Systems Engineer - Embedded Image Processing & Computer Vision (m/f/d)",
+      "location": "Greater Munich Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4490419015/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "VetsEZ",
+      "title": "Senior FHIR Data Platform Engineer (Remote Opportunity)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4490408463/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "VetsEZ",
+      "title": "HealthShare Application Engineer (Remote Opportunity)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4490406705/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4491103997/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4491107813/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Computer Information Concepts, Inc.",
+      "title": "Senior Software Engineer (Modern .NET)",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490402778/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Computer Information Concepts, Inc.",
+      "title": "Software Engineer (Full-Stack Web)",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490402832/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4491119483/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Unknown Unknowns",
+      "title": "Spacecraft Systems Engineer",
+      "location": "Broomfield, CO",
+      "url": "https://www.linkedin.com/jobs/view/4490195999/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4491109643/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4491121368/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Denver, CO",
+      "url": "https://www.linkedin.com/jobs/view/4491106900/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "VetsEZ",
+      "title": "Senior AI Application Engineer (Remote Opportunity)",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4490416246/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "PwC",
+      "title": "Tax Innovation - Software Engineering - Experienced Associate",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491119469/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491104796/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491116495/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4491118456/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Katalyst CRO",
+      "title": "Wireless Software Engineer",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4490402393/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491114626/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491112561/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491121371/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4491110764/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4491112579/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4491121334/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4491105895/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4491117564/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "VetsEZ",
+      "title": "HealthShare Application Engineer- Overnight Shift (Remote Opportunity)",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4490406686/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": true
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4491117430/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4491101986/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4491104797/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4491106906/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Applied AI Software Engineer III",
+      "location": "Salt Lake City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4491122279/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4491115656/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4491109642/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4491104926/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4491122349/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Deloitte",
+      "title": "Applied AI Software Engineer III",
+      "location": "Tempe, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4491127048/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4491105900/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4491115637/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4491126141/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4491122347/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "AllCares",
+      "title": "Data Engineering & Analytics Senior Manager",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4490414391/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491120432/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Hazen and Sawyer",
+      "title": "Senior Instrumentation & Control Systems Engineer",
+      "location": "Boca Raton, FL",
+      "url": "https://www.linkedin.com/jobs/view/4480224487/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Boca Raton, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491114620/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491116631/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Boca Raton, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491122337/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491116501/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4491111638/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491118490/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491128078/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491111630/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4491123289/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Indianapolis, IN",
+      "url": "https://www.linkedin.com/jobs/view/4491124268/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Indianapolis, IN",
+      "url": "https://www.linkedin.com/jobs/view/4491128080/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Indianapolis, IN",
+      "url": "https://www.linkedin.com/jobs/view/4491126005/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer - Senior Associate",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4491124298/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Google Cloud Engineer, Experienced Associate",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4491120399/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4491121364/",
+      "date_posted": "2026-11-17",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "PwC",
+      "title": "Senior Manager, Agentic AI Engineer",
+      "location": "Minneapolis, MN",
+      "url": "https://www.linkedin.com/jobs/view/4491119463/",
+      "date_posted": "2026-11-17",
       "ats": "LinkedIn",
       "remote": false
     }
