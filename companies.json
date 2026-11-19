@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19 19:23 UTC",
-  "total_companies": 1046,
+  "updated_at": "2026-11-19 22:25 UTC",
+  "total_companies": 1050,
   "companies": {
     "15five": {
       "name": "15Five Inc",
@@ -56,7 +56,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-13",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 33
+      "total_jobs_seen": 34
     },
     "3red-partners": {
       "name": "3Red Partners",
@@ -128,7 +128,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 2135
+      "total_jobs_seen": 2138
     },
     "abbvie": {
       "name": "AbbVie",
@@ -264,7 +264,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 59
+      "total_jobs_seen": 61
     },
     "agero": {
       "name": "Agero, Inc.",
@@ -280,7 +280,7 @@
       "ats": "Lever",
       "first_seen": "2026-10-18",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 22
+      "total_jobs_seen": 23
     },
     "agility-robotics": {
       "name": "Agility Robotics",
@@ -328,7 +328,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-20",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 199
+      "total_jobs_seen": 201
     },
     "airbyte": {
       "name": "Airbyte",
@@ -344,7 +344,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 11
     },
     "airship": {
       "name": "Airship",
@@ -464,7 +464,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "amplitude": {
       "name": "Amplitude",
@@ -480,7 +480,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 857
+      "total_jobs_seen": 859
     },
     "ande": {
       "name": "Ande",
@@ -528,7 +528,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 68
+      "total_jobs_seen": 69
     },
     "anydesk": {
       "name": "AnyDesk",
@@ -840,7 +840,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-13",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 21
+      "total_jobs_seen": 23
     },
     "atlas-air": {
       "name": "Atlas Air",
@@ -856,7 +856,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-15",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 10
     },
     "atlas-medical-data": {
       "name": "Atlas Medical Data Group",
@@ -864,7 +864,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-15",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 10
     },
     "atlas-search": {
       "name": "Atlas Search",
@@ -872,7 +872,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 10
     },
     "atom-computing": {
       "name": "Atom Computing",
@@ -952,7 +952,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 39
+      "total_jobs_seen": 40
     },
     "avride": {
       "name": "Avride",
@@ -968,7 +968,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-31",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 8
     },
     "away": {
       "name": "Away",
@@ -1008,7 +1008,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 58
+      "total_jobs_seen": 59
     },
     "babbel": {
       "name": "Babbel",
@@ -1064,7 +1064,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 17
+      "total_jobs_seen": 18
     },
     "baxter": {
       "name": "Baxter",
@@ -1120,7 +1120,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-12",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 58
+      "total_jobs_seen": 59
     },
     "better-debt-solutions": {
       "name": "Better Debt Solutions",
@@ -1186,6 +1186,14 @@
       "last_seen": "2026-10-24",
       "total_jobs_seen": 1
     },
+    "bitwarden": {
+      "name": "Bitwarden",
+      "career_url": "https://job-boards.greenhouse.io/bitwarden",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 2
+    },
     "blackline": {
       "name": "BlackLine",
       "career_url": "https://blackline.wd108.myworkdayjobs.com/BlackLineCareers",
@@ -1224,15 +1232,15 @@
       "ats": "Workday",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 75
+      "total_jobs_seen": 77
     },
     "box": {
       "name": "Box Inc",
       "career_url": "https://job-boards.greenhouse.io/boxinc",
       "ats": "Greenhouse",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-16",
-      "total_jobs_seen": 82
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 83
     },
     "brady": {
       "name": "Brady Corporation",
@@ -1288,7 +1296,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 417
+      "total_jobs_seen": 419
     },
     "broadridge": {
       "name": "Broadridge",
@@ -1456,7 +1464,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 2526
+      "total_jobs_seen": 2529
     },
     "captivation": {
       "name": "Captivation",
@@ -1672,7 +1680,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 32
+      "total_jobs_seen": 34
     },
     "chg-healthcare": {
       "name": "CHG Healthcare",
@@ -1720,7 +1728,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 1641
+      "total_jobs_seen": 1645
     },
     "citian": {
       "name": "Citian",
@@ -1800,7 +1808,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-15",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 121
+      "total_jobs_seen": 132
     },
     "clever": {
       "name": "Clever Inc.",
@@ -1808,7 +1816,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 8
+      "total_jobs_seen": 9
     },
     "clickhouse": {
       "name": "ClickHouse",
@@ -1816,7 +1824,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 37
+      "total_jobs_seen": 39
     },
     "clickup": {
       "name": "ClickUp",
@@ -1880,7 +1888,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-16",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 42
+      "total_jobs_seen": 43
     },
     "cognitiv": {
       "name": "Cognitiv",
@@ -1992,7 +2000,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-15",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 13
+      "total_jobs_seen": 16
     },
     "copia-staffing-partners": {
       "name": "Copia Staffing Partners",
@@ -2040,7 +2048,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-21",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 382
+      "total_jobs_seen": 386
     },
     "costar-group": {
       "name": "CoStar Group",
@@ -2104,7 +2112,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 552
+      "total_jobs_seen": 553
     },
     "crunchyroll": {
       "name": "Crunchyroll",
@@ -2112,7 +2120,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 29
+      "total_jobs_seen": 30
     },
     "crusoe": {
       "name": "Crusoe",
@@ -2160,7 +2168,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 19276
+      "total_jobs_seen": 19284
     },
     "cylake": {
       "name": "Cylake",
@@ -2216,7 +2224,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 7
     },
     "decagon": {
       "name": "Decagon",
@@ -2312,7 +2320,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 29
+      "total_jobs_seen": 30
     },
     "docebo": {
       "name": "Docebo",
@@ -2352,7 +2360,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 49
+      "total_jobs_seen": 50
     },
     "draper": {
       "name": "Draper",
@@ -2360,7 +2368,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 31
+      "total_jobs_seen": 35
     },
     "drata": {
       "name": "Drata",
@@ -2536,7 +2544,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 10
     },
     "emergence-ai": {
       "name": "Emergence AI",
@@ -2584,15 +2592,15 @@
       "ats": "Workday",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 21
+      "total_jobs_seen": 22
     },
     "esri": {
       "name": "Esri",
       "career_url": "https://job-boards.greenhouse.io/esri",
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-17",
-      "total_jobs_seen": 140
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 141
     },
     "etched": {
       "name": "Etched",
@@ -2640,7 +2648,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-21",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 37
+      "total_jobs_seen": 38
     },
     "expel": {
       "name": "Expel",
@@ -2760,7 +2768,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 1035
+      "total_jobs_seen": 1037
     },
     "figma": {
       "name": "Figma",
@@ -2808,7 +2816,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 6
+      "total_jobs_seen": 7
     },
     "flatiron-health": {
       "name": "Flatiron Health",
@@ -2866,13 +2874,21 @@
       "last_seen": "2026-10-31",
       "total_jobs_seen": 1
     },
+    "flip": {
+      "name": "Flip",
+      "career_url": "https://job-boards.greenhouse.io/flip",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 3
+    },
     "floqast": {
       "name": "FloQast",
       "career_url": "https://jobs.lever.co/floqast",
       "ats": "Lever",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 22
+      "total_jobs_seen": 26
     },
     "flowcode": {
       "name": "Flowcode",
@@ -2928,7 +2944,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "forterra": {
       "name": "Forterra",
@@ -2976,7 +2992,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 123
+      "total_jobs_seen": 127
     },
     "freedompay": {
       "name": "FreedomPay",
@@ -3080,7 +3096,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 16
+      "total_jobs_seen": 17
     },
     "gecko-robotics": {
       "name": "Gecko Robotics",
@@ -3152,7 +3168,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 1043
+      "total_jobs_seen": 1053
     },
     "genius-sports": {
       "name": "Genius Sports",
@@ -3264,7 +3280,7 @@
       "ats": "Lever",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 3
+      "total_jobs_seen": 4
     },
     "gorgias": {
       "name": "Gorgias Inc",
@@ -3336,7 +3352,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 96
+      "total_jobs_seen": 97
     },
     "gusto": {
       "name": "Gusto",
@@ -3496,7 +3512,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 105
+      "total_jobs_seen": 106
     },
     "heygen": {
       "name": "HeyGen",
@@ -3600,7 +3616,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-15",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 962
+      "total_jobs_seen": 966
     },
     "hp-inc": {
       "name": "HP Inc.",
@@ -3624,7 +3640,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 482
+      "total_jobs_seen": 489
     },
     "hypebeast": {
       "name": "Hypebeast",
@@ -3640,7 +3656,7 @@
       "ats": "Ashby",
       "first_seen": "2026-09-25",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 12
     },
     "ibotta": {
       "name": "Ibotta",
@@ -3752,7 +3768,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "incident-iq": {
       "name": "Incident IQ",
@@ -3832,7 +3848,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 29
+      "total_jobs_seen": 31
     },
     "intelligence-consulting-enterprise-solutions-ices": {
       "name": "Intelligence Consulting Enterprise Solutions, Inc. (ICES)",
@@ -3920,7 +3936,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 39
+      "total_jobs_seen": 40
     },
     "january": {
       "name": "January",
@@ -4080,7 +4096,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 1242
+      "total_jobs_seen": 1245
     },
     "klaviyo": {
       "name": "Klaviyo",
@@ -4208,7 +4224,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 6
+      "total_jobs_seen": 7
     },
     "light-&-wonder": {
       "name": "Light & Wonder",
@@ -4264,7 +4280,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 7
+      "total_jobs_seen": 8
     },
     "live-nation-entertainment": {
       "name": "Live Nation Entertainment",
@@ -4496,7 +4512,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 66
+      "total_jobs_seen": 70
     },
     "medium": {
       "name": "Medium",
@@ -4512,7 +4528,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 1141
+      "total_jobs_seen": 1142
     },
     "melotech": {
       "name": "Melotech",
@@ -4578,13 +4594,21 @@
       "last_seen": "2026-10-20",
       "total_jobs_seen": 1
     },
+    "metrostar": {
+      "name": "MetroStar",
+      "career_url": "https://job-boards.greenhouse.io/metrostarsystems",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 1
+    },
     "micron-technology": {
       "name": "Micron Technology",
       "career_url": "https://micron.wd1.myworkdayjobs.com/External",
       "ats": "Workday",
       "first_seen": "2026-11-07",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 2992
+      "total_jobs_seen": 2993
     },
     "midi-health": {
       "name": "Midi Health",
@@ -4632,7 +4656,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 43
+      "total_jobs_seen": 44
     },
     "mio-partners": {
       "name": "MIO Partners, Inc.",
@@ -4688,7 +4712,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-20",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 302
+      "total_jobs_seen": 304
     },
     "monks": {
       "name": "Monks",
@@ -4736,7 +4760,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "motive": {
       "name": "Motive",
@@ -4752,7 +4776,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 961
+      "total_jobs_seen": 963
     },
     "mozilla": {
       "name": "Mozilla",
@@ -4847,8 +4871,8 @@
       "career_url": "https://jobs.ashbyhq.com/netic",
       "ats": "Ashby",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
-      "total_jobs_seen": 23
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 24
     },
     "netlify": {
       "name": "Netlify",
@@ -4903,8 +4927,8 @@
       "career_url": "https://job-boards.greenhouse.io/nextdoor",
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-18",
-      "total_jobs_seen": 24
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 29
     },
     "nextech-hypergroup-solution": {
       "name": "Nextech Hypergroup Solution",
@@ -4952,7 +4976,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 35
+      "total_jobs_seen": 36
     },
     "ninjatrader": {
       "name": "NinjaTrader",
@@ -5008,7 +5032,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-20",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 104
+      "total_jobs_seen": 105
     },
     "novig": {
       "name": "Novig",
@@ -5127,8 +5151,8 @@
       "career_url": "https://job-boards.greenhouse.io/okx",
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-14",
-      "total_jobs_seen": 29
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 30
     },
     "oliver-james": {
       "name": "Oliver James",
@@ -5183,8 +5207,8 @@
       "career_url": "https://jobs.ashbyhq.com/openai",
       "ats": "Ashby",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "total_jobs_seen": 44
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 47
     },
     "open-systems": {
       "name": "Open Systems Technologies",
@@ -5192,15 +5216,15 @@
       "ats": "Ashby",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 8
+      "total_jobs_seen": 11
     },
     "openai": {
       "name": "OpenAI",
       "career_url": "https://jobs.ashbyhq.com/openai",
       "ats": "Ashby",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-18",
-      "total_jobs_seen": 404
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 407
     },
     "opendoor": {
       "name": "Opendoor",
@@ -5456,7 +5480,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-31",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 447
+      "total_jobs_seen": 451
     },
     "pdi": {
       "name": "PDI Technologies",
@@ -5704,7 +5728,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 209
+      "total_jobs_seen": 212
     },
     "pocket-yc-w26": {
       "name": "Pocket (YC W26)",
@@ -5832,7 +5856,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 244
+      "total_jobs_seen": 249
     },
     "purple": {
       "name": "Purple",
@@ -6016,7 +6040,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-18",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 163
+      "total_jobs_seen": 164
     },
     "rapp": {
       "name": "RAPP",
@@ -6088,7 +6112,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-20",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 87
+      "total_jobs_seen": 90
     },
     "relativity-space": {
       "name": "Relativity Space",
@@ -6096,7 +6120,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-13",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 33
+      "total_jobs_seen": 36
     },
     "reliable-robotics": {
       "name": "Reliable Robotics Corporation",
@@ -6120,7 +6144,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-13",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 13
+      "total_jobs_seen": 15
     },
     "remote": {
       "name": "Remote",
@@ -6208,7 +6232,7 @@
       "ats": "Ashby",
       "first_seen": "2026-11-15",
       "last_seen": "2026-11-17",
-      "total_jobs_seen": 11
+      "total_jobs_seen": 12
     },
     "riverlane": {
       "name": "Riverlane",
@@ -6256,7 +6280,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 505
+      "total_jobs_seen": 506
     },
     "roboflow": {
       "name": "Roboflow",
@@ -6384,7 +6408,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 96
+      "total_jobs_seen": 97
     },
     "samsung-semiconductor": {
       "name": "Samsung Semiconductor",
@@ -6791,8 +6815,8 @@
       "career_url": "https://jobs.ashbyhq.com/snowflake",
       "ats": "Ashby",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-18",
-      "total_jobs_seen": 60
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 64
     },
     "snyk": {
       "name": "Snyk",
@@ -6951,8 +6975,8 @@
       "career_url": "https://jobs.lever.co/spotify",
       "ats": "Lever",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-18",
-      "total_jobs_seen": 19
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 21
     },
     "spoton": {
       "name": "SpotOn",
@@ -6968,7 +6992,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 2
+      "total_jobs_seen": 3
     },
     "stack-av": {
       "name": "Stack AV",
@@ -7103,8 +7127,8 @@
       "career_url": "https://jobs.ashbyhq.com/substack",
       "ats": "Ashby",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "total_jobs_seen": 1
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 2
     },
     "supabase": {
       "name": "Supabase",
@@ -7112,7 +7136,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 33
+      "total_jobs_seen": 35
     },
     "supercell": {
       "name": "Supercell",
@@ -7295,8 +7319,8 @@
       "career_url": "https://jobs.ashbyhq.com/temporal",
       "ats": "Ashby",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
-      "total_jobs_seen": 100
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 102
     },
     "tennr": {
       "name": "Tennr",
@@ -7352,7 +7376,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-17",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 28
+      "total_jobs_seen": 31
     },
     "thermo-fisher-scientific": {
       "name": "Thermo Fisher Scientific",
@@ -7368,7 +7392,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 524
+      "total_jobs_seen": 525
     },
     "thoughtworks": {
       "name": "Thoughtworks",
@@ -7464,7 +7488,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 50
+      "total_jobs_seen": 51
     },
     "touchbistro": {
       "name": "TouchBistro",
@@ -7520,7 +7544,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 1514
+      "total_jobs_seen": 1517
     },
     "trustly": {
       "name": "Trustly",
@@ -7568,7 +7592,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 34
+      "total_jobs_seen": 35
     },
     "twinmotion": {
       "name": "Twinmotion",
@@ -7592,7 +7616,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-18",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 107
+      "total_jobs_seen": 108
     },
     "typeface": {
       "name": "Typeface",
@@ -7656,7 +7680,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 9
+      "total_jobs_seen": 11
     },
     "ultima-genomics": {
       "name": "Ultima Genomics",
@@ -7690,6 +7714,14 @@
       "last_seen": "2026-10-30",
       "total_jobs_seen": 1
     },
+    "unlimited-technology": {
+      "name": "Unlimited Technology, Inc.",
+      "career_url": "https://job-boards.greenhouse.io/unlimitedtechnology",
+      "ats": "Greenhouse",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 1
+    },
     "upside": {
       "name": "Upside",
       "career_url": "https://jobs.ashbyhq.com/upside",
@@ -7704,7 +7736,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 6
+      "total_jobs_seen": 7
     },
     "urban-sky": {
       "name": "Urban Sky",
@@ -7728,7 +7760,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-24",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 1597
+      "total_jobs_seen": 1611
     },
     "vaco-by-highspring": {
       "name": "Vaco by Highspring",
@@ -7783,8 +7815,8 @@
       "career_url": "https://job-boards.greenhouse.io/veeamsoftware",
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-17",
-      "total_jobs_seen": 38
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 39
     },
     "veeva-systems": {
       "name": "Veeva Systems",
@@ -7815,8 +7847,8 @@
       "career_url": "https://job-boards.greenhouse.io/vercel",
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-18",
-      "total_jobs_seen": 57
+      "last_seen": "2026-11-19",
+      "total_jobs_seen": 59
     },
     "verda": {
       "name": "Verda",
@@ -7880,7 +7912,7 @@
       "ats": "Workday",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 118
+      "total_jobs_seen": 119
     },
     "vise": {
       "name": "Vise",
@@ -7952,7 +7984,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-18",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 32
+      "total_jobs_seen": 33
     },
     "vultr-tech": {
       "name": "Vultr Tech",
@@ -7960,7 +7992,7 @@
       "ats": "Ashby",
       "first_seen": "2026-10-31",
       "last_seen": "2026-11-18",
-      "total_jobs_seen": 17
+      "total_jobs_seen": 18
     },
     "vynca": {
       "name": "Vynca",
@@ -8032,7 +8064,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-17",
-      "total_jobs_seen": 76
+      "total_jobs_seen": 77
     },
     "wayup": {
       "name": "WayUp",
@@ -8152,7 +8184,7 @@
       "ats": "Workday",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 470
+      "total_jobs_seen": 473
     },
     "workos": {
       "name": "WorkOS",
@@ -8248,7 +8280,7 @@
       "ats": "Greenhouse",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
-      "total_jobs_seen": 5
+      "total_jobs_seen": 6
     },
     "yext": {
       "name": "Yext",
