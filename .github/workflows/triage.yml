@@ -36,7 +36,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_1 }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        run: python triage_agent.py --limit 125
+        run: python triage_agent.py --limit 200
 
       # Runner 2: Gemini Key 2
       - name: Run triage agent (Gemini Key 2)
@@ -44,7 +44,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_2 }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        run: python triage_agent.py --limit 125
+        run: python triage_agent.py --limit 200
 
       # Runner 3: Gemini Key 3
       - name: Run triage agent (Gemini Key 3)
@@ -52,7 +52,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_3 }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        run: python triage_agent.py --limit 125
+        run: python triage_agent.py --limit 200
 
       # Runner 4: Gemini Key 4
       - name: Run triage agent (Gemini Key 4)
@@ -60,7 +60,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_4 }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        run: python triage_agent.py --limit 125
+        run: python triage_agent.py --limit 200
 
       # Runner 5: Gemini Key 5
       - name: Run triage agent (Gemini Key 5)
@@ -68,7 +68,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_5 }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        run: python triage_agent.py --limit 125
+        run: python triage_agent.py --limit 200
 
       - name: Commit scores to repo
         run: |

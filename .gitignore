@@ -2,6 +2,7 @@
 __pycache__/
 .venv/
 venv/
+.agents/
 
 # Personal data — NEVER commit (public repo). CI gets these via Actions secrets.
 candidate_profile.md
