@@ -39,11 +39,8 @@ SOURCE_FILES = ["jobs.json", "linkedin_jobs.json", "indeed_jobs.json"]
 global_token_usage = {"input": 0, "output": 0, "last_input": 0, "last_output": 0}
 
 DEFAULT_MODEL = "claude-haiku-4-5-20251001"
-GEMINI_DECISION_MODEL = "gemini-decision-1"
-GEMINI_GENERATIVE_MODEL = "gemini-3.5-flash-lite"
+GEMINI_MODEL = "gemini-3.5-flash-lite"  # used when GEMINI_API_KEY is set (cheap CI path)
 GEMINI_FALLBACK_MODEL = "gemini-3.1-flash-lite"
-GEMINI_MODEL = GEMINI_DECISION_MODEL  # Primary model: gemini-decision-1, with fallback to gemini-3.5-flash-lite
-active_gemini_model = {"current": GEMINI_DECISION_MODEL, "last_successful": GEMINI_DECISION_MODEL}
 JD_MAX_CHARS = 6000
 # Direct page-fetch sources. LinkedIn is handled via its guest posting
 # endpoint and Indeed via the description the scraper saves — see fetch_jd().
@@ -425,12 +422,11 @@ def make_call_model(model: str, use_npu: bool = False, use_ai_server: bool = Fal
         return call_npu
 
     if os.environ.get("GEMINI_API_KEY"):
-        decision_endpoint = "https://generativelanguage.googleapis.com/v1beta/decisions"
-        gen_model = model if model.startswith("gemini") and model != GEMINI_DECISION_MODEL else GEMINI_GENERATIVE_MODEL
-        gen_endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{gen_model}:generateContent"
+        target_model = model if model.startswith("gemini") else GEMINI_MODEL
+        gemini_endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{target_model}:generateContent"
         fallback_endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_FALLBACK_MODEL}:generateContent"
 
-        def _call_gemini_generative(static_prefix: str, job_prompt: str, target_endpoint: str) -> str:
+        def _call_gemini(static_prefix: str, job_prompt: str, endpoint: str) -> str:
             body = json.dumps({
                 "system_instruction": {"parts": [{"text": static_prefix}]},
                 "contents": [{"parts": [{"text": job_prompt}]}],
@@ -442,7 +438,7 @@ def make_call_model(model: str, use_npu: bool = False, use_ai_server: bool = Fal
                 },
             }).encode("utf-8")
             req = urllib.request.Request(
-                target_endpoint, data=body,
+                endpoint, data=body,
                 headers={"Content-Type": "application/json",
                          "x-goog-api-key": os.environ["GEMINI_API_KEY"]},
             )
@@ -457,145 +453,15 @@ def make_call_model(model: str, use_npu: bool = False, use_ai_server: bool = Fal
                 global_token_usage["last_output"] = out
             return data["candidates"][0]["content"]["parts"][0]["text"]
 
-        def _call_gemini_decision(static_prefix: str, job_prompt: str) -> str:
-            combined_input = f"{static_prefix}\n\n{job_prompt}"
-            body = json.dumps({
-                "model": GEMINI_DECISION_MODEL,
-                "input": combined_input,
-                "questions": {
-                    "score": {
-                        "type": "score",
-                        "instructions": "Grade candidate fit against job requirements from 0 to 10 on an ordered scale based on profile and resume.",
-                        "criteria": [
-                            "0: Hard dealbreaker (clearance/citizenship) or zero overlap in tech stack/discipline",
-                            "1: Extreme mismatch; lacks almost all required skills and education",
-                            "2: Severe mismatch; candidate meets only superficial keywords",
-                            "3: Weak match; wrong tech stack or missing critical foundational requirements",
-                            "4: Below average match; some adjacent skills but major gaps in core responsibilities",
-                            "5: Neutral match; borderline qualifications or unverified equivalent experience",
-                            "6: Moderate match; solid baseline skills, meets minimum requirements, partial tech stack match",
-                            "7: Good match; meets all core requirements and strong overlap in primary tech stack",
-                            "8: Strong match; direct hit on primary tech stack, tools, domain, and experience level",
-                            "9: Excellent match; exceeds most qualifications with directly relevant industry achievements",
-                            "10: Exceptional match; exact dream candidate profile with ideal stack and specialization"
-                        ]
-                    },
-                    "verdict": {
-                        "type": "choice",
-                        "instructions": "Select verdict: strong, maybe, or skip.",
-                        "criteria": {
-                            "strong": "Strong direct overlap in core technologies and requirements",
-                            "maybe": "Partial overlap, adjacent skills, or stretch role",
-                            "skip": "Unrelated role, missing required qualifications, clearance, or negative sponsorship"
-                        }
-                    },
-                    "role_family": {
-                        "type": "choice",
-                        "instructions": "Select primary role family.",
-                        "criteria": {
-                            "swe": "General software engineering",
-                            "ml-ai": "Machine learning, AI, computer vision, LLMs",
-                            "data-science": "Data science and analytics",
-                            "data-eng": "Data engineering, pipelines, ETL, databases",
-                            "platform-infra": "Cloud infrastructure, Kubernetes, platform engineering",
-                            "devops-sre": "DevOps, CI/CD, site reliability engineering",
-                            "security": "Cybersecurity, information security",
-                            "robotics": "Robotics, firmware, embedded systems",
-                            "biotech-informatics": "Bioinformatics and computational biology",
-                            "other": "Other technical role"
-                        }
-                    }
-                }
-            }).encode("utf-8")
-            req = urllib.request.Request(
-                decision_endpoint, data=body,
-                headers={"Content-Type": "application/json",
-                         "x-goog-api-key": os.environ["GEMINI_API_KEY"]},
-            )
-            with urllib.request.urlopen(req, timeout=MODEL_TIMEOUT) as r:
-                data = json.loads(r.read().decode("utf-8"))
-
-            answers = data.get("answers", {})
-            ans_score = answers.get("score", {})
-            raw_score = (
-                ans_score.get("weighted_score")
-                if ans_score.get("weighted_score") is not None
-                else ans_score.get("value", ans_score.get("score", 0))
-            )
-            try:
-                flt = float(raw_score)
-                if flt <= 1.0:
-                    score = int(round(flt * 100))
-                elif flt <= 10.0:
-                    score = int(round(flt * 10))
-                else:
-                    score = int(round(flt))
-            except Exception:
-                score = 0
-            score = max(0, min(100, score))
-
-            ans_verdict = answers.get("verdict", {})
-            verdict_choice = ans_verdict.get("choice") or ans_verdict.get("value") or "maybe"
-            if verdict_choice not in ("strong", "maybe", "skip"):
-                verdict_choice = "strong" if score >= 70 else ("maybe" if score >= 40 else "skip")
-
-            ans_rf = answers.get("role_family", {})
-            role_family_choice = ans_rf.get("choice") or ans_rf.get("value") or "swe"
-            confidence = float(ans_verdict.get("confidence", 0.85))
-
-            usage = data.get("usage", {})
-            inp = usage.get("total_input_tokens", usage.get("total_tokens", 0))
-            out = usage.get("total_output_tokens", 0)
-            if inp or out:
-                global_token_usage["input"] += inp
-                global_token_usage["output"] += out
-                global_token_usage["last_input"] = inp
-                global_token_usage["last_output"] = out
-
-            constructed_verdict = {
-                "score": score,
-                "verdict": verdict_choice,
-                "role_family": role_family_choice,
-                "seniority_fit": "Match" if score >= 50 else "Below threshold",
-                "why": f"Classified by gemini-decision-1 (confidence: {confidence:.0%}).",
-                "flags": [],
-                "outreach_opener": ""
-            }
-            return json.dumps(constructed_verdict)
-
         def call_gemini(static_prefix: str, job_prompt: str) -> str:
-            # If this is a judge audit call, route directly to generative model
-            if "auditing a job-fit SCORE" in job_prompt:
-                try:
-                    return _call_gemini_generative(static_prefix, job_prompt, gen_endpoint)
-                except urllib.error.HTTPError as e_gen:
-                    if e_gen.code == 429:
-                        return _call_gemini_generative(static_prefix, job_prompt, fallback_endpoint)
-                    raise
-
-            # 1. Primary: Try Gemini Decision 1 (Decisions API: 200 RPM, ~200ms latency)
             try:
-                res = _call_gemini_decision(static_prefix, job_prompt)
-                active_gemini_model["current"] = GEMINI_DECISION_MODEL
-                active_gemini_model["last_successful"] = GEMINI_DECISION_MODEL
-                return res
-            except Exception:
-                # 2. Fallback: Gemini 3.5 Flash-Lite (Generative)
-                try:
-                    res = _call_gemini_generative(static_prefix, job_prompt, gen_endpoint)
-                    active_gemini_model["current"] = GEMINI_GENERATIVE_MODEL
-                    active_gemini_model["last_successful"] = GEMINI_GENERATIVE_MODEL
-                    return res
-                except urllib.error.HTTPError as e_gen:
-                    # 3. Secondary Fallback on 429: Gemini 3.1 Flash-Lite
-                    if e_gen.code == 429:
-                        res = _call_gemini_generative(static_prefix, job_prompt, fallback_endpoint)
-                        active_gemini_model["current"] = GEMINI_FALLBACK_MODEL
-                        active_gemini_model["last_successful"] = GEMINI_FALLBACK_MODEL
-                        return res
-                    raise
+                return _call_gemini(static_prefix, job_prompt, gemini_endpoint)
+            except urllib.error.HTTPError as e:
+                if e.code == 429:
+                    return _call_gemini(static_prefix, job_prompt, fallback_endpoint)
+                raise
 
-        print(f"🧠 backend: Gemini Decisions API ({GEMINI_DECISION_MODEL} with {GEMINI_GENERATIVE_MODEL} fallback)")
+        print(f"🧠 backend: Gemini API ({target_model} with {GEMINI_FALLBACK_MODEL} fallback)")
         return call_gemini
 
     if os.environ.get("ANTHROPIC_API_KEY"):
@@ -915,8 +781,7 @@ def main() -> int:
         if verdict is None:
             errors += 1
             if not (args.local_npu or args.ai_server):
-                sleep_sec = 0.3 if (os.environ.get("GEMINI_API_KEY") and active_gemini_model.get("last_successful") == GEMINI_DECISION_MODEL) else 4.5
-                time.sleep(sleep_sec)
+                time.sleep(4.5)  # Enforce rate limit even on failed requests for Gemini
             continue
 
         # Opt-in score audit. Runs BEFORE redact_private so the single redaction
@@ -949,7 +814,7 @@ def main() -> int:
         model_name = (
             f"{args.ai_server_model} (AI Server)" if args.ai_server
             else "qwen3.5:9b (Local NPU)" if args.local_npu
-            else (active_gemini_model.get("last_successful", GEMINI_MODEL) if os.environ.get("GEMINI_API_KEY")
+            else (GEMINI_MODEL if os.environ.get("GEMINI_API_KEY")
                   else args.model if os.environ.get("ANTHROPIC_API_KEY")
                   else "claude-cli")
         )
@@ -960,12 +825,10 @@ def main() -> int:
         with open(SCORES_PATH, "w") as f:
             json.dump(data, f, separators=(",", ":"))  # compact: dashboard fetches this
         
-        # Rate limit handling:
-        # Gemini Decision 1 has 200 RPM limit (sleep 0.3s safely ~120 RPM).
-        # Fallback Gemini 3.5 Flash-Lite has 15 RPM limit (sleep 4.5s safely ~13 RPM).
+        # Free-tier Gemini is capped at 15 Requests Per Minute.
+        # Sleeping 4.5 seconds guarantees we stay safely under that limit (~13 RPM).
         if not (args.local_npu or args.ai_server):
-            sleep_sec = 0.3 if (os.environ.get("GEMINI_API_KEY") and active_gemini_model.get("last_successful") == GEMINI_DECISION_MODEL) else 4.5
-            time.sleep(sleep_sec)
+            time.sleep(4.5)
 
     remaining = len(unscored) - len(batch)
     successes = len(batch) - errors
