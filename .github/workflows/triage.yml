@@ -46,10 +46,26 @@ jobs:
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
         run: python triage_agent.py --limit 125 --judge
 
-      # Runner 3: Gemini Key 4
+      # Runner 3: Gemini Key 3
+      - name: Run triage agent (Gemini Key 3)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_3 }}
+          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
+          CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
+        run: python triage_agent.py --limit 125 --judge
+
+      # Runner 4: Gemini Key 4
       - name: Run triage agent (Gemini Key 4)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_4 }}
+          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
+          CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
+        run: python triage_agent.py --limit 125 --judge
+
+      # Runner 5: Gemini Key 5
+      - name: Run triage agent (Gemini Key 4)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_5 }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
         run: python triage_agent.py --limit 125 --judge
