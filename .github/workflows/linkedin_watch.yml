@@ -69,4 +69,5 @@ jobs:
           python ci_commit_push.py \
             --message "chore: update linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]" \
             linkedin_jobs.json linkedin_jobs.md linkedin_jobs.html \
-            workflow_runs.jsonl all_jobs.json notified.json companies.json
+            workflow_runs.jsonl all_jobs.json notified.json companies.json \
+            company_aliases.json probed_companies_cache.json

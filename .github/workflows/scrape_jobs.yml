@@ -77,4 +77,5 @@ jobs:
           python ci_commit_push.py \
             --message "chore: update nightly tech listings [$(date -u '+%Y-%m-%d')]" \
             jobs.json jobs.md jobs.html \
-            workflow_runs.jsonl all_jobs.json notified.json companies.json probed_companies_cache.json
+            workflow_runs.jsonl all_jobs.json notified.json companies.json \
+            company_aliases.json probed_companies_cache.json

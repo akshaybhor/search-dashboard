@@ -257,6 +257,7 @@ MERGERS = {
     "scores.json": merge_scores,
     "companies.json": merge_companies,
     "probed_companies_cache.json": merge_dict,
+    "company_aliases.json": merge_dict,
 }
 
 
