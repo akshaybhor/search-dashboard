@@ -603,7 +603,7 @@ _KEYWORD_RE = re.compile(
 # Helpers
 # ---------------------------------------------------------------------------
 
-def fetch(url, max_retries: int = 1, extra_headers: dict | None = None):
+def fetch(url, max_retries: int = 2, extra_headers: dict | None = None):
     for attempt in range(max_retries + 1):
         try:
             # Rotate user-agent slightly to mimic organic client variety
@@ -617,12 +617,12 @@ def fetch(url, max_retries: int = 1, extra_headers: dict | None = None):
         except HTTPError as e:
             if e.code == 429:
                 if attempt < max_retries:
-                    backoff = random.uniform(3.0, 5.0) * (attempt + 1)
+                    backoff = random.uniform(3.5, 5.5) * (attempt + 1)
                     print(f"  ⚠️  HTTP 429 (rate-limited) on {url} — backing off for {backoff:.1f}s (retry {attempt + 1}/{max_retries})...")
                     time.sleep(backoff)
                     continue
                 else:
-                    cooldown = random.uniform(3.0, 5.0)
+                    cooldown = random.uniform(4.0, 6.0)
                     print(f"  ⚠️  Could not fetch {url}: {e} (cooling down {cooldown:.1f}s)")
                     time.sleep(cooldown)
                     return ""
@@ -1599,7 +1599,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
 
         wt_param = f"&f_WT={f_wt}" if f_wt else ""
         for start in range(0, 75, 25):
-            polite_sleep(0.6, 0.8, 1.5)
+            polite_sleep(0.8, 0.9, 1.5)
             url = (
                 "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
                 f"?keywords={urllib.parse.quote(term)}"
@@ -1609,7 +1609,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
                 f"{wt_param}"
                 f"&start={start}"
             )
-            html = fetch(url, extra_headers=LINKEDIN_HEADERS)
+            html = fetch(url, max_retries=2, extra_headers=LINKEDIN_HEADERS)
             if not html.strip():
                 break
             parsed, raw_count = _parse_linkedin_cards(html)
