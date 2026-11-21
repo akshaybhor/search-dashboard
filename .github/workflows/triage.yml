@@ -2,11 +2,13 @@ name: Nightly Job Triage
 
 on:
   schedule:
-    # --- 4 New Jobs Before ---
+    # Staggered at :47 (offset from :17 scrapers) + 06:47 UTC pre-auto-apply slot
+    - cron: "47 6 * * *"   # 6:47 AM UTC (1:47 AM EST — scores overnight jobs before 4:30 AM EST auto-apply)
+    - cron: "47 13 * * *"  # 1:47 PM UTC
     - cron: "47 16 * * *"  # 4:47 PM UTC
-    - cron: "17 19 * * *"  # 7:17 PM UTC
-    - cron: "47 21 * * *"  # 9:47 PM UTC
-    - cron: "17 0 * * *"   # 12:17 AM UTC
+    - cron: "47 19 * * *"  # 7:47 PM UTC
+    - cron: "47 22 * * *"  # 10:47 PM UTC
+    - cron: "47 1 * * *"   # 1:47 AM UTC
 
   workflow_dispatch:
 

@@ -2,8 +2,8 @@ name: LinkedIn MLE/DS Watcher
 
 on:
   schedule:
-    # 10am EST to 5pm PST (14:00 to 01:00 UTC) at minute 17
-    - cron: "17 14-23,0-1 * * *"
+    # Every 3 hours around the clock at minute :17 (paired with 5h lookback window)
+    - cron: "17 */3 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -27,7 +27,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Scrape LinkedIn (last 1h)
+      - name: Scrape LinkedIn (last 5h)
         run: python scrape_jobs.py --linkedin-only
         env:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
