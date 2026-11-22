@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-22 01:41 UTC",
-  "total": 42,
-  "new_count": 12,
+  "scraped_at": "2026-11-22 03:46 UTC",
+  "total": 41,
+  "new_count": 7,
   "jobs": [
     {
       "company": "Icarus",
@@ -31,10 +31,10 @@
       "remote": false
     },
     {
-      "company": "Applied Materials",
-      "title": "Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492317824/",
+      "company": "Strive Solutions",
+      "title": "IT Infrastructure Systems Engineer",
+      "location": "Honolulu, HI",
+      "url": "https://www.linkedin.com/jobs/view/4492341226/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
@@ -58,10 +58,46 @@
       "remote": false
     },
     {
+      "company": "scalr",
+      "title": "AI Engineer",
+      "location": "Washington DC-Baltimore Area",
+      "url": "https://www.linkedin.com/jobs/view/4492341012/",
+      "date_posted": "2026-11-21",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "scalr",
+      "title": "AI Engineer (Forward Deployed)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4492347069/",
+      "date_posted": "2026-11-21",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "scalr",
+      "title": "AI Engineer (Forward Deployed)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4492347048/",
+      "date_posted": "2026-11-21",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "Applied Materials",
       "title": "Software Engineer",
       "location": "Santa Clara, CA",
       "url": "https://www.linkedin.com/jobs/view/4492330198/",
+      "date_posted": "2026-11-21",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Anyware Robotics",
+      "title": "Robotics Software Engineer, Autonomy & Behavior",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484742066/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
@@ -80,6 +116,24 @@
       "title": "Plasma Sensing Systems Engineer",
       "location": "Santa Clara, CA",
       "url": "https://www.linkedin.com/jobs/view/4492320616/",
+      "date_posted": "2026-11-21",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492317824/",
+      "date_posted": "2026-11-21",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Strive Solutions",
+      "title": "Industrial Automation Software Developer",
+      "location": "Bedford, MA",
+      "url": "https://www.linkedin.com/jobs/view/4492331652/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
@@ -112,6 +166,15 @@
       "remote": false
     },
     {
+      "company": "Strive Solutions",
+      "title": "Senior Infrastructure Engineer",
+      "location": "Littleton, CO",
+      "url": "https://www.linkedin.com/jobs/view/4492320995/",
+      "date_posted": "2026-11-21",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "TEK NINJAS",
       "title": "Senior Python Developer",
       "location": "Dallas, TX",
@@ -139,10 +202,19 @@
       "remote": false
     },
     {
-      "company": "Draper",
-      "title": "Embedded Software Engineer",
-      "location": "Greater Boston",
-      "url": "https://www.linkedin.com/jobs/view/4471525686/",
+      "company": "Shifamed",
+      "title": "Software Engineer (Medical Visualization)",
+      "location": "Campbell, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493307485/",
+      "date_posted": "2026-11-21",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
+      "company": "Northwell Health",
+      "title": "Senior UiPath RPA Developer Engineer (Senior Software Engineer)",
+      "location": "Melville, NY",
+      "url": "https://www.linkedin.com/jobs/view/4493299120/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
@@ -175,33 +247,6 @@
       "remote": false
     },
     {
-      "company": "Varda Space Industries",
-      "title": "Senior Space Systems Engineer, Avionics",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493303397/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Naval Nuclear Laboratory (FMP)",
-      "title": "Software Engineer, Entry Level",
-      "location": "West Mifflin, PA",
-      "url": "https://www.linkedin.com/jobs/view/4492218813/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Shifamed",
-      "title": "Software Engineer (Medical Visualization)",
-      "location": "Campbell, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493307485/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
       "company": "SAIC",
       "title": "DevOps Engineer",
       "location": "Virginia, United States",
@@ -215,15 +260,6 @@
       "title": "DevOps Engineer",
       "location": "Chicago, IL",
       "url": "https://www.linkedin.com/jobs/view/4493307448/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Senior Platform Engineer, Replicate",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4492315794/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
@@ -248,27 +284,9 @@
     },
     {
       "company": "Skild AI",
-      "title": "Machine Learning Engineer, Reinforcement Learning",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492896840/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Skild AI",
       "title": "Software Engineer, AI Training and Infrastructure",
       "location": "San Mateo, CA",
       "url": "https://www.linkedin.com/jobs/view/4493116106/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Clera Talent",
-      "title": "Mid-Level Vehicle Software Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493112430/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
@@ -283,37 +301,19 @@
       "remote": false
     },
     {
+      "company": "Clera Talent",
+      "title": "Mid-Level Vehicle Software Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4493112430/",
+      "date_posted": "2026-11-21",
+      "ats": "LinkedIn",
+      "remote": false
+    },
+    {
       "company": "Prime Hiring Solutions",
       "title": "Wireless Software Engineer",
       "location": "Santa Rosa, CA",
       "url": "https://www.linkedin.com/jobs/view/4493308397/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Harvey",
-      "title": "Creative AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493102573/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Northwell Health",
-      "title": "Senior UiPath RPA Developer Engineer (Senior Software Engineer)",
-      "location": "Melville, NY",
-      "url": "https://www.linkedin.com/jobs/view/4493299120/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Harvey",
-      "title": "Creative AI Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4492899827/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
@@ -332,15 +332,6 @@
       "title": "Sr. Electrical Systems Engineer (Falcon & Dragon)",
       "location": "Hawthorne, CA",
       "url": "https://www.linkedin.com/jobs/view/4493308383/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Avanos Medical",
-      "title": "Senior Software Engineer - Alpharetta, GA",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4449814589/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
@@ -384,109 +375,64 @@
   ],
   "new_jobs": [
     {
-      "company": "Icarus",
-      "title": "Software Engineer (Generalist)",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493114683/",
+      "company": "Strive Solutions",
+      "title": "IT Infrastructure Systems Engineer",
+      "location": "Honolulu, HI",
+      "url": "https://www.linkedin.com/jobs/view/4492341226/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Applied Materials",
-      "title": "Systems Engineer",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4492321621/",
+      "company": "scalr",
+      "title": "AI Engineer",
+      "location": "Washington DC-Baltimore Area",
+      "url": "https://www.linkedin.com/jobs/view/4492341012/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Nextech Hypergroup Solution",
-      "title": "Data Engineer Master's graduates from May 2026 to February 2027 ONLY.",
-      "location": "Queens, NY",
-      "url": "https://www.linkedin.com/jobs/view/4492317703/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Applied Materials",
-      "title": "Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492330198/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "MecAgent",
-      "title": "Software Engineer",
+      "company": "scalr",
+      "title": "AI Engineer (Forward Deployed)",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4493106830/",
+      "url": "https://www.linkedin.com/jobs/view/4492347069/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Applied Materials",
-      "title": "Plasma Sensing Systems Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4492320616/",
+      "company": "scalr",
+      "title": "AI Engineer (Forward Deployed)",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4492347048/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Icarus",
-      "title": "Embedded Software Engineer",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493119436/",
+      "company": "Anyware Robotics",
+      "title": "Robotics Software Engineer, Autonomy & Behavior",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484742066/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Icarus",
-      "title": "IT Systems Engineer",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493116510/",
+      "company": "Strive Solutions",
+      "title": "Industrial Automation Software Developer",
+      "location": "Bedford, MA",
+      "url": "https://www.linkedin.com/jobs/view/4492331652/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
     },
     {
-      "company": "Hakk\u014dda, an IBM Company",
-      "title": "Data Engineer-Data Integration",
-      "location": "Drecht Cities",
-      "url": "https://www.linkedin.com/jobs/view/4493269678/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "TEK NINJAS",
-      "title": "Senior Python Developer",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4416924354/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Naval Nuclear Laboratory (FMP)",
-      "title": "Software Engineer, Entry Level",
-      "location": "West Mifflin, PA",
-      "url": "https://www.linkedin.com/jobs/view/4492218813/",
-      "date_posted": "2026-11-21",
-      "ats": "LinkedIn",
-      "remote": false
-    },
-    {
-      "company": "Harvey",
-      "title": "Creative AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493102573/",
+      "company": "Strive Solutions",
+      "title": "Senior Infrastructure Engineer",
+      "location": "Littleton, CO",
+      "url": "https://www.linkedin.com/jobs/view/4492320995/",
       "date_posted": "2026-11-21",
       "ats": "LinkedIn",
       "remote": false
