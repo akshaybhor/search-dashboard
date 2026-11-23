@@ -213,6 +213,95 @@ def check_workday_board(career_url: str, job_title: str) -> tuple[str, str]:
     return "", ""
 
 
+def probe_workday_board(slug: str, job_title: str) -> tuple[str, str, str, str]:
+    """
+    Ban-safe, self-contained Workday CXS tenant prober.
+    Tests candidate clusters and site names using HTTP 422 pruning.
+    Returns (direct_job_url, matched_title, root_portal_url, winning_slug).
+    """
+    if not slug:
+        return "", "", "", ""
+
+    clean_term = re.sub(r"[\(\)\[\],\-–—/]", " ", job_title)
+    words = [w for w in clean_term.split() if w.lower() not in ("senior", "sr", "lead", "principal", "staff", "ii", "iii", "iv", "junior", "jr")]
+    search_str = " ".join(words[:4]) if words else job_title
+
+    headers = {
+        **HEADERS,
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+    }
+    body = json.dumps({"appliedFacets": {}, "limit": 10, "offset": 0, "searchText": search_str}).encode("utf-8")
+
+    candidate_clusters = ["wd1", "wd5", "wd3", "wd12"]
+    site_names = [
+        "External",
+        "Careers",
+        "careers",
+        slug,
+        "External_Careers",
+        f"{slug}_Careers",
+        f"{slug}careers",
+        "Search",
+        "Ext",
+        "External_Career_Site",
+        f"{slug}ExternalCareerSite",
+    ]
+
+    for cluster in candidate_clusters:
+        cluster_confirmed = False
+        for site in site_names:
+            netloc = f"{slug}.{cluster}.myworkdayjobs.com"
+            cxs_url = f"https://{netloc}/wday/cxs/{slug}/{site}/jobs"
+            base_url = f"https://{netloc}/{site}"
+
+            req = urllib.request.Request(cxs_url, data=body, headers=headers)
+            try:
+                with urllib.request.urlopen(req, timeout=3.5) as res:
+                    if res.getcode() == 200:
+                        data = json.loads(res.read().decode("utf-8"))
+                        postings = data.get("jobPostings", [])
+                        total = data.get("total", 0)
+
+                        root_url = base_url
+                        best_match = None
+                        best_score = 0.0
+                        for p in postings:
+                            p_title = p.get("title", "")
+                            score = title_similarity(job_title, p_title)
+                            if score > best_score:
+                                best_score = score
+                                best_match = p
+
+                        if best_match and (best_score >= 0.30 or (len(postings) == 1 and best_score >= 0.25)):
+                            ext_path = best_match.get("externalPath", "")
+                            return f"{base_url}{ext_path}", best_match.get("title", ""), root_url, slug
+
+                        if total > 0 or postings:
+                            return "", "Workday", root_url, slug
+            except urllib.error.HTTPError as e:
+                if e.code == 422:
+                    # Tenant not on this cluster: skip immediately to next cluster
+                    break
+                elif e.code == 404:
+                    # Tenant is confirmed on this cluster, but site name differs
+                    cluster_confirmed = True
+                    time.sleep(0.15)
+                    continue
+                elif e.code == 429:
+                    # Rate limit guardrail: break out immediately
+                    return "", "", "", ""
+            except Exception:
+                pass
+
+            time.sleep(0.15)
+
+        if cluster_confirmed:
+            break
+
+    return "", "", "", ""
+
+
 def check_greenhouse_board(slug: str) -> list[dict]:
     """Queries Greenhouse public API for a company slug."""
     url = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=false"
@@ -296,6 +385,8 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
     existing_companies = comp_dir.get("companies", {})
     comp_key = normalize_company_key(company_name)
 
+    fallback_board = None  # (ats_name, root_url, winning_slug)
+
     # 1. First priority: if the employer is already in companies.json, query its known ATS
     if comp_key in existing_companies:
         rec = existing_companies[comp_key]
@@ -304,7 +395,9 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
 
         if ats == "Workday" and career_url:
             direct_url, _ = check_workday_board(career_url, job_title)
-            return direct_url, "Workday", career_url
+            if direct_url:
+                return direct_url, "Workday", career_url
+            fallback_board = ("Workday", career_url, comp_key)
 
         elif ats == "Greenhouse" and career_url:
             slug = career_url.rstrip("/").split("/")[-1]
@@ -313,7 +406,7 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                 best = max(gh_jobs, key=lambda j: title_similarity(job_title, j.get("title", "")), default=None)
                 if best and title_similarity(job_title, best.get("title", "")) >= 0.35:
                     return best.get("absolute_url", ""), "Greenhouse", career_url
-            return "", "Greenhouse", career_url
+            fallback_board = ("Greenhouse", career_url, comp_key)
 
         elif ats == "Ashby" and career_url:
             slug = career_url.rstrip("/").split("/")[-1]
@@ -322,7 +415,7 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                 best = max(ashby_jobs, key=lambda j: title_similarity(job_title, j.get("title", "")), default=None)
                 if best and title_similarity(job_title, best.get("title", "")) >= 0.35:
                     return best.get("jobUrl", ""), "Ashby", career_url
-            return "", "Ashby", career_url
+            fallback_board = ("Ashby", career_url, comp_key)
 
         elif ats == "Lever" and career_url:
             slug = career_url.rstrip("/").split("/")[-1]
@@ -331,7 +424,7 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                 best = max(lever_jobs, key=lambda j: title_similarity(job_title, j.get("text", "")), default=None)
                 if best and title_similarity(job_title, best.get("text", "")) >= 0.35:
                     return best.get("hostedUrl", ""), "Lever", career_url
-            return "", "Lever", career_url
+            fallback_board = ("Lever", career_url, comp_key)
 
         elif ats == "Rippling" and career_url:
             parts = [p for p in career_url.strip("/").split("/") if p and p != "jobs"]
@@ -341,17 +434,20 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                 best = max(rip_jobs, key=lambda j: title_similarity(job_title, j.get("title", "")), default=None)
                 if best and title_similarity(job_title, best.get("title", "")) >= 0.35:
                     return best.get("jobUrl", ""), "Rippling", career_url
-            return "", "Rippling", career_url
+            fallback_board = ("Rippling", career_url, comp_key)
 
     # 2. Second priority: candidate slug probe across Greenhouse, Ashby, Lever, Rippling
     slugs = slugify_company(company_name)
     if not slugs:
+        if fallback_board:
+            return "", fallback_board[0], fallback_board[1]
         return "", "", ""
 
     def _maybe_record(root_u: str, ats_name: str, winning_slug: str = ""):
-        if root_u and ats_name and comp_key not in existing_companies:
-            record_company(company_name, root_u, ats_hint=ats_name, directory_data=comp_dir)
+        if root_u and ats_name:
+            record_company(company_name, root_u, ats_hint=ats_name, directory_data=comp_dir, force_override=True)
             save_company_directory(comp_dir)
+            existing_companies[comp_key] = {"name": company_name, "career_url": root_u, "ats": ats_name}
         if winning_slug:
             record_company_alias(company_name, winning_slug)
 
@@ -359,6 +455,7 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
         # Try Greenhouse
         gh_jobs = check_greenhouse_board(slug)
         if gh_jobs:
+            root = f"https://job-boards.greenhouse.io/{slug}"
             best_match = None
             best_score = 0.0
             for j in gh_jobs:
@@ -366,20 +463,20 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                 if score > best_score:
                     best_score = score
                     best_match = j
-            root = f"https://job-boards.greenhouse.io/{slug}"
-            _maybe_record(root, "Greenhouse", slug)
             if best_match and best_score >= 0.35:
+                _maybe_record(root, "Greenhouse", slug)
                 return (
                     best_match.get("absolute_url", ""),
                     "Greenhouse",
                     root,
                 )
-            elif gh_jobs:
-                return "", "Greenhouse", root
+            if not fallback_board:
+                fallback_board = ("Greenhouse", root, slug)
 
         # Try Ashby
         ashby_jobs = check_ashby_board(slug)
         if ashby_jobs:
+            root = f"https://jobs.ashbyhq.com/{slug}"
             best_match = None
             best_score = 0.0
             for j in ashby_jobs:
@@ -387,20 +484,20 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                 if score > best_score:
                     best_score = score
                     best_match = j
-            root = f"https://jobs.ashbyhq.com/{slug}"
-            _maybe_record(root, "Ashby", slug)
             if best_match and best_score >= 0.35:
+                _maybe_record(root, "Ashby", slug)
                 return (
                     best_match.get("jobUrl", ""),
                     "Ashby",
                     root,
                 )
-            elif ashby_jobs:
-                return "", "Ashby", root
+            if not fallback_board:
+                fallback_board = ("Ashby", root, slug)
 
         # Try Lever
         lever_jobs = check_lever_board(slug)
         if lever_jobs:
+            root = f"https://jobs.lever.co/{slug}"
             best_match = None
             best_score = 0.0
             for j in lever_jobs:
@@ -408,20 +505,20 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                 if score > best_score:
                     best_score = score
                     best_match = j
-            root = f"https://jobs.lever.co/{slug}"
-            _maybe_record(root, "Lever", slug)
             if best_match and best_score >= 0.35:
+                _maybe_record(root, "Lever", slug)
                 return (
                     best_match.get("hostedUrl", ""),
                     "Lever",
                     root,
                 )
-            elif lever_jobs:
-                return "", "Lever", root
+            if not fallback_board:
+                fallback_board = ("Lever", root, slug)
 
         # Try Rippling
         rip_jobs = check_rippling_board(slug)
         if rip_jobs:
+            root = f"https://ats.rippling.com/{slug}/jobs"
             best_match = None
             best_score = 0.0
             for j in rip_jobs:
@@ -429,16 +526,31 @@ def resolve_direct_ats(company_name: str, job_title: str, comp_dir: dict = None)
                 if score > best_score:
                     best_score = score
                     best_match = j
-            root = f"https://ats.rippling.com/{slug}/jobs"
-            _maybe_record(root, "Rippling", slug)
             if best_match and best_score >= 0.35:
+                _maybe_record(root, "Rippling", slug)
                 return (
                     best_match.get("jobUrl", ""),
                     "Rippling",
                     root,
                 )
-            elif rip_jobs:
-                return "", "Rippling", root
+            if not fallback_board:
+                fallback_board = ("Rippling", root, slug)
+
+    # 3. Third priority: Dynamic Workday Tenant Auto-Prober for top candidate slugs
+    for slug in slugs[:2]:
+        wd_direct, wd_title, wd_root, winning_slug = probe_workday_board(slug, job_title)
+        if wd_root:
+            if wd_direct:
+                _maybe_record(wd_root, "Workday", winning_slug)
+                return wd_direct, "Workday", wd_root
+            if not fallback_board:
+                fallback_board = ("Workday", wd_root, winning_slug)
+
+    # If no direct match was found, record and return fallback board if one was discovered
+    if fallback_board:
+        ats_name, root_u, winning_slug = fallback_board
+        _maybe_record(root_u, ats_name, winning_slug)
+        return "", ats_name, root_u
 
     return "", "", ""
 

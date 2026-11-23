@@ -167,6 +167,7 @@ def record_company(
     date_seen: str = None,
     ats_hint: str = None,
     directory_data: dict = None,
+    force_override: bool = False,
 ) -> bool:
     """
     Registers or updates a company career portal. Deduplicates deterministically.
@@ -207,9 +208,10 @@ def record_company(
     if existing:
         existing["total_jobs_seen"] = existing.get("total_jobs_seen", 1) + 1
         existing["last_seen"] = max(existing.get("last_seen", now_date), now_date)
-        # Upgrade URL if existing was just generic domain root and new is a specific ATS
-        if detected_ats in ("Workday", "Greenhouse", "Lever", "Ashby", "iCIMS") and existing.get("ats") not in (
-            "Workday", "Greenhouse", "Lever", "Ashby", "iCIMS"
+        # Upgrade URL if force_override is requested, or if existing was just generic domain root and new is a specific ATS
+        if force_override or (
+            detected_ats in ("Workday", "Greenhouse", "Lever", "Ashby", "iCIMS")
+            and existing.get("ats") not in ("Workday", "Greenhouse", "Lever", "Ashby", "iCIMS")
         ):
             existing["career_url"] = root_url
             existing["ats"] = detected_ats

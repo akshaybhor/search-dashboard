@@ -260,6 +260,7 @@ def main():
     parser.add_argument("--min-score", type=int, default=50, help="Minimum fit score (default: 50)")
     parser.add_argument("--lookback", type=int, default=48, help="Lookback window in hours (default: 48)")
     parser.add_argument("--skip-enrich", action="store_true", help="Skip running resolve_ats enrichment before building queue")
+    parser.add_argument("--skip-liveness", action="store_true", help="Skip rapid HTTP liveness verification")
     args = parser.parse_args()
 
     if not args.skip_enrich:
@@ -271,6 +272,37 @@ def main():
 
     os.makedirs(DAILY_DIR, exist_ok=True)
     queue = build_daily_queue(min_score=args.min_score, max_hours=args.lookback)
+
+    if not args.skip_liveness:
+        try:
+            from auto_apply.core.liveness_filter import filter_live_jobs
+            print("🔍 [Pre-Apply] Running rapid HTTP liveness verification on candidate queues...")
+            queue["greenhouse"] = filter_live_jobs(queue.get("greenhouse", []))
+            queue["ashby"] = filter_live_jobs(queue.get("ashby", []))
+            queue["workday"] = filter_live_jobs(queue.get("workday", []))
+            queue["lever"] = filter_live_jobs(queue.get("lever", []))
+            queue["smartrecruiters"] = filter_live_jobs(queue.get("smartrecruiters", []))
+            queue["rippling"] = filter_live_jobs(queue.get("rippling", []))
+            queue["universal"] = filter_live_jobs(queue.get("universal", []))
+
+            all_eligible = sorted(
+                queue["greenhouse"] + queue["ashby"] + queue["workday"] + queue["lever"] + queue["smartrecruiters"] + queue["rippling"] + queue["universal"],
+                key=lambda x: x["score"],
+                reverse=True,
+            )
+            queue["all"] = all_eligible
+            queue["summary"] = {
+                "total": len(all_eligible),
+                "greenhouse_count": len(queue["greenhouse"]),
+                "ashby_count": len(queue["ashby"]),
+                "workday_count": len(queue["workday"]),
+                "lever_count": len(queue["lever"]),
+                "smartrecruiters_count": len(queue["smartrecruiters"]),
+                "rippling_count": len(queue["rippling"]),
+                "universal_count": len(queue["universal"]),
+            }
+        except Exception as e:
+            print(f"⚠️ Warning running liveness verification: {e}")
 
     with open(QUEUE_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(queue, f, indent=2)
