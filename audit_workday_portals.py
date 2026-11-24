@@ -17,6 +17,8 @@ import os
 import sys
 import json
 import re
+import random
+import time
 import urllib.request
 import urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -168,26 +170,36 @@ CANDIDATE_WORKDAY_COMPANIES = [
 ]
 
 
-def test_workday_endpoint(netloc: str, tenant: str, site: str) -> tuple[bool, int, str]:
+def test_workday_endpoint(netloc: str, tenant: str, site: str, retries: int = 1) -> tuple[bool, int, str]:
     """
     Directly queries a Workday CXS API endpoint.
     Returns (is_valid, total_job_count, sample_job_title).
     """
     cxs_url = f"https://{netloc}/wday/cxs/{tenant}/{site}/jobs"
     payload = json.dumps({"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""}).encode("utf-8")
-    req = urllib.request.Request(cxs_url, data=payload, headers=HEADERS)
+    headers = dict(HEADERS)
+    headers["Origin"] = f"https://{netloc}"
+    headers["Referer"] = f"https://{netloc}/{site}"
+    req = urllib.request.Request(cxs_url, data=payload, headers=headers)
 
-    try:
-        with urllib.request.urlopen(req, timeout=4.0) as res:
-            if res.status == 200:
-                data = json.loads(res.read().decode("utf-8"))
-                total = data.get("total", 0)
-                postings = data.get("jobPostings", [])
-                if total > 0 and postings:
-                    sample_title = postings[0].get("title", "")
-                    return True, total, sample_title
-    except Exception:
-        pass
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=5.0) as res:
+                if res.status == 200:
+                    data = json.loads(res.read().decode("utf-8"))
+                    total = data.get("total", 0)
+                    postings = data.get("jobPostings", [])
+                    if total > 0 and postings:
+                        sample_title = postings[0].get("title", "")
+                        return True, total, sample_title
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries:
+                time.sleep(1.5 + random.uniform(0.5, 1.2))
+                continue
+            if e.code in (404, 400):
+                break
+        except Exception:
+            pass
     return False, 0, ""
 
 
@@ -222,6 +234,7 @@ def audit_single_company(name: str, candidate_netloc: str, candidate_site: str) 
             if (netloc, s) in seen_combos:
                 continue
             seen_combos.add((netloc, s))
+            time.sleep(0.04)
             is_valid, total, sample = test_workday_endpoint(netloc, tenant, s)
             if is_valid:
                 return {
@@ -328,7 +341,7 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Audit and build Workday Tenant Knowledge Base")
     parser.add_argument("--dry-run", action="store_true", help="Perform audit without modifying companies.json")
-    parser.add_argument("--workers", type=int, default=12, help="Number of concurrent worker threads (default: 12)")
+    parser.add_argument("--workers", type=int, default=6, help="Number of concurrent worker threads (default: 6)")
     args = parser.parse_args()
 
     run_audit(dry_run=args.dry_run, max_workers=args.workers)
