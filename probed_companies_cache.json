@@ -47,6 +47,12 @@
     "status": "found",
     "total_jobs": 108
   },
+  "4g-clinical": {
+    "jobs_seen": 1,
+    "name": "4G Clinical",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "5-degr\u00e9s": {
     "jobs_seen": 1,
     "name": "5 Degr\u00e9s",
@@ -153,6 +159,12 @@
     "probed_at": "2026-11-17",
     "status": "not_found"
   },
+  "acosta": {
+    "jobs_seen": 3,
+    "name": "Acosta Group",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "acquire-me": {
     "jobs_seen": 4,
     "name": "Acquire Me",
@@ -187,6 +199,12 @@
     "probed_at": "2026-11-16",
     "status": "not_found"
   },
+  "adams": {
+    "jobs_seen": 1,
+    "name": "Adams, Inc.",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "adaptive": {
     "ats": "Ashby",
     "career_url": "https://jobs.ashbyhq.com/adaptive",
@@ -219,6 +237,12 @@
     "jobs_seen": 1,
     "name": "Adorphic",
     "probed_at": "2026-11-21",
+    "status": "not_found"
+  },
+  "adp": {
+    "jobs_seen": 2,
+    "name": "ADP",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "aeg": {
@@ -339,6 +363,12 @@
     "probed_at": "2026-11-20",
     "status": "not_found"
   },
+  "ajlouni-&": {
+    "jobs_seen": 1,
+    "name": "Ajlouni & Co",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "akamai": {
     "jobs_seen": 8,
     "name": "Akamai Technologies",
@@ -401,10 +431,28 @@
     "probed_at": "2026-11-18",
     "status": "not_found"
   },
+  "alexander-technology": {
+    "jobs_seen": 1,
+    "name": "Alexander Technology Group",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "alexandria-real-estate-equities": {
     "jobs_seen": 1,
     "name": "Alexandria Real Estate Equities, Inc.",
     "probed_at": "2026-11-21",
+    "status": "not_found"
+  },
+  "alfa-ai": {
+    "jobs_seen": 2,
+    "name": "Alfa AI",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
+  "algo-capital": {
+    "jobs_seen": 1,
+    "name": "Algo Capital Group",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "alibaba-cloud": {
@@ -444,6 +492,14 @@
     "name": "ALLETE",
     "probed_at": "2026-11-21",
     "status": "not_found"
+  },
+  "allied-solutions": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/allied",
+    "name": "Allied Solutions LLC",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 2
   },
   "allstate": {
     "jobs_seen": 2,
@@ -487,6 +543,12 @@
     "jobs_seen": 1,
     "name": "Althais (Antler P27)",
     "probed_at": "2026-11-22",
+    "status": "not_found"
+  },
+  "altimetrik": {
+    "jobs_seen": 2,
+    "name": "Altimetrik",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "alvarez-&-marsal": {
@@ -559,6 +621,12 @@
     "jobs_seen": 1,
     "name": "Amerisure Insurance",
     "probed_at": "2026-11-22",
+    "status": "not_found"
+  },
+  "ametek": {
+    "jobs_seen": 2,
+    "name": "AMETEK",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "amh": {
@@ -883,6 +951,12 @@
     "status": "found",
     "total_jobs": 6
   },
+  "arizona-state-university": {
+    "jobs_seen": 1,
+    "name": "Arizona State University",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "arkhya-tech": {
     "jobs_seen": 9,
     "name": "Arkhya Tech Inc.",
@@ -942,6 +1016,14 @@
     "name": "Arrowstreet Capital, Limited Partnership",
     "probed_at": "2026-11-15",
     "status": "not_found"
+  },
+  "arta-finance": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/artafinance",
+    "name": "Arta Finance",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 7
   },
   "artech": {
     "jobs_seen": 2,
@@ -1069,6 +1151,12 @@
     "probed_at": "2026-11-16",
     "status": "not_found"
   },
+  "astro": {
+    "jobs_seen": 1,
+    "name": "ASTRO",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "astroforge": {
     "jobs_seen": 2,
     "name": "AstroForge",
@@ -1114,6 +1202,12 @@
     "probed_at": "2026-11-13",
     "status": "found",
     "total_jobs": 72
+  },
+  "atlanta-journal-constitution": {
+    "jobs_seen": 1,
+    "name": "Atlanta Journal-Constitution",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
   },
   "atlas-consulting": {
     "ats": "Ashby",
@@ -1192,6 +1286,12 @@
     "probed_at": "2026-11-20",
     "status": "found",
     "total_jobs": 6
+  },
+  "audacy": {
+    "jobs_seen": 1,
+    "name": "Audacy, Inc.",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
   },
   "audible": {
     "jobs_seen": 9,
@@ -1289,6 +1389,12 @@
     "status": "found",
     "total_jobs": 14
   },
+  "axiomatic_ai": {
+    "jobs_seen": 1,
+    "name": "Axiomatic_AI",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "axle-health": {
     "ats": "Ashby",
     "career_url": "https://jobs.ashbyhq.com/axle-health",
@@ -1313,6 +1419,12 @@
     "jobs_seen": 1,
     "name": "Ayo Semiconductor",
     "probed_at": "2026-11-26",
+    "status": "not_found"
+  },
+  "azx": {
+    "jobs_seen": 1,
+    "name": "AZX",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "azza-healthcare-agency": {
@@ -1381,6 +1493,12 @@
     "probed_at": "2026-11-15",
     "status": "not_found"
   },
+  "banfield-pet-hospital": {
+    "jobs_seen": 1,
+    "name": "Banfield Pet Hospital",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "bank-of-america": {
     "jobs_seen": 11,
     "name": "Bank of America",
@@ -1391,6 +1509,18 @@
     "jobs_seen": 2,
     "name": "Bank OZK",
     "probed_at": "2026-11-17",
+    "status": "not_found"
+  },
+  "bankunited": {
+    "jobs_seen": 1,
+    "name": "BankUnited",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
+  "bankwell": {
+    "jobs_seen": 1,
+    "name": "Bankwell",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "banyan-software": {
@@ -1555,6 +1685,12 @@
     "probed_at": "2026-11-25",
     "status": "not_found"
   },
+  "berkshire-hathaway-guard-insurance-companies": {
+    "jobs_seen": 1,
+    "name": "Berkshire Hathaway GUARD Insurance Companies",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "berlin-space-gmbh": {
     "jobs_seen": 1,
     "name": "Berlin Space Technologies GmbH",
@@ -1657,6 +1793,12 @@
     "status": "found",
     "total_jobs": 59
   },
+  "black-book": {
+    "jobs_seen": 1,
+    "name": "Black Book",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "blackbaud": {
     "jobs_seen": 1,
     "name": "Blackbaud",
@@ -1667,6 +1809,12 @@
     "jobs_seen": 2,
     "name": "BlackRock",
     "probed_at": "2026-11-15",
+    "status": "not_found"
+  },
+  "blexity": {
+    "jobs_seen": 1,
+    "name": "Blexity",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "blinkrx": {
@@ -1737,6 +1885,12 @@
     "status": "found",
     "total_jobs": 13
   },
+  "blujuniper": {
+    "jobs_seen": 1,
+    "name": "BluJuniper",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "bmo-us": {
     "jobs_seen": 2,
     "name": "BMO U.S.",
@@ -1747,6 +1901,12 @@
     "jobs_seen": 2,
     "name": "BN Associates Inc.",
     "probed_at": "2026-11-19",
+    "status": "not_found"
+  },
+  "bny": {
+    "jobs_seen": 1,
+    "name": "BNY",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "boarhog": {
@@ -1857,6 +2017,12 @@
     "probed_at": "2026-11-24",
     "status": "not_found"
   },
+  "brightstar-lottery": {
+    "jobs_seen": 1,
+    "name": "Brightstar Lottery",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "brivo": {
     "jobs_seen": 4,
     "name": "Brivo",
@@ -1887,6 +2053,12 @@
     "jobs_seen": 5,
     "name": "Brooksource",
     "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "brown-brothers-harriman": {
+    "jobs_seen": 2,
+    "name": "Brown Brothers Harriman",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "brunswick": {
@@ -2000,6 +2172,12 @@
     "probed_at": "2026-11-27",
     "status": "found",
     "total_jobs": 30
+  },
+  "canfield-scientific": {
+    "jobs_seen": 4,
+    "name": "Canfield Scientific",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
   },
   "cantor-fitzgerald": {
     "jobs_seen": 4,
@@ -2171,10 +2349,22 @@
     "probed_at": "2026-11-24",
     "status": "not_found"
   },
+  "cengage": {
+    "jobs_seen": 1,
+    "name": "Cengage",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "centh-ai": {
     "jobs_seen": 2,
     "name": "Centh AI",
     "probed_at": "2026-11-24",
+    "status": "not_found"
+  },
+  "central-insurance": {
+    "jobs_seen": 1,
+    "name": "Central Insurance",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "central-transport": {
@@ -2292,6 +2482,12 @@
     "probed_at": "2026-11-07",
     "status": "found",
     "total_jobs": 3
+  },
+  "charter-global": {
+    "jobs_seen": 1,
+    "name": "Charter Global",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
   },
   "chatsworth-products": {
     "jobs_seen": 2,
@@ -2549,6 +2745,12 @@
     "status": "found",
     "total_jobs": 17
   },
+  "cogeco": {
+    "jobs_seen": 1,
+    "name": "Cogeco Inc.",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "cogniify": {
     "jobs_seen": 4,
     "name": "Cogniify",
@@ -2725,6 +2927,12 @@
     "status": "found",
     "total_jobs": 38
   },
+  "confluent-an-ibm-company": {
+    "jobs_seen": 1,
+    "name": "Confluent, an IBM Company",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "connect-tech+talent": {
     "jobs_seen": 3,
     "name": "Connect Tech+Talent",
@@ -2768,6 +2976,12 @@
     "probed_at": "2026-11-24",
     "status": "found",
     "total_jobs": 13
+  },
+  "conventus": {
+    "jobs_seen": 1,
+    "name": "Conventus",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
   },
   "convera": {
     "ats": "Greenhouse",
@@ -2987,6 +3201,12 @@
     "probed_at": "2026-11-19",
     "status": "not_found"
   },
+  "csc": {
+    "jobs_seen": 1,
+    "name": "CSC",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "csl": {
     "jobs_seen": 2,
     "name": "CSL",
@@ -3064,6 +3284,14 @@
     "name": "D.A. Davidson Companies",
     "probed_at": "2026-11-25",
     "status": "not_found"
+  },
+  "dailypay": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/dailypay",
+    "name": "DailyPay",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 16
   },
   "daimler-truck-north-america": {
     "jobs_seen": 1,
@@ -3277,6 +3505,12 @@
     "probed_at": "2026-11-12",
     "status": "not_found"
   },
+  "develocity": {
+    "jobs_seen": 2,
+    "name": "Develocity",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "dewinter": {
     "jobs_seen": 2,
     "name": "DeWinter Group",
@@ -3433,6 +3667,14 @@
     "status": "found",
     "total_jobs": 439
   },
+  "doppel": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/doppel",
+    "name": "Doppel",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 24
+  },
   "doubleverify": {
     "jobs_seen": 3,
     "name": "DoubleVerify",
@@ -3539,6 +3781,12 @@
     "jobs_seen": 3,
     "name": "E-Space",
     "probed_at": "2026-11-15",
+    "status": "not_found"
+  },
+  "eagle-x": {
+    "jobs_seen": 1,
+    "name": "Eagle-X",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "early-warning": {
@@ -3741,6 +3989,12 @@
     "probed_at": "2026-11-18",
     "status": "not_found"
   },
+  "encloud-services": {
+    "jobs_seen": 1,
+    "name": "eNcloud Services LLC",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "enexus-global": {
     "jobs_seen": 1,
     "name": "Enexus Global Inc.",
@@ -3896,6 +4150,12 @@
     "probed_at": "2026-11-10",
     "status": "found",
     "total_jobs": 161
+  },
+  "equinox": {
+    "jobs_seen": 2,
+    "name": "Equinox",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
   },
   "eraneos": {
     "jobs_seen": 1,
@@ -4136,6 +4396,14 @@
     "name": "FANTOM CORPORATION",
     "probed_at": "2026-11-18",
     "status": "not_found"
+  },
+  "faropoint": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/faropoint",
+    "name": "Faropoint",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 14
   },
   "farther": {
     "jobs_seen": 2,
@@ -4427,6 +4695,12 @@
     "probed_at": "2026-11-25",
     "status": "not_found"
   },
+  "fortegra": {
+    "jobs_seen": 1,
+    "name": "Fortegra",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "fortinet": {
     "jobs_seen": 3,
     "name": "Fortinet",
@@ -4465,6 +4739,12 @@
     "jobs_seen": 1,
     "name": "Foxconn Interconnect Technology (FIT)",
     "probed_at": "2026-11-21",
+    "status": "not_found"
+  },
+  "foxit": {
+    "jobs_seen": 1,
+    "name": "Foxit",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "fpc-of-savannah": {
@@ -4529,6 +4809,12 @@
     "jobs_seen": 2,
     "name": "Freeport-McMoRan",
     "probed_at": "2026-11-16",
+    "status": "not_found"
+  },
+  "froedtert-thedacare": {
+    "jobs_seen": 1,
+    "name": "Froedtert ThedaCare",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "fruition-us": {
@@ -4754,6 +5040,14 @@
     "name": "Georgia Tech Research Institute",
     "probed_at": "2026-11-10",
     "status": "not_found"
+  },
+  "gigs": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/gigs",
+    "name": "Gigs",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 41
   },
   "github": {
     "jobs_seen": 5,
@@ -5129,6 +5423,12 @@
     "probed_at": "2026-11-19",
     "status": "not_found"
   },
+  "harris-&-harris": {
+    "jobs_seen": 1,
+    "name": "Harris & Harris",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "harris-computer": {
     "jobs_seen": 2,
     "name": "Harris Computer",
@@ -5141,10 +5441,22 @@
     "probed_at": "2026-11-12",
     "status": "not_found"
   },
+  "hartford-healthcare": {
+    "jobs_seen": 1,
+    "name": "Hartford HealthCare",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "harvard-central-administration-cadm-talent-acquisition": {
     "jobs_seen": 1,
     "name": "Harvard Central Administration (CADM) Talent Acquisition",
     "probed_at": "2026-11-25",
+    "status": "not_found"
+  },
+  "harvard-kennedy-school": {
+    "jobs_seen": 1,
+    "name": "Harvard Kennedy School",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "harvard-maintenance": {
@@ -5259,6 +5571,12 @@
     "probed_at": "2026-11-13",
     "status": "not_found"
   },
+  "hfd": {
+    "jobs_seen": 1,
+    "name": "HFD",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "hifi": {
     "ats": "Ashby",
     "career_url": "https://jobs.ashbyhq.com/hifi",
@@ -5301,6 +5619,12 @@
     "jobs_seen": 3,
     "name": "HireArt",
     "probed_at": "2026-11-12",
+    "status": "not_found"
+  },
+  "hirenexus": {
+    "jobs_seen": 1,
+    "name": "hireneXus",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "hitachi-energy": {
@@ -5379,6 +5703,12 @@
     "probed_at": "2026-11-10",
     "status": "not_found"
   },
+  "hruckus": {
+    "jobs_seen": 3,
+    "name": "HRUCKUS",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "htp-consulting-services": {
     "jobs_seen": 2,
     "name": "HTP Consulting Services",
@@ -5395,6 +5725,12 @@
     "jobs_seen": 2,
     "name": "hum.ai",
     "probed_at": "2026-11-18",
+    "status": "not_found"
+  },
+  "humanfield-executive-and-specialist-search": {
+    "jobs_seen": 1,
+    "name": "HumanField Executive and Specialist Search",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "humanoid": {
@@ -5445,6 +5781,12 @@
     "jobs_seen": 1,
     "name": "Hyundai AutoEver America",
     "probed_at": "2026-11-24",
+    "status": "not_found"
+  },
+  "iat-insurance": {
+    "jobs_seen": 2,
+    "name": "IAT Insurance Group",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "ibm": {
@@ -5729,6 +6071,12 @@
     "probed_at": "2026-11-23",
     "status": "not_found"
   },
+  "inspiration-global": {
+    "jobs_seen": 1,
+    "name": "Inspiration Global",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "inspirit365": {
     "jobs_seen": 1,
     "name": "Inspirit365",
@@ -5807,6 +6155,12 @@
     "jobs_seen": 1,
     "name": "InterDigital, Inc.",
     "probed_at": "2026-11-23",
+    "status": "not_found"
+  },
+  "interfaceai": {
+    "jobs_seen": 2,
+    "name": "interface.ai",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "intracruit-solutions": {
@@ -6007,6 +6361,12 @@
     "probed_at": "2026-11-13",
     "status": "not_found"
   },
+  "jerrni": {
+    "jobs_seen": 1,
+    "name": "JERRNI",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "jm-family-enterprises": {
     "jobs_seen": 4,
     "name": "JM Family Enterprises, Inc.",
@@ -6087,6 +6447,12 @@
     "probed_at": "2026-11-07",
     "status": "not_found"
   },
+  "jst": {
+    "jobs_seen": 1,
+    "name": "JST",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "jt4": {
     "jobs_seen": 1,
     "name": "JT4",
@@ -6155,6 +6521,12 @@
     "jobs_seen": 3,
     "name": "Karman Space & Defense",
     "probed_at": "2026-11-12",
+    "status": "not_found"
+  },
+  "karsun-solutions": {
+    "jobs_seen": 1,
+    "name": "Karsun Solutions",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "kaseya": {
@@ -6243,6 +6615,14 @@
     "probed_at": "2026-11-09",
     "status": "not_found"
   },
+  "keystone": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/keystone",
+    "name": "Keystone",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 20
+  },
   "kharon": {
     "jobs_seen": 5,
     "name": "Kharon",
@@ -6262,6 +6642,14 @@
     "name": "Kiewit",
     "probed_at": "2026-11-27",
     "status": "not_found"
+  },
+  "kikoff": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/kikoff",
+    "name": "Kikoff",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 36
   },
   "kimball-midwest": {
     "jobs_seen": 2,
@@ -6425,6 +6813,12 @@
     "probed_at": "2026-11-24",
     "status": "not_found"
   },
+  "laureate-institute-for-brain-research": {
+    "jobs_seen": 1,
+    "name": "Laureate Institute for Brain Research",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "lawrence-harvey": {
     "jobs_seen": 2,
     "name": "Lawrence Harvey",
@@ -6515,6 +6909,12 @@
     "probed_at": "2026-11-09",
     "status": "not_found"
   },
+  "les-schwab-tire-centers": {
+    "jobs_seen": 1,
+    "name": "Les Schwab Tire Centers",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "lewis-brisbois": {
     "jobs_seen": 3,
     "name": "Lewis Brisbois",
@@ -6550,6 +6950,14 @@
     "name": "Liberty Personnel Services, Inc.",
     "probed_at": "2026-11-26",
     "status": "not_found"
+  },
+  "light": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/light",
+    "name": "Light",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 8
   },
   "lightfeather": {
     "jobs_seen": 4,
@@ -6659,6 +7067,12 @@
     "jobs_seen": 1,
     "name": "Longbridge Singapore",
     "probed_at": "2026-11-23",
+    "status": "not_found"
+  },
+  "loopme": {
+    "jobs_seen": 1,
+    "name": "LoopMe",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "lorven": {
@@ -6801,6 +7215,14 @@
     "probed_at": "2026-11-21",
     "status": "not_found"
   },
+  "mach-industries": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/machindustries",
+    "name": "Mach Industries",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 189
+  },
   "machina-cognita": {
     "ats": "Ashby",
     "career_url": "https://jobs.ashbyhq.com/machinacognita",
@@ -6827,6 +7249,12 @@
     "jobs_seen": 1,
     "name": "Macmillan",
     "probed_at": "2026-11-26",
+    "status": "not_found"
+  },
+  "macnica-americas": {
+    "jobs_seen": 1,
+    "name": "Macnica Americas",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "macquarie": {
@@ -7125,6 +7553,12 @@
     "probed_at": "2026-11-10",
     "status": "not_found"
   },
+  "metroplushealth": {
+    "jobs_seen": 1,
+    "name": "MetroPlusHealth",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "metropolitan-transportation-authority": {
     "jobs_seen": 2,
     "name": "Metropolitan Transportation Authority",
@@ -7347,6 +7781,12 @@
     "probed_at": "2026-11-20",
     "status": "not_found"
   },
+  "mogel": {
+    "jobs_seen": 2,
+    "name": "MOGEL",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "mohegan-sun": {
     "jobs_seen": 2,
     "name": "Mohegan Sun",
@@ -7523,6 +7963,12 @@
     "probed_at": "2026-11-25",
     "status": "not_found"
   },
+  "msoocast": {
+    "jobs_seen": 1,
+    "name": "MSOOCast",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "mtech-systems": {
     "jobs_seen": 4,
     "name": "MTech Systems",
@@ -7571,6 +8017,12 @@
     "jobs_seen": 1,
     "name": "NAC",
     "probed_at": "2026-11-21",
+    "status": "not_found"
+  },
+  "nakupuna-companies": {
+    "jobs_seen": 1,
+    "name": "Nakupuna Companies",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "nam-info": {
@@ -7889,6 +8341,12 @@
     "probed_at": "2026-11-08",
     "status": "not_found"
   },
+  "nordson": {
+    "jobs_seen": 2,
+    "name": "Nordson Corporation",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "norsk-helsenett-sf": {
     "jobs_seen": 2,
     "name": "Norsk helsenett SF",
@@ -7905,6 +8363,12 @@
     "jobs_seen": 2,
     "name": "North Texas Tollway Authority",
     "probed_at": "2026-11-16",
+    "status": "not_found"
+  },
+  "northern-trust": {
+    "jobs_seen": 1,
+    "name": "Northern Trust",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "northmark-strategies": {
@@ -7935,6 +8399,12 @@
     "jobs_seen": 2,
     "name": "Norwegian Cruise Line Holdings Ltd.",
     "probed_at": "2026-11-26",
+    "status": "not_found"
+  },
+  "nothing": {
+    "jobs_seen": 1,
+    "name": "Nothing",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "notified": {
@@ -8591,6 +9061,14 @@
     "probed_at": "2026-11-10",
     "status": "not_found"
   },
+  "physicsx": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/physicsx",
+    "name": "PhysicsX",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 44
+  },
   "picogrid": {
     "ats": "Ashby",
     "career_url": "https://jobs.ashbyhq.com/picogrid",
@@ -8713,6 +9191,12 @@
     "status": "found",
     "total_jobs": 2000
   },
+  "podium": {
+    "jobs_seen": 3,
+    "name": "Podium",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "pointclickcare": {
     "ats": "Lever",
     "career_url": "https://jobs.lever.co/pointclickcare",
@@ -8775,6 +9259,18 @@
     "jobs_seen": 2,
     "name": "Precision Technologies",
     "probed_at": "2026-11-15",
+    "status": "not_found"
+  },
+  "premera-blue-cross": {
+    "jobs_seen": 1,
+    "name": "Premera Blue Cross",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
+  "premier-global-links": {
+    "jobs_seen": 2,
+    "name": "Premier Global Links LLC",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "presto-phoenix": {
@@ -8851,6 +9347,12 @@
     "jobs_seen": 6,
     "name": "Procore Technologies",
     "probed_at": "2026-11-09",
+    "status": "not_found"
+  },
+  "procter-&-gamble": {
+    "jobs_seen": 2,
+    "name": "Procter & Gamble",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "programmingcom": {
@@ -9469,6 +9971,12 @@
     "probed_at": "2026-11-26",
     "status": "not_found"
   },
+  "riva-solutions": {
+    "jobs_seen": 1,
+    "name": "RIVA Solutions, Inc.",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "riverlane": {
     "ats": "Greenhouse",
     "career_url": "https://job-boards.greenhouse.io/riverlane",
@@ -9863,6 +10371,12 @@
     "probed_at": "2026-11-13",
     "status": "not_found"
   },
+  "scci": {
+    "jobs_seen": 1,
+    "name": "SCCI",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "schmalz": {
     "jobs_seen": 3,
     "name": "Schmalz",
@@ -10128,6 +10642,14 @@
     "name": "Siemens Healthineers",
     "probed_at": "2026-11-10",
     "status": "not_found"
+  },
+  "siepe": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/siepe",
+    "name": "Siepe",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 9
   },
   "sierra-nevada": {
     "ats": "Ashby",
@@ -10537,6 +11059,14 @@
     "probed_at": "2026-11-14",
     "status": "not_found"
   },
+  "sovera": {
+    "ats": "Ashby",
+    "career_url": "https://jobs.ashbyhq.com/sovera",
+    "name": "Sovera Corporation",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 7
+  },
   "space-systems-integration": {
     "ats": "Greenhouse",
     "career_url": "https://job-boards.greenhouse.io/space",
@@ -10578,6 +11108,12 @@
     "probed_at": "2026-11-19",
     "status": "found",
     "total_jobs": 28
+  },
+  "spot-freight": {
+    "jobs_seen": 1,
+    "name": "Spot Freight",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
   },
   "spring-health": {
     "jobs_seen": 2,
@@ -10735,6 +11271,18 @@
     "probed_at": "2026-11-11",
     "status": "not_found"
   },
+  "steelcase": {
+    "jobs_seen": 1,
+    "name": "Steelcase",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
+  "stefanini": {
+    "jobs_seen": 1,
+    "name": "Stefanini Group",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "stellantis": {
     "jobs_seen": 4,
     "name": "Stellantis",
@@ -10758,6 +11306,14 @@
     "name": "Stevenson Search Partners",
     "probed_at": "2026-11-26",
     "status": "not_found"
+  },
+  "sti": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/sti",
+    "name": "STI",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 6
   },
   "stonegate": {
     "jobs_seen": 1,
@@ -11419,6 +11975,12 @@
     "probed_at": "2026-11-20",
     "status": "not_found"
   },
+  "thats-no-moon": {
+    "jobs_seen": 1,
+    "name": "That's No Moon",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "the-aerospace": {
     "jobs_seen": 11,
     "name": "The Aerospace Corporation",
@@ -11519,6 +12081,12 @@
     "jobs_seen": 11,
     "name": "The Marlin Alliance, Inc.",
     "probed_at": "2026-11-08",
+    "status": "not_found"
+  },
+  "the-rework": {
+    "jobs_seen": 1,
+    "name": "The ReWork Group",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "the-reynolds-and-reynolds-company": {
@@ -11825,6 +12393,12 @@
     "status": "found",
     "total_jobs": 1
   },
+  "trisura": {
+    "jobs_seen": 1,
+    "name": "Trisura",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "triumph": {
     "jobs_seen": 2,
     "name": "Triumph",
@@ -12037,6 +12611,14 @@
     "probed_at": "2026-11-07",
     "status": "not_found"
   },
+  "universal-music": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/universal",
+    "name": "Universal Music Group",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 4
+  },
   "university-of-california-san-francisco": {
     "jobs_seen": 1,
     "name": "University of California, San Francisco",
@@ -12095,6 +12677,12 @@
     "jobs_seen": 5,
     "name": "UPS",
     "probed_at": "2026-11-10",
+    "status": "not_found"
+  },
+  "uptec": {
+    "jobs_seen": 1,
+    "name": "Uptec",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "urban-sky": {
@@ -12242,6 +12830,14 @@
     "probed_at": "2026-11-17",
     "status": "found",
     "total_jobs": 15
+  },
+  "vatn-systems": {
+    "ats": "Greenhouse",
+    "career_url": "https://job-boards.greenhouse.io/vatnsystems",
+    "name": "Vatn Systems",
+    "probed_at": "2026-11-28",
+    "status": "found",
+    "total_jobs": 20
   },
   "veho": {
     "jobs_seen": 1,
@@ -12605,6 +13201,12 @@
     "probed_at": "2026-11-16",
     "status": "not_found"
   },
+  "wakely-consulting": {
+    "jobs_seen": 1,
+    "name": "Wakely Consulting Group",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "walgreens": {
     "jobs_seen": 1,
     "name": "Walgreens",
@@ -12661,10 +13263,22 @@
     "status": "found",
     "total_jobs": 6
   },
+  "wash": {
+    "jobs_seen": 1,
+    "name": "WASH",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "wave-talent": {
     "jobs_seen": 1,
     "name": "Wave Talent",
     "probed_at": "2026-11-20",
+    "status": "not_found"
+  },
+  "wawa": {
+    "jobs_seen": 1,
+    "name": "Wawa, Inc.",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "wayfair": {
@@ -12831,6 +13445,12 @@
     "probed_at": "2026-11-21",
     "status": "not_found"
   },
+  "winaxis": {
+    "jobs_seen": 1,
+    "name": "Winaxis LLC",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "wingstop-restaurants": {
     "jobs_seen": 2,
     "name": "Wingstop Restaurants Inc.",
@@ -12913,6 +13533,12 @@
     "probed_at": "2026-11-24",
     "status": "not_found"
   },
+  "wooxy": {
+    "jobs_seen": 1,
+    "name": "Wooxy",
+    "probed_at": "2026-11-28",
+    "status": "not_found"
+  },
   "workgenius": {
     "jobs_seen": 2,
     "name": "WorkGenius Group",
@@ -12929,6 +13555,12 @@
     "jobs_seen": 4,
     "name": "World Wide Technology",
     "probed_at": "2026-11-10",
+    "status": "not_found"
+  },
+  "worldscape": {
+    "jobs_seen": 2,
+    "name": "Worldscape",
+    "probed_at": "2026-11-28",
     "status": "not_found"
   },
   "worldwide-express": {
